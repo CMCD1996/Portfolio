@@ -1,0 +1,26 @@
+# _config.yml
+
+# title: "Jekyll Actions Guide"
+# description: "Setting up the Initial"
+
+# url: "https://CMCD1996.github.io"
+# baseurl: "/jekyll-actions-quickstart"
+
+# github_username: CMCD1996
+
+# markdown: kramdown
+# theme: minima
+# plugins:
+#   - jekyll-timeago
+
+title: Road to Redemption
+author: Connor McDowall
+email: connormcdowall@gmail.com
+description: Description of Connor McDowall
+twitter_username: jekyllrb
+instagram_username: ConnorMcDowall
+github_username:  CMCD1996
+
+# Build settings
+markdown: kramdown
+theme: minima
