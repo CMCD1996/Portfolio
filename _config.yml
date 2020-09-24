@@ -21,5 +21,4 @@ twitter_username: ConnorMcDowall
 github_username:  CMCD1996
 
 # Build settings
-markdown: kramdown-parser-gfm
 theme: jekyll-theme-minimal
