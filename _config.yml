@@ -22,4 +22,4 @@ github_username:  CMCD1996
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: jekyll-theme-minimal
