@@ -15,4 +15,4 @@ This pages content will include:
 
 This is great.
 
-![Engineering Science is the combination uses mathematical modelling, statistics and computer programming to solve complex problems](/assets/images/Code.jpg" "Code")
+![Engineering Science is the combination uses mathematical modelling, statistics and computer programming to solve complex problems](/Users/connor/Code.jpg" "Code")
