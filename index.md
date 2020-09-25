@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Home
-usemathjax: true
 ---
 
 This is the landing pages for the Portfolio Website
@@ -19,3 +18,5 @@ This is great.
 ![Engineering Science](/assets/images/Code.jpeg)
 
 $$E=mc^2$$
+
+$$\sum_{n=1}^{N}a_nb_nc_n$$
