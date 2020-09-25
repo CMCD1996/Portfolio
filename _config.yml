@@ -22,4 +22,6 @@ github_username:  CMCD1996
 
 # Build settings
 markdown: kramdown
+mathjax: true
 theme: minima
+
