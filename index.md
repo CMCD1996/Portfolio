@@ -1,14 +1,15 @@
 ---
 layout: default
-title: Index
+title: Home
 ---
 
-This is an about page about this awesome site.
-Hope you love it!
+This is the landing pages for the Portfolio Website
 
-Reasons:
-- its great.
-- its a test.
+This pages content will include:
+- Projects
+- Career Goals
+- Engineering Science Projects
+- Blog Posts
 
 ## Other thoughts
 
