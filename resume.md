@@ -6,15 +6,15 @@ title: Resume
 
 ## **Personal details**
 
-* Degree (Undergraduate): Bachelor of Commerce (Finance) / Bachelor of Engineering (Honours, Engineering Science)
+* Bachelor of Commerce (Finance) / Bachelor of Engineering (Honours, Engineering Science)
 
-* University (Undergraduate): University of Auckland, **GPA 8.1**
+* University of Auckland, **GPA 8.1**
 
-* High School: Hutt International Boys’ School,  NCEA Levels 1, 2 and 3 with Excellence
+* Hutt International Boys’ School,  NCEA Levels 1, 2 and 3 with Excellence
 
-* Email: connormcdowall@gmail.com 
+* connormcdowall@gmail.com 
 
-* Phone: +64 27 892 3821 (NZ)
+* +64 27 892 3821 (NZ)
 
 * Citizenship: Canada, New Zealand
 
