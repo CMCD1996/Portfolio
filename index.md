@@ -1,6 +1,5 @@
 ---
 layout: default
-title: Home
 ---
 
 This is the landing pages for the Portfolio Website
