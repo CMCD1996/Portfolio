@@ -2,7 +2,6 @@
 layout: post-index
 title: Blog
 ---
-
 This page details interested blog and summaries of articles I enjoy.
 
 # Begin the blog entries
