@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Blog
 ---
 
@@ -9,4 +9,4 @@ This page details interested blog and summaries of articles I enjoy.
 
 The following blog entry is an example of the text formats used for markdown: [Formatting-Examples][1].
 
-[1]: <_site/2014/01/01/text-formatting-examples.html> "Formatting-Examples"
+[1]: </_site/2014/01/01/text-formatting-examples.html> "Formatting-Examples"
