@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: encrypted
 title: "Text Formatting Examples"
 ---
 

@@ -89,13 +89,13 @@ function encrypt(password) {
 }
 
 gulp.task('firewall:encrypt', () => {
-  return gulp.src('_protected/*.*')
-    .pipe(encrypt())
-    .pipe(gulp.dest('_posts'));
+  return gulp.src('/_protected/')
+    .pipe(encrypt('password'))
+    .pipe(gulp.dest('_post/'));
 });
 
 gulp.task('firewall:watch', () => {
-  gulp.watch('_protected/*.*', gulp.series('firewall:encrypt'));
+  gulp.watch('/_protected/', gulp.series('firewall:encrypt'));
 });
 
 gulp.task('firewall', gulp.series('firewall:encrypt', 'firewall:watch',() => {}));

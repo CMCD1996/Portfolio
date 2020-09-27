@@ -2,8 +2,6 @@
 layout: default
 ---
 
-# Welcome
-
 My interests lie at the intersection of business, finance, and technology.
 
 Technology will continue to play a pivotal role in addressing the most pressing issues facing society. I am interested in utilising technology, venture capital and private equity to address these issues. In particular, I focus on using my skills to address the energy transition, infrastructure needs, financial illiteracy and gender inequality. 
