@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Goals
+title: Guide
 ---
 
 This page details my Academic and Professional Goals.
