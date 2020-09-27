@@ -1,10 +1,13 @@
 ---
 layout: default
 title: Guide
-key: "key"
 ---
 
 This page details my Academic and Professional Goals. Goal setting is incredible important.
+
+This if you can create an image next to another item.
+
+![Engineering Science 1](/assets/images/Code.jpeg)| This is a comment to accompany the image
 
 Code 1                                            | Code 2                  
 :------------------------------------------------:|:------------------------------------------------:
