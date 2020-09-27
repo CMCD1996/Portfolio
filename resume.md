@@ -4,6 +4,8 @@ title: Resume
 ---
 # **Resume**
 
+/assets/files/Connor%20Robert%20McDowall%20Full%20Resume.pdf
+
 ## **Personal details**
 
 * Bachelor of Commerce (Finance) / Bachelor of Engineering (Honours, Engineering Science)

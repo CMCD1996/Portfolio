@@ -2,6 +2,8 @@
 layout: default
 ---
 
+**Under Construction**
+
 Hello and welcome to my website.
 
 I completed a Bachelor of Commerce / Bachelor of Engineering (Honours) degree at the University of Auckland (2015 - 2020), majoring in Finance and specialising in Engineering Science.
