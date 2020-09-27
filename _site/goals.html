@@ -36,7 +36,31 @@ config=TeX-AMS-MML_HTMLorMML"></script>
 </header>
 <main class="page-content" aria-label="Content">
       <div class="wrapper">
-        <p>This page details my Academic and Professional Goals. Goal setting is incredible important.</p>
+        <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
+
+  <header class="post-header">
+    <h1 class="post-title p-name" itemprop="name headline">Guide</h1>
+    <p class="post-meta">
+      <time class="dt-published" datetime="" itemprop="datePublished">
+      </time></p>
+  </header>
+
+  <div class="post-content e-content" itemprop="articleBody">  
+
+    <div id ="secure-container" style="display: none;">
+        <div id ="0db9774b86aa5a219a0939cdd5c5aa08">
+          <p>This page details my Academic and Professional Goals. Goal setting is incredible important.</p>
+
+<p>This if you can create an image next to another item.</p>
+
+<table>
+  <tbody>
+    <tr>
+      <td><img src="/assets/images/Code.jpeg" alt="Engineering Science 1" /></td>
+      <td>This is a comment to accompany the image. Lets test how Lets test howLets test howLets test howLets test howLets test howLets test howLets test howLets test howLets test howLets test how</td>
+    </tr>
+  </tbody>
+</table>
 
 <table>
   <thead>
@@ -74,6 +98,53 @@ config=TeX-AMS-MML_HTMLorMML"></script>
 
 \[\sum_{n=1}^{N}a_nb_nc_n\]
 
+        </div>
+    </div>
+
+    <div id="decryptor">
+      Please enter a password to view this content.<br/><br/>
+      <input id="key" type="text" value="">
+      <input id="decrypt" type="button" value="Submit">
+    </div>
+  </div><a class="u-url" href="/goals.html" hidden></a>
+</article>
+
+<!-- post decryption -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script type="text/javascript" src="https://cdn.rawgit.com/ricmoo/aes-js/e27b99df/index.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/js-sha256/0.9.0/sha256.js"></script>
+<script>
+  var storedEncrypted = '';
+  function decrypt(key) {
+    var text = storedEncrypted;
+    var keyArray = sha256.update(key + _gj.salt).array();
+    var iv = aesjs.utils.hex.toBytes(_gj.iv);
+    var encryptedBytes = aesjs.utils.hex.toBytes(text);
+    var aesCbc = new aesjs.ModeOfOperation.cbc(keyArray, iv);
+    var decryptedBytes = aesCbc.decrypt(encryptedBytes);
+    var final = aesjs.utils.utf8.fromBytes(decryptedBytes);
+
+    if (final.includes("0db9774b86aa5a219a0939cdd5c5aa08")){
+      var text = $($.parseHTML(final)).filter('#0db9774b86aa5a219a0939cdd5c5aa08').html();
+      $('#secure-container').html(text);
+      $('#secure-container').show();
+      $('#decryptor').hide(); 
+    }else{
+      // invalid key
+    }
+    
+       
+  }    
+  $(document).ready(function() {
+    $( "#decrypt" ).click(function() {
+      storedEncrypted = $('#secure-container').text().trim();
+      key =  $('#key').val();
+      decrypt(key);
+    });
+  });   
+</script>
+<div id="crypt_params"></div>
+<!-- end of post decryption -->
       </div>
     </main><footer class="site-footer h-card">
   <data class="u-url" href="/"></data>
