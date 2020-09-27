@@ -2,15 +2,11 @@
 layout: default
 ---
 
-Welcome to my personal website.
+# Welcome
 
-My interests lie at the intersection of business, finance, and technology. 
+My interests lie at the intersection of business, finance, and technology.
 
-I have experience in infrastructure, corporate finance, consulting and energy. 
-
-I strive to solve some of the most pressing issues facing society.
-
-Technology will continue to play a pivotal role in addressing these issues. I am interested in utilising technology to address the energy transition, poor infrastructure, racial and gender inequality and financial illiteracy with Venture Capital and Private Equity. 
+Technology will continue to play a pivotal role in addressing the most pressing issues facing society. I am interested in utilising technology, venture capital and private equity to address these issues. In particular, I focus on using my skills to address the energy transition, infrastructure needs, financial illiteracy and gender inequality. 
 
 I completed a Bachelor of Commerce / Bachelor of Engineering (Honours) degree at the University of Auckland (2015 - 2020), majoring in Finance and specialising in Engineering Science.
 

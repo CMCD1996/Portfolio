@@ -1,6 +1,7 @@
 ---
 layout: encrypted
 title: Goals
+password: ironman_nz
 ---
 
 This page details my Academic and Professional Goals.
