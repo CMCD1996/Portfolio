@@ -1,6 +1,7 @@
 ---
 layout: post-index
 title: Blog
+key: "my_secret_key"
 ---
 This page details interested blog and summaries of articles I enjoy.
 

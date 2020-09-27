@@ -2,7 +2,6 @@
 
 var gulp          = require('gulp');
 var gutil         = require('gulp-util');
-
 var cryptojs      = require('crypto-js');
 var marked        = require('marked');
 var FileSystem    = require('fs');
@@ -89,13 +88,13 @@ function encrypt(password) {
 }
 
 gulp.task('firewall:encrypt', () => {
-  return gulp.src('/_protected/')
-    .pipe(encrypt('password'))
-    .pipe(gulp.dest('_post/'));
+  return gulp.src('/Users/connor/Google Drive/Documents/Professional/Projects/Portfolio/_protected')
+    .pipe(encrypt('Password'))
+    .pipe(gulp.dest('/Users/connor/Google Drive/Documents/Professional/Projects/Portfolio/_site'));
 });
 
 gulp.task('firewall:watch', () => {
-  gulp.watch('/_protected/', gulp.series('firewall:encrypt'));
+  gulp.watch('/Users/connor/Google Drive/Documents/Professional/Projects/Portfolio/_protected', gulp.series('firewall:encrypt'));
 });
 
 gulp.task('firewall', gulp.series('firewall:encrypt', 'firewall:watch',() => {}));

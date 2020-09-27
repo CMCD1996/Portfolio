@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: secret_post
 title: Guide
 ---
 
