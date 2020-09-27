@@ -1,5 +1,5 @@
 ---
-layout: encrypted
+layout: post
 title: "Getting Started"
 ---
 

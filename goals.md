@@ -1,9 +1,10 @@
 ---
-layout: secret_post
+layout: default
 title: Guide
+key: "key"
 ---
 
-This page details my Academic and Professional Goals.
+This page details my Academic and Professional Goals. Goal setting is incredible important.
 
 Code 1                                            | Code 2                  
 :------------------------------------------------:|:------------------------------------------------:
