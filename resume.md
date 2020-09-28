@@ -4,7 +4,7 @@ title: Resume
 ---
 # **Resume**
 
-My resume includes personal details, employment history, leadership and service, academic achievements and awards, projects, skills and extra-curriculars.
+My resume includes personal details, employment history, leadership, service, academic achievements, awards, projects, skills and extra-curriculars.
 
 You can review my resume below or download a copy [here]({{ site.url }}/downloads/resume.pdf)
 
