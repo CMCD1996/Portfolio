@@ -4,13 +4,9 @@ title: Resume
 ---
 # **Resume**
 
-you can download my resume [here]({{ site.url }}/_site/assets/files/resume.pdf)
+My resume includes personal details, employment history, leadership and service, academic achievements and awards, projects, skills and extra-curriculars.
 
-you can download my resume [here]({{ site.url }}/assets/files/resume.pdf)
-
-
-You can download a copy of my cv here[Download][1]
-[1]:{{ site.url }}/_site/assets/files/resume.pdf
+You can review my resume below or download a copy [here]({{ site.url }}/downloads/resume.pdf)
 
 ## **Personal details**
 
