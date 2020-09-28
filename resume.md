@@ -4,7 +4,8 @@ title: Resume
 ---
 # **Resume**
 
-/assets/files/Connor%20Robert%20McDowall%20Full%20Resume.pdf
+You can download a copy of my resume here [Resume][1]
+[1]:{{ site.url }}/assets/files/Connor%20Robert%20McDowall%20Full%20Resume.pdf
 
 ## **Personal details**
 
