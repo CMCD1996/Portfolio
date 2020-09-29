@@ -5,9 +5,13 @@ title: Guide
 key: "abc"
 ---
 
-This page details my Academic and Professional Goals. Goal setting is incredible important.
+This pages details my professional, academic and personal goals.
 
-This if you can create an image next to another item.
+## Requirements for a job
+* Combination of technical and commercial applications
+* Ideally a role that combines finance, business and technology
+* Challenging work
+* Work with subject matter experts,
 
 :------------------------------------------------:|:-----------------------------------------------------------------------------:
 ![Engineering Science 1](/assets/images/Code.jpeg)| This is a comment to accompany the image. Lets test how Lets test howLets test howLets test howLets test howLets test howLets test howLets test howLets test howLets test howLets test how
