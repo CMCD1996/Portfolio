@@ -5,16 +5,36 @@ title: Guide
 key: "abc"
 ---
 
-This pages details my professional, academic and personal goals.
+This pages details my professional, academic and personal goals. 
+
+Disclaimer: These are subject to change as I build my career.
 
 ## Career/Job Requirements
+
+Prior experience led me to be most satisfied when the following requirements are met.
+
 * Great personal and professional development opportunities
+* Supportive and collaborative working environments
+* High degrees of autonomy and an expectation to perform
 * A combination of technical and commercial practices/applications
 * A combination of finance, business and technology
-* Very challenging work with the option to tackle complex problems
-* Work with subject matter experts/very intelligent people
+* Very challenging work with the optionality to tackle ambiguous, complex problems
+* Work with subject matter experts
 
-## Undergraduate Requirements
+## Short-term career (2-5 year timeline)
+
+## Graduate education
+
+### Graduate degrees of interest
+
+### Schools of interest
+
+### Academic scholarships
+
+## Long-term career
+
+## Professional qualifications
+
 
 :------------------------------------------------:|:-----------------------------------------------------------------------------:
 ![Engineering Science 1](/assets/images/Code.jpeg)| This is a comment to accompany the image. Lets test how Lets test howLets test howLets test howLets test howLets test howLets test howLets test howLets test howLets test howLets test how
