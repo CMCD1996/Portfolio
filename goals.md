@@ -84,6 +84,7 @@ Prior experience led me to be most satisfied when the following requirements are
 
 * CFA accreditation
 * Companies directors courses (Jurisdiction dependent)
+* Professional engineering accreditation (Jurisdiction dependent)
 
 
 
