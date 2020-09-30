@@ -1,6 +1,6 @@
 ---
-# layout: secret_post
-layout: default
+layout: secret_post
+# layout: default
 title: Guide
 key: "abc"
 ---
