@@ -29,11 +29,11 @@ Blade profile aerodynamics were optimised through the maximisation of the power 
 * Power Available: $$\frac{1}{2}\rho \pi R^2 V_{u}^{3}$$
 * Power Co-efficient: $$C_P = \frac{P_E}{P_T}$$
 
-**Select the image below to review the report**
+**Click the image below to review the report**
 
-[![Wind Turbine Project](/assets/images/Turbine.jpeg)]({{ site.url }}/downloads/turbine.pdf)
+[![Wind Turbine Project](/assets/images/Turbine.jpg)]({{ site.url }}/downloads/turbine.pdf)
 
-## Project 2
+## 
 
 ## Project 3
 
