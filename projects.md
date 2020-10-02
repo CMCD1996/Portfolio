@@ -63,7 +63,7 @@ I represented the University of Auckland Case Programme, competing against 20 te
 I completed several assignments to improve coding skills in Python, C++, MatLab, SQL, VBA, AMPL and Git.
 These assignments covered Eigen problems, Finite Differences, Non Linear Equations, Ordinary Differential Equations, Partial Differential Equations (PDE's) and Databases. The following examples include some of 
 
-Application of finite difference approximations to track heat flow modeled using the following PDE:
+Application of finite difference approximations to track heat flow. This behaviour is modelled using the following PDE:
 
 $$\frac{\partial^{2}u }{\partial x^{2} } + \frac{\partial^{2}u }{\partial y^{2} } - \alpha \frac{\partial u }{\partial t } = 0 $$
 
@@ -96,14 +96,14 @@ Python function to run the IBM ILOG CPLEX Optimisation locally:
 
 I completed several design projects. One was to design, model and render a household item in PTC Creo. I chose a Gillette fusion proglide razor. The second was an interface (team of five) to create user-defined catapult designs and three dimensional Solidworks models from user designs (Individually). The user interface includes animations programmed in VBA and API's to manipulate the 3D model.
 
-[![Design Project](/assets/images/Turbine.jpg)]({{ site.url }}/downloads/design.pdf)
+[![Design Project](/assets/images/Design.jpg)]({{ site.url }}/downloads/design.pdf)
 
 
 ## **Optimisation**
 
 I completed several assignments to develop skills to solve optimisation skills. I covered dynamic programming, heuristics, decision making under uncertainty and set partitioning. Some examples follow.
 
-The use of dynamic programming to evaluate whether to reject an applicant or hire the candidate and stop interviewing:
+The use of dynamic programming to evaluate whether to reject an applicant or hire the applicant and stop interviewing:
 
 $$\hat{V}_{N} = \int_{0}^{\hat{V}_{N+1}} \hat{V}_{N+1} f(r)dr + \int_{\hat{V}_{N+1}}^{\inf} rf(r)dr$$
 
