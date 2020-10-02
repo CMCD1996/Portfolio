@@ -3,9 +3,9 @@ layout: default
 title: Projects
 ---
 
-This page details the projects I completed during my undergraduate degree.
+This page explains some of the projects I completed during my undergraduate degree.
 
-Please select any of the images to review project material or reports.
+Please click any of the images to review project material and reports.
 
 ## **GOCPI: A Scalable Energy System Modelling Tool (2019)**
 
@@ -14,7 +14,7 @@ I am developing an open-source energy modelling tool for users to design their o
 [![GOCPI Project](/assets/images/GOCPI.jpg)]({{ site.url }}/p4p.html)
 
 
-## **Prototype Wind Turbine (2018)**
+## **Prototype Wind Turbine**
 
 I lead a four person team tasked to designed, built, and tested a wind turbine to operate at 140 rpm. Blade profile design was simulated using MATLAB and Xfoil to optimise profile aerodynamics. Optimal profiles were modelled in Dassault Systemes Solidworks and laser cut from sheets of Perspex. 
 
@@ -42,7 +42,7 @@ Power Co-efficient                 | $$C_P = \frac{P_E}{P_T}$$
 
 [![Wind Turbine Project](/assets/images/Turbine.jpg)]({{ site.url }}/downloads/turbine.pdf)
 
-## **Transhipment Project (2018)**
+## **Transhipment Project**
 
 I led a team of three in designing and building a series of models to inform transhipment operations. This project is modelled either using optimisation, conceptual and simulation models. The optimisation model is a linear optimisation model, written in AMPL, to model fruit produce flows from producers to packhouses to markets. The model minimises packaging and transportation costs across 10 different demand forecasts. The conceptual and simulation models are alternatives to this optimisation model. The objective function driving the optimisation model follows.
 
@@ -67,14 +67,29 @@ Application of finite difference approximations to track heat flow modeled using
 
 $$\frac{\partial^{2}u }{\partial x^{2} } + \frac{\partial^{2}u }{\partial y^{2} } - \alpha \frac{\partial u }{\partial t } = 0 $$
 
-[![CIBCC Competition](/assets/images/Code.jpg)]({{ site.url }}/downloads/code.pdf)
+Function to calculate discount rates from N entities using dictionaries:
+[Insert the python code]
+
+[![Programming Assignments](/assets/images/Code.jpg)]({{ site.url }}/downloads/code.pdf)
 
 
 ## **Design** 
 
 I completed several design projects. One was to design, model and render a household item in PTC Creo. I chose a Gillette fusion proglide razor. The second was an interface (team of five) to create user-defined catapult designs and three dimensional Solidworks models from user designs (Individually). The user interface includes animations programmed in VBA and API's to manipulate the 3D model.
 
-[![Wind Turbine Project](/assets/images/Turbine.jpg)]({{ site.url }}/downloads/design.pdf)
+[![Design Project](/assets/images/Turbine.jpg)]({{ site.url }}/downloads/design.pdf)
 
 
 ## **Optimisation**
+
+I completed several assignments to develop skills to solve optimisation skills. I covered dynamic programming, heuristics, decision making under uncertainty and set partitioning. Some examples follow.
+
+The use of dynamic programming to evaluate whether to reject an applicant or hire the candidate and stop interviewing:
+
+$$\hat{V}_N = \int_{0}^{{V}_{N+1}} \hat{V}_{N+1} f(r)dr + \int_{{V}_{N+1}}^{\inf} rf(r)dr$$
+
+The calculation of expected profit from a manufacturing process. Mean hitting times are calculated by considering the probability the product will reach a different state from another state on another process iteration. One transition probability matrix and five separate states were considered (unfinished, poor, good, scrap and average):
+
+$$M_{ij} = 1 + \sum_{k=1}^{n} P_{ik} \times M_{kj} \text{ where } i \neq j$$
+
+[![Optimisation Assignments](/assets/images/Optimisation.jpg)]({{ site.url }}/downloads/optimisation.pdf)
