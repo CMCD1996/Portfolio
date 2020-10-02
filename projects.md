@@ -6,7 +6,7 @@ title: Projects
 This page details the projects I completed during my undergraduate degree.
 Please select any of the images to review project material.
 
-## ** GOCPI: A Scalable Energy System Modelling Tool (2019)
+## **GOCPI: A Scalable Energy System Modelling Tool (2019)
 
 I am developing an open-source energy modelling tool for users to design their own energy systems. The model intends to inform policy and investment in sustainable technology. The model is built using Python, Excel, GNU Mathprog and IBM Watson Machine Learning services.
 
