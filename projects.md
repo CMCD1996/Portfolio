@@ -67,11 +67,27 @@ Application of finite difference approximations to track heat flow modeled using
 
 $$\frac{\partial^{2}u }{\partial x^{2} } + \frac{\partial^{2}u }{\partial y^{2} } - \alpha \frac{\partial u }{\partial t } = 0 $$
 
-Function to calculate discount rates from N entities using dictionaries:
+Python function to run the IBM ILOG CPLEX Optimisation locally:
 
-'''python
-
-'''
+```python
+    def run_cplex_local(self, model_file):
+        """ This function runs cplex on the local device if the energy system
+            is of a small enough complexity
+        """
+        # Creates the model structure
+        model = cp.Cplex()
+        # Produces the results stream and log streams
+        output = model.set_results_stream(None)
+        output = model.set_log_stream(None)
+        # Write the energy system model to Cplex
+        model.read(model_file)
+        # Solve the model using the version of Cplex installed on the local
+        # device (IBM ILOG CPLEX Optimisation Studio)
+        model.solve()
+        # Return the value of the objective function
+        objective_value = model.solution.get_objective_value()
+        return objective_value
+```
 
 [![Programming Assignments](/assets/images/Code.jpg)]({{ site.url }}/downloads/code.pdf)
 
