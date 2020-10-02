@@ -86,7 +86,7 @@ I completed several assignments to develop skills to solve optimisation skills. 
 
 The use of dynamic programming to evaluate whether to reject an applicant or hire the candidate and stop interviewing:
 
-$$\hat{V}_N = \int_{0}^{{V}_{N+1}} \hat{V}_{N+1} f(r)dr + \int_{{V}_{N+1}}^{\inf} rf(r)dr$$
+$$\hat{V}_{N} = \int_{0}^{\hat{V}_{N+1}} \hat{V}_{N+1} f(r)dr + \int_{{\hat{V}_{N+1}}^{\inf}} rf(r)dr$$
 
 The calculation of expected profit from a manufacturing process. Mean hitting times are calculated by considering the probability the product will reach a different state from another state on another process iteration. One transition probability matrix and five separate states were considered (unfinished, poor, good, scrap and average):
 
