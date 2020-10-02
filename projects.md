@@ -51,13 +51,22 @@ $$ \text{Min }\sum_{i} \sum_{j} \sum_{p} \text{Cost}_{ij} \times \text{Flow}_{ij
 [![Transhipment Project](/assets/images/Tranship.jpg)]({{ site.url }}/downloads/tranship.pdf)
 
 
-## **Chulalongkorn International Business Case Competition (2019) - Sea Limited**
+## **Chulalongkorn International Business Case Competition (2019)**
 
-I represented the University of Auckland, competing against 20 teams worldwide to develop and present strategies for Line Mobile and Sea Thailand at the Chulalongkorn International Business Case Competition (CIBCC) in Koh Samui, Thailand
+I represented the University of Auckland Case Programme, competing against 20 teams worldwide to develop and present strategies for Line Mobile and Sea Thailand at the Chulalongkorn International Business Case Competition (CIBCC) in Koh Samui, Thailand. Our team presented our analysis on Sea Limited, placing 3rd in the competition. 
 
 [![CIBCC Competition](/assets/images/CIBCC.jpg)]({{ site.url }}/downloads/cibcc.pdf)
 
-## **CFA Research Challenge - Comvita (2018)
+
+## **Programming** 
+
+I completed several assignments to improve coding skills in Python, C++, MatLab, SQL, VBA, AMPL and Git.
+These assignments covered Eigen problems, Finite Differences, Non Linear Equations, Ordinary Differential Equations, Partial Differential Equations and Databases.
+
+[![CIBCC Competition](/assets/images/Code.jpg)]({{ site.url }}/downloads/code.pdf)
+
+
+## **CFA Research Challenge - Comvita (2018)** 
 
 [![Wind Turbine Project](/assets/images/Turbine.jpg)]({{ site.url }}/downloads/turbine.pdf)
 
