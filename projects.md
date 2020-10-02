@@ -68,7 +68,10 @@ Application of finite difference approximations to track heat flow modeled using
 $$\frac{\partial^{2}u }{\partial x^{2} } + \frac{\partial^{2}u }{\partial y^{2} } - \alpha \frac{\partial u }{\partial t } = 0 $$
 
 Function to calculate discount rates from N entities using dictionaries:
-[Insert the python code]
+
+'''python
+
+'''
 
 [![Programming Assignments](/assets/images/Code.jpg)]({{ site.url }}/downloads/code.pdf)
 
