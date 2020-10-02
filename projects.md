@@ -6,11 +6,11 @@ title: Projects
 This page details the projects I completed during my undergraduate degree.
 Please select any of the images to review project material.
 
-## **GOCPI: A Scalable Energy System Modelling Tool (2019)
+## **GOCPI: A Scalable Energy System Modelling Tool (2019)**
 
 I am developing an open-source energy modelling tool for users to design their own energy systems. The model intends to inform policy and investment in sustainable technology. The model is built using Python, Excel, GNU Mathprog and IBM Watson Machine Learning services.
 
-[![GOCPI Project](/assets/images/GOCPI.jpg)]({{ site.url }}/_site/p4p.html)
+[![GOCPI Project](/assets/images/GOCPI.jpg)]({{ site.url }}/p4p.html)
 
 
 ## **Prototype Wind Turbine (2018)**
@@ -43,9 +43,13 @@ Power Co-efficient                 | $$C_P = \frac{P_E}{P_T}$$
 
 [![Wind Turbine Project](/assets/images/Turbine.jpg)]({{ site.url }}/downloads/turbine.pdf)
 
-## **Transhippment Optimisation Model (2018)**
+## **Transhipment Project (2018)**
 
-[![Wind Turbine Project](/assets/images/Turbine.jpg)]({{ site.url }}/downloads/turbine.pdf)
+I led a team of three in designing and building a series of models to inform transhipment operations. This project is modelled either using optimisation, conceptual and simulation models. The optimisation model is a linear optimisation model, written in AMPL, to model fruit produce flows from producers to packhouses to markets. The model minimises packaging and transportation costs across 10 different demand forecasts. The conceptual and simulation models are alternatives to this optimisation model.
+
+$$F$$
+
+[![Wind Turbine Project](/assets/images/Tranship.jpg)]({{ site.url }}/downloads/tranship.pdf)
 
 ## **Chulalongkorn International Business Case Competition (2019) - Sea Limited
 
