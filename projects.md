@@ -61,7 +61,11 @@ I represented the University of Auckland Case Programme, competing against 20 te
 ## **Programming** 
 
 I completed several assignments to improve coding skills in Python, C++, MatLab, SQL, VBA, AMPL and Git.
-These assignments covered Eigen problems, Finite Differences, Non Linear Equations, Ordinary Differential Equations, Partial Differential Equations and Databases.
+These assignments covered Eigen problems, Finite Differences, Non Linear Equations, Ordinary Differential Equations, Partial Differential Equations (PDE's) and Databases. The following examples include some of 
+
+Application of finite difference approximations to track heat flow modeled using the following PDE:
+
+$$\frac{\partial^{2}u }{\partial x^{2} } + \frac{\partial^{2}u }{\partial y^{2} } - \alpha \frac{\partial u }{\partial t } = 0 $$
 
 [![CIBCC Competition](/assets/images/Code.jpg)]({{ site.url }}/downloads/code.pdf)
 
