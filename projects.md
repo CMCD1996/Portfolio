@@ -4,7 +4,8 @@ title: Projects
 ---
 
 This page details the projects I completed during my undergraduate degree.
-Please select any of the images to review project material.
+
+Please select any of the images to review project material or reports.
 
 ## **GOCPI: A Scalable Energy System Modelling Tool (2019)**
 
@@ -19,7 +20,7 @@ I lead a four person team tasked to designed, built, and tested a wind turbine t
 
 Blade profile aerodynamics were optimised through the maximisation of the power coefficient ($$C_p = \frac{P_E}{P_T}$$) The equations related to blade profile design are displayed below.
 
-**Equations:**
+Equations:
 
 Variable                          | Equation                                                                              
 :---------------------------------:|:-------------------------------------------------------------------------------------:
@@ -39,21 +40,22 @@ Extracted Power                    | $$P_E = Q \Sigma$$
 Power Available                    | $$\frac{1}{2}\rho \pi R^2 V_{u}^{3}$$                                                 
 Power Co-efficient                 | $$C_P = \frac{P_E}{P_T}$$                                                             
 
-**Click the image below to review the report**
-
 [![Wind Turbine Project](/assets/images/Turbine.jpg)]({{ site.url }}/downloads/turbine.pdf)
 
 ## **Transhipment Project (2018)**
 
-I led a team of three in designing and building a series of models to inform transhipment operations. This project is modelled either using optimisation, conceptual and simulation models. The optimisation model is a linear optimisation model, written in AMPL, to model fruit produce flows from producers to packhouses to markets. The model minimises packaging and transportation costs across 10 different demand forecasts. The conceptual and simulation models are alternatives to this optimisation model.
+I led a team of three in designing and building a series of models to inform transhipment operations. This project is modelled either using optimisation, conceptual and simulation models. The optimisation model is a linear optimisation model, written in AMPL, to model fruit produce flows from producers to packhouses to markets. The model minimises packaging and transportation costs across 10 different demand forecasts. The conceptual and simulation models are alternatives to this optimisation model. The objective function driving the optimisation model follows.
 
-$$ \text{Min }\sum_{i} \sum_{j} \sum_{p} \text{Cost}_{ij} \times \text{Flow}_{ijp} + \sum_{m} \sum_{h} \text{numperiods} \times \text{packcost}_{m} \times \text{built}_{mh} $$
+$$ \text{Min }\sum_{i} \sum_{j} \sum_{p} \text{Cost}_{ij} \times \text{Flow}_{ijp} + \sum_{m} \sum_{h} \text{numperiods} \times \text{packcost}_{m} \times \text{built}_{mh}$$
 
-[![Wind Turbine Project](/assets/images/Tranship.jpg)]({{ site.url }}/downloads/tranship.pdf)
+[![Transhipment Project](/assets/images/Tranship.jpg)]({{ site.url }}/downloads/tranship.pdf)
 
-## **Chulalongkorn International Business Case Competition (2019) - Sea Limited
 
-[![Wind Turbine Project](/assets/images/Turbine.jpg)]({{ site.url }}/downloads/turbine.pdf)
+## **Chulalongkorn International Business Case Competition (2019) - Sea Limited**
+
+I represented the University of Auckland, competing against 20 teams worldwide to develop and present strategies for Line Mobile and Sea Thailand at the Chulalongkorn International Business Case Competition (CIBCC) in Koh Samui, Thailand
+
+[![CIBCC Competition](/assets/images/CIBCC.jpg)]({{ site.url }}/downloads/cibcc.pdf)
 
 ## **CFA Research Challenge - Comvita (2018)
 
