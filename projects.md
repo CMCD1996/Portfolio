@@ -66,8 +66,11 @@ These assignments covered Eigen problems, Finite Differences, Non Linear Equatio
 [![CIBCC Competition](/assets/images/Code.jpg)]({{ site.url }}/downloads/code.pdf)
 
 
-## **CFA Research Challenge - Comvita (2018)** 
+## **Design** 
 
-[![Wind Turbine Project](/assets/images/Turbine.jpg)]({{ site.url }}/downloads/turbine.pdf)
+I completed several design projects. One was to design, model and render a household item in PTC Creo. I chose a Gillette fusion proglide razor. The second was an interface (team of five) to create user-defined catapult designs and three dimensional Solidworks models from user designs (Individually). The user interface includes animations programmed in VBA and API's to manipulate the 3D model.
 
-## 
+[![Wind Turbine Project](/assets/images/Turbine.jpg)]({{ site.url }}/downloads/design.pdf)
+
+
+## **Optimisation**
