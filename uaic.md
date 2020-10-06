@@ -8,7 +8,7 @@ In 2020, I led the University of Auckland Investment Club (UAIC) as Co President
 ## Bulletin
 UAIC's Bulletin produces a weekly publication of finance-related articles written by students. Articles address finance, investing add  market-related events or theories. During my term, the Bulletin team published twelve editions of the bulletin.
 
-![ Bulletin](/assets/images/bulletin.jpg)
+![ Bulletin](/assets/images/bulletin.jpeg)
 
 ## Investment Committee
 UAIC's Investment Committee manage the Club's Investment Club. The committee perform due diligence on investment opportunities 
@@ -24,7 +24,7 @@ UAIC hosted a series of finance-related events to educate members on the differe
 ## Competitions
 UAIC facilitate four finance-related competitions in 2020: Citi Global Markets Challenge, Jarden Stock Pitch Competition, Global From Day One Venture Capital Competition and UBS New Zealand Investment Banking Competition. Citi run the Global Markets Challenge. I introduced the three other competitions this year.
 
-![ Bulletin](/assets/images/bulletin.jpg)
+![ Bulletin](/assets/images/competition.jpeg)
 
 ### Jarden Stock Pitch Competition
 I upgraded UAIC's annual Stock Pitch competition in partnership with Jarden. Competing teams prepared qualitative and
@@ -47,7 +47,7 @@ I created an Investment Banking competition in partnership with UBS New Zealand.
 
 I started the University of Auckland's Women Engagement Initiative to break down barriers discouraging women from considering careers in finance. UAIC created a Mentoring Programme pairing 15 industry mentors with 15 mentees. We facilitated a three-part speaker series focusing on careers in finance, the future of finance with an emphasis on Financial technology and challenges in the workplace. 
 
-[![GOCPI Project](/assets/images/GOCPI.jpg)]({{ site.url }}/downloads/women-engagement-initiative.pdf)
+[![GOCPI Project](/assets/images/wei.jpeg)]({{ site.url }}/downloads/women-engagement-initiative.pdf)
 
 
 
