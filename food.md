@@ -5,9 +5,6 @@ title: Recipes
 
 I enjoy preparing homemade meals and experimenting with new recipes. The following dishes are a sample of the meals I have prepared for myself, friends or family.
 
-## 
-
-Code 1                                            | Code 2                  
 :------------------------------------------------:|:------------------------------------------------:
 **Avocado and Chicken Bagels** | **Roast Chicken Breast**
 ![ Bagels](/assets/images/bagels.jpg) | ![Wind Turbine Project](/assets/images/chickenbreast.jpg)
