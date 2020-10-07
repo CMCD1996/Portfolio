@@ -6,17 +6,17 @@ title: UAIC
 In 2020, I led the University of Auckland Investment Club (UAIC) as Co President with David Saul. In addition to running several of UAIC's legacy offerings, We introduced several new initiatives.
 
 ## **Bulletin**
-David Saul and Nikhil Luthra led the Bulletin and the production of a weekly publication of finance-related articles written by students. Articles address finance, investing and market-related events or theories. During our term, the Bulletin team published twelve editions of the bulletin.
+David oversaw the Bulletin, a weekly publication of finance-related articles written by students. Articles address finance, investing and market-related events or theories. During our term, the Bulletin team published twelve editions of the bulletin.
 
 ![ Bulletin](/assets/images/bulletin.jpeg)
 
 ## **Investment Committee**
-Nehaal Ram and I ran the Investment Committee who manage the Club's Investment Fund. The committee perform due diligence on investment opportunities. During my term, brokerage was approved enabling the fund to start investing. Subsequently, the fund made four investments in NZX and ASX equities in 2020. 
+I oversaw the operation of the Investment Committee, a group of analysts who manage the Club's Investment Fund. The committee perform due diligence on investment opportunities. During my term, brokerage was approved enabling the fund to start investing. Subsequently, the fund made four investments in NZX and ASX equities in 2020. 
 
 ![ IC ](/assets/images/IC.jpeg)
 
 ## **Education**
-David led UAIC's education portfolio who host a series of finance-related events to educate members on the different areas in finance. These events include careers panels, investing tutorials, introductions to ethical investing and an investor's role in social innovation.
+David led UAIC's education portfolio which host a series of finance-related events to educate members on the different areas in finance. These events include careers panels, investing tutorials, introductions to ethical investing and an investor's role in social innovation.
 
 ![ Education ](/assets/images/education.jpeg)
 
