@@ -30,7 +30,7 @@ UAIC facilitate four finance-related competitions in 2020: Citi Global Markets C
 I upgraded UAIC's annual Stock Pitch competition in partnership with Jarden. Competing teams prepared qualitative and
 quantitative analysis on an NZX/ASX listed equity to support buy recommendations. Click the image below for the competition pack.
 
-[![Stock Pitch](/assets/images/sp.jpeg)]({{ site.url }}/downloads/stock-pitch-competition.pdf)
+[![Stock Pitch](/assets/images/sp.png)]({{ site.url }}/downloads/stock-pitch-competition.pdf)
 
 ### **Global From Day One Venture Capital Competition**
 I created a Venture Capital competition in partnership with Global From Day One, a technology-based venture capital fund who invest in
