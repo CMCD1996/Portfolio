@@ -8,7 +8,7 @@ Welcome!
 
 My interests lie at the intersection of business, finance, and technology.
 
-I am interested in using technology to address the most pressing issues facing society. In particular, I most interested using my skills and experience to address the energy transition, infrastructure needs, financial illiteracy and gender inequality. 
+I am interested in using technology to address the most pressing issues facing society. In particular, I most interested using my skills and experience to address the energy transition, deficiencies in infrastructure, financial illiteracy and gender inequality. 
 
 I completed a Bachelor of Commerce / Bachelor of Engineering (Honours) degree at the University of Auckland (2015 - 2020), majoring in Finance and specialising in Engineering Science.
 
