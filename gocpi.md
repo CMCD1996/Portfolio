@@ -12,7 +12,6 @@ This page details my Part IV Engineering Thesis: Building an open source energy 
 
 {% include googleDrivePlayer.html id=page.driveId %}
 
-<iframe src="https://drive.google.com/file/d/1rW4om3FqDZl6quL-0PVW-l-c71CBFPBF/preview" width="640" height="480"></iframe>
 
 
 
