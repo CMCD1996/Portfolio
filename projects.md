@@ -46,7 +46,8 @@ Power Co-efficient                 | $$C_P = \frac{P_E}{P_T}$$
 
 I led a team of three in designing and building a series of models to inform transhipment operations. This project is modelled either using optimisation, conceptual and simulation models. The optimisation model is a linear optimisation model, written in AMPL, to model fruit produce flows from producers to packhouses to markets. The model minimises packaging and transportation costs across 10 different demand forecasts. The conceptual and simulation models are alternatives to this optimisation model. The objective function driving the optimisation model follows.
 
-$$ \text{Min }\sum_{i} \sum_{j} \sum_{p} \text{Cost}_{ij} \times \text{Flow}_{ijp} + \sum_{m} \sum_{h} \text{numperiods} \times \text{packcost}_{m} \times \text{built}_{mh}$$
+$$ \text{Min }\sum_{i} \sum_{j} \sum_{p} \text{Cost}_{ij} \times \text{Flow}_{ijp} $$
+$$ + \sum_{m} \sum_{h} \text{numperiods} \times \text{packcost}_{m} \times \text{built}_{mh}$$
 
 [![Transhipment Project](/assets/images/Tranship.jpg)]({{ site.url }}/downloads/tranship.pdf)
 
