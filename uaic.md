@@ -3,10 +3,26 @@ layout: default
 title: UAIC
 ---
 
-In 2020, I led the University of Auckland Investment Club (UAIC) as Co President with David Saul. In addition to running several of UAIC's legacy offerings, We introduced several new initiatives.
+In 2020, I led the University of Auckland Investment Club (UAIC) as Co President with David Saul. In addition to running several of UAIC's legacy offerings, we introduced several new initiatives. A high level summary of our achievements during 2020 follow:
+
+* Increased general membership by 30% 
+* Increased female general membership by 68%..
+* Published 15 editions of the bulletin (approximately 20 pages each), a series opinion articles on finance-related topics.
+* Approved brokerage to create a fully functional Investment Fund. Additionally, we invested in four ASX/NZX equities.
+* Created the Women Engagement Initiative, complete with a Mentoring Programme with 15 mentors and a two-part speaker series.
+* Continued to run the Citi Global Markets Challenge.
+* Created the Jarden Stock Pitch Competition in partnership with Jarden to upskill members on valuing equities.
+* Created the Global From Day One Venture Capital Competition in partnership with Global From Day One to give students exposure to New Zealand’s Venture Capital and Technology ecosystems.
+* Created the UBS New Zealand Investment Banking Competition in partnership with UBS New Zealand to analyse the strategic rationale, offer context, synergies and performance of M&A transactions.
+* Hosted seven education events across the year to educate members on topics such as investing, ESG, Social Innovation from an Investor’s perspective, Qualitative Analysis and Valuation.
+* Rebranded the club and built efficient marketing channels.
+* Voted in a brand new 14 page AGM to address the legal requirements of the Club and introduce new initiatives:
+    * Incorporated three UNSDGs to inform events (Good Health and Wellbeing, Gender Equality and Quality Education).
+    * Made a Diversity and Inclusion Director a mandatory executive role.
+    * Created an advisory board to oversee long term vision, management structure, industry relationships and investor relations of UAIC. The board is currently under construction.
 
 ## **Bulletin**
-David oversaw the Bulletin, a weekly publication of finance-related articles written by students. Articles address finance, investing and market-related events or theories. During our term, the Bulletin team published twelve editions of the bulletin.
+David oversaw the Bulletin, a weekly publication of finance-related articles written by students. Articles address finance, investing and market-related events or theories. During our term, the Bulletin team published fifteen editions of the bulletin.
 
 ![ Bulletin](/assets/images/bulletin.jpeg)
 
@@ -33,7 +49,6 @@ quantitative analysis on an NZX/ASX listed equity to support a buy recommendatio
 I created a Venture Capital competition in partnership with Global From Day One, a technology-based venture capital fund who invest in
 New Zealand hardware, software and deep technology startups. The competition had competitors follow their investment thesis to allocate $15m in three New Zealand startups. Their portfolio allocation was supported by qualitative analysis. Click the image below to view the competition pack.
 
-
 [![Venture Capital](/assets/images/VC.png)]({{ site.url }}/downloads/venture-capital-competition.pdf)
 
 ### **UBS New Zealand Investment Banking Competition**
@@ -44,7 +59,6 @@ I created an Investment Banking competition in partnership with UBS New Zealand.
 ## **Women Engagement Initiative**
 
 I started the University of Auckland's Women Engagement Initiative to break down barriers discouraging women from considering careers in finance. This initiative includes a Mentoring Programme where 15 industry mentors were paired with 15 mentees. We facilitated a three-part speaker series focusing on careers in finance, the future of finance with an emphasis on financial technology and challenges in the workplace. Click the image below to view the engagement pack.
- 
 
 [![Women Engagement](/assets/images/wei.jpg)]({{ site.url }}/downloads/women-engagement-initiative.pdf)
 
