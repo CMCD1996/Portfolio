@@ -3,7 +3,9 @@ layout: default
 title: UAIC
 ---
 
-In 2020, I led the University of Auckland Investment Club (UAIC) as Co President with David Saul. In addition to running several of UAIC's legacy offerings, we introduced several new initiatives. A high level summary of our achievements during 2020 follow:
+## **UAIC and the COVID-19 Crisis** ##
+
+In 2020, I led the University of Auckland Investment Club (UAIC) as Co President with David Saul. We introduced several new initiatives while running several of UAIC's legacy offerings. A high level summary of our achievements during 2020 follow:
 
 * Increased general membership by 30%.
 * Increased female general membership by 68%.
