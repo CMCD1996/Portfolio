@@ -4,3 +4,10 @@ assets/images/Tranship.psd
 assets/images/CIBCC.psd
 assets/images/Code.psd
 assets/images/Design.psd
+_site/assets/images/Turbine.psd
+_site/assets/images/Tranship.psd
+.gitignore
+_site/assets/images/CIBCC.psd
+_site/assets/images/Code.psd
+_site/assets/images/Design.psd
+_site/assets/images/GOCPI.psd
