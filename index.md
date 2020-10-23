@@ -13,6 +13,8 @@ In particular, I will fight for the energy transition, the adoption of new techn
 
 {% include googleDrivePlayer.html id=page.driveId %}
 
+I welcome new connections and do not hesitate to contact me directly!
+
 **Content**
 * **Blog** : A series of blog posts related to articles I found interesting.
 * **Recipe** : A collection of meals I prepared for myself, friends or family.
@@ -33,5 +35,5 @@ Engineering Science is taught at a few other schools around the world under diff
 * [Oxford: Engineering Science](https://www.ox.ac.uk/admissions/undergraduate/courses-listing/engineering-science)
 * [Princeton: Operations Research and Financial Engineering](https://orfe.princeton.edu/)
 
-I welcome new connections and do not hesitate to contact me directly.
+
 

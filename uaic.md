@@ -3,7 +3,7 @@ layout: default
 title: UAIC
 ---
 
-## **UAIC and the COVID-19 Crisis** ##
+## **The University of Auckland Investment Club in 2020 ##
 
 In 2020, I led the University of Auckland Investment Club (UAIC) as Co President with David Saul. We introduced several new initiatives while running several of UAIC's legacy offerings. A high level summary of our achievements during 2020 follow:
 
@@ -18,7 +18,7 @@ In 2020, I led the University of Auckland Investment Club (UAIC) as Co President
 * Created the UBS New Zealand Investment Banking Competition in partnership with UBS New Zealand to analyse the strategic rationale, offer context, synergies and performance of M&A transactions.
 * Hosted seven education events across the year to educate members on topics such as investing, ESG, Social Innovation from an Investor’s perspective, Qualitative Analysis and Valuation.
 * Rebranded the club and built efficient marketing channels.
-* Voted in a brand new 14 page AGM to address the legal requirements of the Club and introduce new initiatives:
+* Passed a brand new 14 page constitution to fulfill legal requirements of the Club and introduce new initiatives:
     * Incorporated three UNSDGs to inform events (Good Health and Wellbeing, Gender Equality and Quality Education).
     * Made a Diversity and Inclusion Director a mandatory executive role.
     * Created an advisory board to oversee long term vision, management structure, industry relationships and investor relations of UAIC. The board is currently under construction.
