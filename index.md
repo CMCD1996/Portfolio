@@ -1,10 +1,13 @@
 ---
 layout: default
+driveId: 1lxj91VTGCbmIsP7Re86GWfWpXlR2a2Me/preview
 ---
 
-**Under Construction**
 
-Welcome!
+
+**Welcome!**
+
+{% include googleDrivePlayer.html id=page.driveId %}
 
 My interests lie at the intersection of business, finance, and technology.
 
