@@ -10,6 +10,11 @@ This page details my Part IV Engineering Thesis: Building an open source energy 
 
 [![Project Outline](/assets/images/gocpi-project-outline.png)]({{ site.url }}/downloads/gocpi.pdf)
 
+[![Project Report](/assets/images/report.jpg)]({{ site.url }}/downloads/gocpi.pdf)
+
+[![Research Compendium](/assets/images/compendium.jpg)]({{ site.url }}/downloads/gocpi.pdf)
+
+
 
 
 
