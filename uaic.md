@@ -23,8 +23,6 @@ David led UAIC's education portfolio which host a series of finance-related even
 ## **Competitions**
 I ran four finance-related competitions in 2020: The Citi Global Markets Challenge, Jarden Stock Pitch Competition, Global From Day One Venture Capital Competition and UBS New Zealand Investment Banking Competition. Citi run the Global Markets Challenge annually.  I introduced the other three competitions this year.
 
-![ Competitions](/assets/images/comps.jpeg)
-
 ### **Jarden Stock Pitch Competition**
 I upgraded UAIC's annual Stock Pitch competition in partnership with Jarden. Competing teams prepared qualitative and
 quantitative analysis on an NZX/ASX listed equity to support a buy recommendation. Click the image below to view the competition pack.
@@ -48,7 +46,7 @@ I created an Investment Banking competition in partnership with UBS New Zealand.
 I started the University of Auckland's Women Engagement Initiative to break down barriers discouraging women from considering careers in finance. This initiative includes a Mentoring Programme where 15 industry mentors were paired with 15 mentees. We facilitated a three-part speaker series focusing on careers in finance, the future of finance with an emphasis on financial technology and challenges in the workplace. Click the image below to view the engagement pack.
  
 
-[![Women Engagement](/assets/images/wei.jpeg)]({{ site.url }}/downloads/women-engagement-initiative.pdf)
+[![Women Engagement](/assets/images/wei.jpg)]({{ site.url }}/downloads/women-engagement-initiative.pdf)
 
 
 
