@@ -3,15 +3,13 @@ layout: default
 driveId: 1lxj91VTGCbmIsP7Re86GWfWpXlR2a2Me/preview
 ---
 
-
-
 **Welcome!**
 
 {% include googleDrivePlayer.html id=page.driveId %}
 
 My interests lie at the intersection of business, finance, and technology.
 
-I am interested in using technology to address the most pressing issues facing society. In particular, I most interested using my skills and experience to address the energy transition, deficiencies in infrastructure, financial illiteracy and gender inequality. 
+I am interested in using technology and finance to address the most pressing issues facing society. In particular, I most interested addressing the energy transition, the adoption of new technologies, deficiencies in infrastructure, financial illiteracy and gender inequality. 
 
 I completed a Bachelor of Commerce / Bachelor of Engineering (Honours) degree at the University of Auckland (2015 - 2020), majoring in Finance and specialising in Engineering Science.
 
