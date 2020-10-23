@@ -5,8 +5,8 @@ title: UAIC
 
 In 2020, I led the University of Auckland Investment Club (UAIC) as Co President with David Saul. In addition to running several of UAIC's legacy offerings, we introduced several new initiatives. A high level summary of our achievements during 2020 follow:
 
-* Increased general membership by 30% 
-* Increased female general membership by 68%..
+* Increased general membership by 30%.
+* Increased female general membership by 68%.
 * Published 15 editions of the bulletin (approximately 20 pages each), a series opinion articles on finance-related topics.
 * Approved brokerage to create a fully functional Investment Fund. Additionally, we invested in four ASX/NZX equities.
 * Created the Women Engagement Initiative, complete with a Mentoring Programme with 15 mentors and a two-part speaker series.
