@@ -11,7 +11,7 @@ Please click any of the images to review project material and reports.
 
 I am developing an open-source energy modelling tool for users to design their own energy systems. The model intends to inform policy and investment in sustainable technology. The model is built using Python, Excel, GNU Mathprog and IBM Watson Machine Learning services.
 
-[![GOCPI Project](/assets/images/GOCPI.jpg)]({{ site.url }}/p4p.html)
+[![GOCPI Project](/assets/images/GOCPI.jpg)]({{ site.url }}/gocpi.html)
 
 
 ## **Prototype Wind Turbine**
