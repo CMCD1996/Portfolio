@@ -3,7 +3,7 @@ layout: default
 driveId: 1lxj91VTGCbmIsP7Re86GWfWpXlR2a2Me/preview
 ---
 
-**Welcome to my personal website!**
+**Welcome!**
 
 My name is Connor McDowall, a Kiwi proud to be from New Zealand.
 I dream big and do my best to fly the flag for New Zealand on the global stage.
@@ -13,6 +13,7 @@ In particular, I will fight for the energy transition, the adoption of new techn
 
 {% include googleDrivePlayer.html id=page.driveId %}
 
+**Content**
 * **Blog** : A series of blog posts related to articles I found interesting.
 * **Recipe** : A collection of meals I prepared for myself, friends or family.
 * **Gallery** : A gallery of key events from my academic, extra-curricular and professional activities.
