@@ -31,12 +31,167 @@ config=TeX-AMS-MML_HTMLorMML"></script>
           </span>
         </label>
 
-        <div class="trigger"><a class="page-link" href="/blog.html">Blog</a><a class="page-link" href="/food.html">Recipes</a><a class="page-link" href="/goals.html">Guide</a><a class="page-link" href="/p4p.html">GOCPI</a><a class="page-link" href="/projects.html">Projects</a><a class="page-link" href="/resume.html">Resume</a><a class="page-link" href="/uaic.html">UAIC</a></div>
+        <div class="trigger"><a class="page-link" href="/blog.html">Blog</a><a class="page-link" href="/food.html">Recipes</a><a class="page-link" href="/goals.html">Gallery</a><a class="page-link" href="/gocpi.html">GOCPI</a><a class="page-link" href="/projects.html">Projects</a><a class="page-link" href="/resume.html">Resume</a><a class="page-link" href="/uaic.html">UAIC</a></div>
       </nav></div>
 </header>
 <main class="page-content" aria-label="Content">
       <div class="wrapper">
-        <p>This page details the projects I completed during my undergraduate degree.</p>
+        <p>This page explains some of the projects I completed during my undergraduate degree.</p>
+
+<p>Please click any of the images to review project material and reports.</p>
+
+<h2 id="gocpi-a-scalable-energy-system-modelling-tool-2019"><strong>GOCPI: A Scalable Energy System Modelling Tool (2019)</strong></h2>
+
+<p>I am developing an open-source energy modelling tool for users to design their own energy systems. The model intends to inform policy and investment in sustainable technology. The model is built using Python, Excel, GNU Mathprog and IBM Watson Machine Learning services.</p>
+
+<p><a href="http://localhost:4000/gocpi.html"><img src="/assets/images/GOCPI.jpg" alt="GOCPI Project" /></a></p>
+
+<h2 id="prototype-wind-turbine"><strong>Prototype Wind Turbine</strong></h2>
+
+<p>I lead a four person team tasked to designed, built, and tested a wind turbine to operate at 140 rpm. Blade profile design was simulated using MATLAB and Xfoil to optimise profile aerodynamics. Optimal profiles were modelled in Dassault Systemes Solidworks and laser cut from sheets of Perspex.</p>
+
+<p>Blade profile aerodynamics were optimised through the maximisation of the power coefficient (\(C_p = \frac{P_E}{P_T}\)) The equations related to blade profile design are displayed below.</p>
+
+<p>Equations:</p>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: center">Variable</th>
+      <th style="text-align: center">Equation</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center">Rotor Radius</td>
+      <td style="text-align: center">\(R=\sqrt{\frac{2P_s}{C_p \eta \rho \pi V_{u}^{3}}}\)</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">Tip Speed Ratio</td>
+      <td style="text-align: center">\(\lambda_r = \frac{\Omega_r}{V_u}\)</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">Local Wind Angle</td>
+      <td style="text-align: center">\(\Phi = \frac{2}{3}tan^{-1}(\frac{1}{\lambda_r})\)</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">Chord Length with Wake Rotation</td>
+      <td style="text-align: center">\(c = \frac{8 \pi r}{B C_L}(1 - \Phi)\)</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">Blade Setting Angle</td>
+      <td style="text-align: center">\(\beta = \frac{180}{\pi}(cos (\Phi) - \alpha)\)</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">Normal Co-efficient</td>
+      <td style="text-align: center">\(C_n = C_L cos(\Phi) + C_D sin(\Phi)\)</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">Tangential Co-efficient</td>
+      <td style="text-align: center">\(C_t = C_L sin(\Phi) - C_D cos(\Phi)\)</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">Factor</td>
+      <td style="text-align: center">\(F = \frac{2}{\pi}cos^{-1}(e^{-f}) \text{ where } f = \frac{B(R-r)}{2rsin{\Phi}}\)</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">Blade Solidarity</td>
+      <td style="text-align: center">\(\sigma^{'} = \frac{Bc}{2 \pi r}\)</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">Axial Induction Factor</td>
+      <td style="text-align: center">\(a = \frac{\sigma^{'} C_n}{4Fsin^{2}(\Phi)+\sigma^{'}C_n}\)</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">Tangential Load</td>
+      <td style="text-align: center">\(\frac{1}{2}\rho \frac{V_{u}^{2}}{sin^{2}(\Phi)}\)</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">Incremental Torque</td>
+      <td style="text-align: center">\(\Delta Q_{i,i+1} = \int_{r_{i + 1}}^{r_{i}}P_Trdr\)</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">Extracted Power</td>
+      <td style="text-align: center">\(P_E = Q \Sigma\)</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">Power Available</td>
+      <td style="text-align: center">\(\frac{1}{2}\rho \pi R^2 V_{u}^{3}\)</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">Power Co-efficient</td>
+      <td style="text-align: center">\(C_P = \frac{P_E}{P_T}\)</td>
+    </tr>
+  </tbody>
+</table>
+
+<p><a href="http://localhost:4000/downloads/turbine.pdf"><img src="/assets/images/Turbine.jpg" alt="Wind Turbine Project" /></a></p>
+
+<h2 id="transhipment-project"><strong>Transhipment Project</strong></h2>
+
+<p>I led a team of three in designing and building a series of models to inform transhipment operations. This project is modelled either using optimisation, conceptual and simulation models. The optimisation model is a linear optimisation model, written in AMPL, to model fruit produce flows from producers to packhouses to markets. The model minimises packaging and transportation costs across 10 different demand forecasts. The conceptual and simulation models are alternatives to this optimisation model. The objective function driving the optimisation model follows.</p>
+
+\[\text{Min }\sum_{i} \sum_{j} \sum_{p} \text{Cost}_{ij} \times \text{Flow}_{ijp} + \sum_{m} \sum_{h} \text{numperiods} \times \text{packcost}_{m} \times \text{built}_{mh}\]
+
+<p><a href="http://localhost:4000/downloads/tranship.pdf"><img src="/assets/images/Tranship.jpg" alt="Transhipment Project" /></a></p>
+
+<h2 id="chulalongkorn-international-business-case-competition-2019"><strong>Chulalongkorn International Business Case Competition (2019)</strong></h2>
+
+<p>I represented the University of Auckland Case Programme, competing against 20 teams worldwide to develop and present strategies for Line Mobile and Sea Thailand at the Chulalongkorn International Business Case Competition (CIBCC) in Koh Samui, Thailand. Our team presented our analysis on Sea Limited, placing 3rd in the competition.</p>
+
+<p><a href="http://localhost:4000/downloads/cibcc.pdf"><img src="/assets/images/CIBCC.jpg" alt="CIBCC Competition" /></a></p>
+
+<h2 id="programming"><strong>Programming</strong></h2>
+
+<p>I completed several assignments to improve coding skills in Python, C++, MatLab, SQL, VBA, AMPL and Git.
+These assignments covered Eigen problems, Finite Differences, Non Linear Equations, Ordinary Differential Equations, Partial Differential Equations (PDE’s) and Databases. The following examples include some of</p>
+
+<p>Application of finite difference approximations to track heat flow. This behaviour is modelled using the following PDE:</p>
+
+\[\frac{\partial^{2}u }{\partial x^{2} } + \frac{\partial^{2}u }{\partial y^{2} } - \alpha \frac{\partial u }{\partial t } = 0\]
+
+<p>Python function to run the IBM ILOG CPLEX Optimisation locally:</p>
+
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code>    <span class="k">def</span> <span class="nf">run_cplex_local</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="n">model_file</span><span class="p">):</span>
+        <span class="s">""" This function runs cplex on the local device if the energy system
+            is of a small enough complexity
+        """</span>
+        <span class="c1"># Creates the model structure
+</span>        <span class="n">model</span> <span class="o">=</span> <span class="n">cp</span><span class="p">.</span><span class="n">Cplex</span><span class="p">()</span>
+        <span class="c1"># Produces the results stream and log streams
+</span>        <span class="n">output</span> <span class="o">=</span> <span class="n">model</span><span class="p">.</span><span class="n">set_results_stream</span><span class="p">(</span><span class="bp">None</span><span class="p">)</span>
+        <span class="n">output</span> <span class="o">=</span> <span class="n">model</span><span class="p">.</span><span class="n">set_log_stream</span><span class="p">(</span><span class="bp">None</span><span class="p">)</span>
+        <span class="c1"># Write the energy system model to Cplex
+</span>        <span class="n">model</span><span class="p">.</span><span class="n">read</span><span class="p">(</span><span class="n">model_file</span><span class="p">)</span>
+        <span class="c1"># Solve the model using the version of Cplex installed on the local
+</span>        <span class="c1"># device (IBM ILOG CPLEX Optimisation Studio)
+</span>        <span class="n">model</span><span class="p">.</span><span class="n">solve</span><span class="p">()</span>
+        <span class="c1"># Return the value of the objective function
+</span>        <span class="n">objective_value</span> <span class="o">=</span> <span class="n">model</span><span class="p">.</span><span class="n">solution</span><span class="p">.</span><span class="n">get_objective_value</span><span class="p">()</span>
+        <span class="k">return</span> <span class="n">objective_value</span>
+</code></pre></div></div>
+
+<p><a href="http://localhost:4000/downloads/code.pdf"><img src="/assets/images/Code.jpg" alt="Programming Assignments" /></a></p>
+
+<h2 id="design"><strong>Design</strong></h2>
+
+<p>I completed several design projects. One was to design, model and render a household item in PTC Creo. I chose a Gillette fusion proglide razor. The second was an interface (team of five) to create user-defined catapult designs and three dimensional Solidworks models from user designs (Individually). The user interface includes animations programmed in VBA and API’s to manipulate the 3D model.</p>
+
+<p><a href="http://localhost:4000/downloads/design.pdf"><img src="/assets/images/Design.jpg" alt="Design Project" /></a></p>
+
+<h2 id="optimisation"><strong>Optimisation</strong></h2>
+
+<p>I completed several assignments to develop skills to solve optimisation skills. I covered dynamic programming, heuristics, decision making under uncertainty and set partitioning. Some examples follow.</p>
+
+<p>The use of dynamic programming to evaluate whether to reject an applicant or hire the applicant and stop interviewing:</p>
+
+\[\hat{V}_{N} = \int_{0}^{\hat{V}_{N+1}} \hat{V}_{N+1} f(r)dr + \int_{\hat{V}_{N+1}}^{\infty} rf(r)dr\]
+
+<p>The calculation of expected profit from a manufacturing process. Mean hitting times are calculated by considering the probability the product will reach a different state from another state on another process iteration. One transition probability matrix and five separate states were considered (unfinished, poor, good, scrap and average):</p>
+
+\[M_{ij} = 1 + \sum_{k=1}^{n} P_{ik} \times M_{kj} \text{ where } i \neq j\]
+
+<p><a href="http://localhost:4000/downloads/optimisation.pdf"><img src="/assets/images/Optimisation.jpg" alt="Optimisation Assignments" /></a></p>
 
       </div>
     </main><footer class="site-footer h-card">
