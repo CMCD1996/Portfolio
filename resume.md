@@ -8,7 +8,6 @@ My resume includes personal details, employment history, leadership, service, ac
 
 You can review my resume below or download a copy [here]({{ site.url }}/downloads/resume.pdf)
 
-You can review my academic transcript below or download a copy [here]({{ site.url }}/downloads/transcript.pdf)
 
 ## **Personal details**
 
