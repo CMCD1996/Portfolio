@@ -9,11 +9,11 @@ My name is Connor McDowall, a Kiwi proud to be from New Zealand.
 I dream big and do my best to fly the flag for New Zealand on the global stage.
 I am an Ironman, finance enthusiast, keen technologist and proud mentor.
 I strive to solve the most pressing issues in society through intersection of strategy, finance and technology!
-In particular, I will fight for the energy transition, the adoption of new technologies, deficiencies in infrastructure, financial illiteracy and gender inequality.
+In particular, I am interested in addressing the energy transition, the adoption of new technologies, deficiencies in infrastructure, financial illiteracy and gender inequality.
 
 {% include googleDrivePlayer.html id=page.driveId %}
 
-I welcome new connections and do not hesitate to contact me directly!
+I welcome new connections and feel free to contact me directly!
 
 **Content**
 * **Blog** : A series of blog posts related to articles I found interesting.

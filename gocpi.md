@@ -15,6 +15,10 @@ This page describes my Part IV Engineering Thesis: Building an open source energ
 
 [![Research Compendium](/assets/images/compendium.jpg)]({{ site.url }}/downloads/gocpi.pdf)
 
+* [Princeton: Operations Research and Financial Engineering](https://orfe.princeton.edu/)
+* [Princeton: Operations Research and Financial Engineering](https://orfe.princeton.edu/)
+* [Princeton: Operations Research and Financial Engineering](https://orfe.princeton.edu/)
+
 
 
 
