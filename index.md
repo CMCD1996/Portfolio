@@ -6,8 +6,8 @@ driveId: 1lxj91VTGCbmIsP7Re86GWfWpXlR2a2Me/preview
 **Welcome!**
 
 My name is Connor McDowall, a Kiwi proud to be from New Zealand.
-I dream big and do my best to fly the flag for New Zealand on the global stage.
-I am an Ironman, finance enthusiast, keen technologist and proud mentor.
+This is my personal website with details on my academic, extra-curricular and professional projects.
+I am an Ironman, finance enthusiast and proud mentor.
 I strive to solve the most pressing issues in society through intersection of strategy, finance and technology!
 In particular, I am interested in addressing the energy transition, the adoption of new technologies, deficiencies in infrastructure, financial illiteracy and gender inequality.
 
