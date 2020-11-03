@@ -11,7 +11,7 @@ In 2020, I led the University of Auckland Investment Club (UAIC) as Co President
 * Increased female general membership by 58%.
 * Published 15 editions of the bulletin (approximately 20 pages each), a series opinion articles on finance-related topics.
 * Approved brokerage to create a fully functional Investment Fund. Additionally, we invested in four ASX/NZX equities.
-* Created the Women Engagement Initiative, complete with a Mentoring Programme with 15 mentors and a two-part speaker series.
+* Created the Women Engagement Initiative, complete with a Mentoring Programme and two-part speaker series.
 * Continued to run the Citi Global Markets Challenge.
 * Created the Jarden Stock Pitch Competition in partnership with Jarden to upskill members on valuing equities.
 * Created the Global From Day One Venture Capital Competition in partnership with Global From Day One to give students exposure to New Zealand’s Venture Capital and Technology ecosystems.
@@ -20,7 +20,6 @@ In 2020, I led the University of Auckland Investment Club (UAIC) as Co President
 * Rebranded the club and built efficient marketing channels.
 * Passed a brand new 14 page constitution to meet legal requirements and introduce new initiatives:
     * Incorporated three UNSDGs to inform events (Good Health and Wellbeing, Gender Equality and Quality Education).
-    * Made a Diversity and Inclusion Director a mandatory executive role.
     * Created an advisory board to oversee long term vision, management structure, industry relationships and investor relations of UAIC. The board is currently under construction.
 
 ## **Bulletin**
