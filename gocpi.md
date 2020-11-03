@@ -13,7 +13,7 @@ This page describes my Part IV Engineering Thesis: Building an open source energ
 
 [![Project Report](/assets/images/report.jpg)]({{ site.url }}/downloads/gocpi-report.pdf)
 
-[![Research Compendium](/assets/images/compendium.jpg)]({{ site.url }}/downloads/gocpi.pdf)
+[![Research Compendium](/assets/images/compendium.jpg)]({{ site.url }}/downloads/gocpi-compendium.pdf)
 
 ## GOCPI Information, References and Required Software
 * [OseMOSYS](http://www.osemosys.org/)
