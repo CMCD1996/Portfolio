@@ -13,7 +13,7 @@ You can review my resume below or download a copy [here]({{ site.url }}/download
 
 * Bachelor of Commerce (Finance) / Bachelor of Engineering (Honours, Engineering Science)
 
-* University of Auckland, **GPA 8.1**
+* University of Auckland, **GPA 8.17**
 
 * Hutt International Boys’ School,  NCEA Levels 1, 2 and 3 with Excellence
 

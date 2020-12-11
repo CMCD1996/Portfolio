@@ -22,8 +22,13 @@ In 2020, I led the University of Auckland Investment Club (UAIC) as Co President
     * Incorporated three UNSDGs to inform events (Good Health and Wellbeing, Gender Equality and Quality Education).
     * Created an advisory board to oversee long term vision, management structure, industry relationships and investor relations of UAIC. The board is currently under construction.
 
+## **UAIC 2020 Annual Report**
+I created an annual report with the intention to both document the achievements of our team and provide our successors a benchmark for future years. Click the image below to view the annual report.
+
+[![Annual Report](/assets/images/ar.png)]({{ site.url }}/downloads/annual-report.pdf)
+
 ## **Bulletin**
-David oversaw the Bulletin, a weekly publication of finance-related articles written by students. Articles address finance, investing and market-related events or theories. During our term, the Bulletin team published fifteen editions of the bulletin.
+David oversaw the Bulletin, a weekly publication of finance-related articles written by students. Articles address finance, investing and market-related events or theories. During our term, the Bulletin team published 15 editions of the bulletin.
 
 ![ Bulletin](/assets/images/bulletin.jpeg)
 
@@ -47,8 +52,7 @@ quantitative analysis on an NZX/ASX listed equity to support a buy recommendatio
 [![Stock Pitch](/assets/images/jsp.png)]({{ site.url }}/downloads/stock-pitch-competition.pdf)
 
 ### **Global From Day One Venture Capital Competition**
-I created a Venture Capital competition in partnership with Global From Day One, a technology-based venture capital fund who invest in
-New Zealand hardware, software and deep technology startups. The competition had competitors follow their investment thesis to allocate $15m in three New Zealand startups. Their portfolio allocation was supported by qualitative analysis. Click the image below to view the competition pack.
+I created a Venture Capital competition in partnership with Global From Day One, a technology-based venture capital fund who invest in New Zealand hardware, software and deep technology startups. The competition had competitors follow their investment thesis to allocate $15m in three New Zealand startups. Their portfolio allocation was supported by qualitative analysis. Click the image below to view the competition pack.
 
 [![Venture Capital](/assets/images/VC.png)]({{ site.url }}/downloads/venture-capital-competition.pdf)
 
