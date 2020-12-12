@@ -11,15 +11,23 @@ You can review my resume below or download a copy [here]({{ site.url }}/download
 
 ## **Personal details**
 
-* Bachelor of Commerce (Finance) / Bachelor of Engineering (Honours, Engineering Science)
+* Degree: Bachelor of Commerce (Honours, Finance) / Bachelor of Engineering (Honours, Engineering Science) Conjoint
 
-* University of Auckland, **GPA 8.17**
+* University: University of Auckland
 
-* Hutt International Boys’ School,  NCEA Levels 1, 2 and 3 with Excellence
+* Overall GPA:  **8.17 (Overall)**
 
-* connormcdowall@gmail.com 
+* BCOM GPA: **8.21**
 
-* +64 27 892 3821 (NZ)
+* BE(HONS) GPA: **8.14**
+
+* BCOM(HONS) GPA: **TBC**
+
+* Secondary School: Hutt International Boys’ School,  NCEA Levels 1, 2 and 3 with Excellence
+
+* Email: connormcdowall@gmail.com 
+
+* Phone: +64 27 892 3821 (NZ)
 
 * Citizenship: Canada, New Zealand
 
