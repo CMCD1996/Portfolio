@@ -13,7 +13,7 @@ I enjoy preparing homemade meals and experimenting with new recipes. The followi
 ![Leg of Lamb](/assets/images/lamb-shanks.jpg)
 ## **Chicken Enchiladas with Homemade Enchilada Sauce**
 ![Leg of Lamb](/assets/images/enchiladas.jpg)
-## **Spaghetti Bolognese with Homemade Bolognese Sauce **
+## **Spaghetti Bolognese with Homemade Bolognese Sauce**
 ![Leg of Lamb](/assets/images/bolognese.jpg)
 
 
