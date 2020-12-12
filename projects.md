@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Projects
+driveId: 1rW4om3FqDZl6quL-0PVW-l-c71CBFPBF/preview
 ---
 
 This page explains some of the projects I completed during my undergraduate degree.
@@ -11,7 +12,24 @@ Please click any of the images to review project material and reports.
 
 I am developing an open-source energy modelling tool for users to design their own energy systems. The model intends to inform policy and investment in sustainable technology. The model is built using Python, Excel, GNU Mathprog and IBM Watson Machine Learning services.
 
-[![GOCPI Project](/assets/images/GOCPI.jpg)]({{ site.url }}/gocpi.html)
+[![Project Outline](/assets/images/gocpi-project-outline.png)]({{ site.url }}/downloads/gocpi-presentation.pdf)
+
+{% include googleDrivePlayer.html id=page.driveId %}
+
+[![Project Report](/assets/images/report.jpg)]({{ site.url }}/downloads/gocpi-report.pdf)
+
+[![Research Compendium](/assets/images/compendium.jpg)]({{ site.url }}/downloads/gocpi-compendium.pdf)
+
+### GOCPI Information, References and Required Software
+* [OseMOSYS](http://www.osemosys.org/)
+* [TIMES (Reference)](https://iea-etsap.org/index.php/etsap-tools/model-generators/times)
+* [IBM Academic Initiative](https://www.ibm.com/academic/home)
+* [IBM ILOG CPLEX Optimizer](https://www.ibm.com/analytics/cplex-optimizer)
+* [IBM Cloud](https://www.ibm.com/cloud)
+* [IBM Watson Machine Learning](https://www.ibm.com/cloud/machine-learning)
+* [GNU Linear Programming Kit](https://www.gnu.org/software/glpk/)
+* [GOCPI GitHub Repository](https://github.com/CMCD1996/GOCPI)
+* [OseMOSY GitHub Repository](https://github.com/OSeMOSYS/OSeMOSYS)
 
 
 ## **Prototype Wind Turbine**
