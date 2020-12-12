@@ -68,6 +68,8 @@ You can review my resume below or download a copy [here]({{ site.url }}/download
 
 ## **Leadership & service**
 
+### **Kupe Leadership Programme 2021**
+
 ### **University of Auckland Investment Club Co-President (2020)**
 
 * Co-lead a team of 18 who run investing and finance related events for 400 general members. I manage internal and external relationships while overseeing four competitions, a weekly bulletin, the Women Engagement Initiative, several education events, and the Investment Committee who manage a $20,000 fund on behalf of the club
@@ -85,6 +87,8 @@ You can review my resume below or download a copy [here]({{ site.url }}/download
 * Raised $1600 for the Mental Health Foundation of New Zealand
 
 # **Academic achievements & awards**
+
+### **University of Auckland Blues Award for Innovation**
 
 ### **University of Auckland EY Business Student of the Year – Finalist (2020)**
 
