@@ -59,7 +59,7 @@ I created a Venture Capital competition in partnership with Global From Day One,
 ### **UBS New Zealand Investment Banking Competition**
 I created an Investment Banking competition in partnership with UBS New Zealand. The competition has competing teams assess two transactions which are large, influential and involve strategics. Teams assess the strategic rationale, offer context, synergies and performance of both transactions. Their analysis is presented to a panel of judges with competitors asked finance-related questions.  Click the image below for competition pack.
 
-[![Investement Banking](/assets/images/IB.png)]({{ site.url }}/downloads/investment-banking-competition.pdf)
+[![Investment Banking](/assets/images/IB.png)]({{ site.url }}/downloads/investment-banking-competition.pdf)
 
 ## **Women Engagement Initiative**
 
