@@ -15,8 +15,8 @@ I enjoy preparing homemade meals and experimenting with new recipes. The followi
 ![Leg of Lamb](/assets/images/enchiladas.jpg)
 ## **Spaghetti Bolognese with Homemade Bolognese Sauce**
 ![Leg of Lamb](/assets/images/bolognese.jpg)
-## **Chicken, Bacon and Mushroom Creamy Carbonara**
-![Leg of Lamb](/assets/images/carbonara.jpg)
+## **Creamy Chicken, Bacon and Mushroom Carbonara**
+![Carbonara](/assets/images/carbonara.jpg)
 
 
 
