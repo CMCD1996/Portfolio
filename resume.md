@@ -15,7 +15,7 @@ You can review my resume below or download a copy [here]({{ site.url }}/download
 
 * University: University of Auckland
 
-* Overall GPA:  **8.17 (Overall)**
+* Overall GPA:  **8.17**
 
 * BCOM GPA: **8.21**
 
