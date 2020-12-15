@@ -16,12 +16,12 @@ In particular, I am interested in addressing the energy transition, the adoption
 I welcome new connections and feel free to contact me directly!
 
 **Content**
-* **Blog** : A series of blog posts related to articles I found interesting.
+* **Blog** : A series of blog posts related to books, articles and topics I find interesting.
 * **Recipe** : A collection of meals I prepared for myself, friends or family.
 * **Gallery** : A gallery of key events from my academic, extra-curricular and professional activities.
-* **GOCPI** : A compilation of documents describing my Part IV Engineering Thesis: Building an open source energy system modelling tool to inform energy investment and policy.
-* **Project** : A compilation of reports and presentations related to Engineering Science.
-* **Resume** : My resume an academic transcript.
+* **Featured** : A section displaying the project I am currently working on.
+* **Project** : A compilation of reports and presentations related to my technical skills.
+* **Resume** : My resume and academic transcript.
 * **UAIC** : An overview of the achievements my team achieved when I was Co-President of the University of Auckland Investment Club.
 
 **A Brief Introduction to Engineering Science**

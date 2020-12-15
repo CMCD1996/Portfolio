@@ -17,6 +17,8 @@ I enjoy preparing homemade meals and experimenting with new recipes. The followi
 ![Leg of Lamb](/assets/images/bolognese.jpg)
 ## **Creamy Chicken, Bacon and Mushroom Carbonara**
 ![Carbonara](/assets/images/carbonara.jpg)
+## **Avocado and Cajun Chicken + Salmon, Spinach and Cream Cheese Bagels**
+![Carbonara](/assets/images/bagels.jpg)
 
 
 
