@@ -19,6 +19,8 @@ I enjoy preparing homemade meals and experimenting with new recipes. The followi
 ![Carbonara](/assets/images/carbonara.jpg)
 ## **Avocado and Cajun Chicken + Salmon, Spinach and Cream Cheese Bagels**
 ![Carbonara](/assets/images/bagels.jpg)
+## **Chicken and Mushroom Risotto**
+![Carbonara](/assets/images/risotto.jpg)
 
 
 
