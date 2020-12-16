@@ -8,21 +8,21 @@ I enjoy preparing homemade meals and experimenting with new recipes. The followi
 ## **Roast Leg of Lamb in a Red Wine Jus**
 ![Leg of Lamb](/assets/images/leg-o-lamb.jpg)
 ## **Creamy Yellow Chicken Curry**
-![Leg of Lamb](/assets/images/chicken-curry.jpg)
+![Chicken Curry](/assets/images/chicken-curry.jpg)
 ## **Slow Cooked Lamb Shanks in a Red Wine Jus**
-![Leg of Lamb](/assets/images/lamb-shanks.jpg)
+![Lamb Shanks](/assets/images/lamb-shanks.jpg)
 ## **Chicken Enchiladas with Homemade Enchilada Sauce**
-![Leg of Lamb](/assets/images/enchiladas.jpg)
+![Enchiladas](/assets/images/enchiladas.jpg)
 ## **Spaghetti Bolognese with Homemade Bolognese Sauce**
-![Leg of Lamb](/assets/images/bolognese.jpg)
+![Bolognese](/assets/images/bolognese.jpg)
 ## **Creamy Chicken, Bacon and Mushroom Carbonara**
 ![Carbonara](/assets/images/carbonara.jpg)
-## **Avocado and Cajun Chicken + Salmon, Spinach and Cream Cheese Bagels**
-![Carbonara](/assets/images/bagels.jpg)
+## **Oven Baked Salmon**
+![Salmon](/assets/images/salmon.jpg)
 ## **Chicken and Mushroom Risotto**
-![Carbonara](/assets/images/risotto.jpg)
-
-
+![Risotto](/assets/images/risotto.jpg)
+## **Avocado and Cajun Chicken + Salmon, Spinach and Cream Cheese Bagels**
+![Bagels](/assets/images/bagels.jpg)
 
 
 
