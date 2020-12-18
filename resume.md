@@ -68,7 +68,7 @@ You can review my resume below or download a copy [here]({{ site.url }}/download
 
 ## **Leadership & service**
 
-### **Kupe Leadership Programme 2021**
+### **Kupe Leadership Programme (2021)**
 
 ### **University of Auckland Investment Club Co-President (2020)**
 
@@ -88,7 +88,7 @@ You can review my resume below or download a copy [here]({{ site.url }}/download
 
 # **Academic achievements & awards**
 
-### **University of Auckland Blues Award for Innovation**
+### **University of Auckland Blues Award for Innovation (2020)**
 
 ### **University of Auckland EY Business Student of the Year – Finalist (2020)**
 
@@ -114,6 +114,10 @@ You can review my resume below or download a copy [here]({{ site.url }}/download
 * Placed 3rd; represented the University of Auckland, competed against eight teams to research the NZX listed Comvita, forecast the share price, and present a recommendation
 
 # **Projects & skills**
+
+### **Engineering Science**
+
+* Engineering scientists use mathematical models and advanced computing to simulate real-world processes, systems and solutions in order to solve the complex problems posed by industry and society. The specialisation builds skills in data science, artificial intelligence, linear and non-linear programming, optimisation, computer science, continuum mechanics, statistics and mathematics. I am equipped to solve problems related to technology, energy, finance, healthcare, telecommunications, transport, mining and infrastructure. Engineering Science is taught at a few other schools around the world under different names: Stanford as Management Science and Engineering, Oxford as Engineering Science and Princeton as Operations Research and Financial Engineering.
 
 ### **Global Carbon Pricing Optimisation Model (2020)**
 
