@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Community
+title: Causes
 ---
 This page describes my contributions to community projects.
 

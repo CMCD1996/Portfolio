@@ -13,28 +13,23 @@ In particular, I am interested in addressing the energy transition, the adoption
 
 {% include googleDrivePlayer.html id=page.driveId %}
 
-[![blog](assets/images/blog.png)](/_site/blog.html)
+[![blog](assets/images/blog.png)](blog.html)
 
-[![Community](assets/images/community.png)](blog.html)
+[![Community](assets/images/community.png)](community.html)
 
-[![Featured](assets/images/featured.png)](/_site/blog.html)
+[![Featured](assets/images/featured.png)](featured.html)
 
-[![Fitness](assets/images/fitness.png)](/_site/blog.html)
+[![Fitness](assets/images/fitness.png)](fitness.html)
 
-[![Food](assets/images/food.png)](/_site/food.html)
+[![Food](assets/images/food.png)](food.html)
 
-[![Projects](assets/images/projects.png)](/_site/projects.html)
+[![Projects](assets/images/projects.png)](projects.html)
 
-[![Resume](assets/images/resume.png)](/_site/resume.html)
+[![Resume](assets/images/resume.png)](resume.html)
 
 **Content**
-* **Blog** : A series of blog posts related to books, articles and topics I find interesting.
-* **Food** : A collection of meals I prepared for myself, friends or family.
-* **Fitness** : An overiew of my training schedules, diet and key fitness-related events.
 * **Featured** : A section displaying the project I am currently working on.
 * **Projects** : A compilation of reports and presentations related to my technical skills.
-* **Resume** : My resume and academic transcript.
-* **Community** 
 
 
 
