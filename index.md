@@ -15,24 +15,24 @@ In particular, I am interested in addressing the energy transition, the adoption
 
 I welcome new connections and feel free to contact me directly!
 
-[![blog](assets/images/blog.png)](_site/blog.html)
+[![blog](assets/images/blog.png)](/_site/blog.html)
 
-[![Community](assets/images/community.png)](_site/blog.html)
+[![Community](assets/images/community.png)](blog.html)
 
-[![Featured](assets/images/featured.png)](_site/blog.html)
+[![Featured](assets/images/featured.png)](/_site/blog.html)
 
-[![Fitness](assets/images/fitness.png)](_site/blog.html)
+[![Fitness](assets/images/fitness.png)](/_site/blog.html)
 
-[![Food](assets/images/food.png)](_site/blog.html)
+[![Food](assets/images/food.png)](/_site/food.html)
 
-[![Projects](assets/images/projects.png)](_site/blog.html)
+[![Projects](assets/images/projects.png)](/_site/projects.html)
 
-[![Resume](assets/images/resume.png)](_site/blog.html)
+[![Resume](assets/images/resume.png)](/_site/resume.html)
 
 **Content**
 * **Blog** : A series of blog posts related to books, articles and topics I find interesting.
 * **Food** : A collection of meals I prepared for myself, friends or family.
-* **Fitness** : A gallery of key events from my academic, extra-curricular and professional activities.
+* **Fitness** : An overiew of my training schedules, diet and key fitness-related events.
 * **Featured** : A section displaying the project I am currently working on.
 * **Projects** : A compilation of reports and presentations related to my technical skills.
 * **Resume** : My resume and academic transcript.
