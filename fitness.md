@@ -5,6 +5,24 @@ title: Fitness
 key: "abc"
 ---
 
-This page is a gallery displaying photos from key events from my academic, extra-curricular and professional activities.
+This page describes my training schedules, diet and races.
 
-TBC
+## ** Training and Routines ** ##
+
+### ** Gym Routine ** ###
+
+### ** Diet ** ###
+
+### ** Ironman Training ** ###
+
+## ** Triathlon ** ##
+
+### ** Tauranga Half ** ###
+
+### ** Ironman New Zealand 2019 ** ###
+
+### ** Ironman 70.3 Sunshine Coast ** ###
+
+
+
+
