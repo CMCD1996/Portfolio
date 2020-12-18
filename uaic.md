@@ -25,7 +25,7 @@ In 2020, I led the University of Auckland Investment Club (UAIC) as Co President
 ## **UAIC 2020 Annual Report**
 I created an annual report with the intention to both document the achievements of our team and provide our successors a benchmark for future years. Click the image below to view the annual report.
 
-[![Annual Report](/assets/images/ar.png)]({{ site.url }}/downloads/annual-report.pdf)
+[![Annual Report](/assets/images/ar.png)]({{ site.url }}/downloads/uaic-annual-report-2020.pdf)
 
 ## **Bulletin**
 David oversaw the Bulletin, a weekly publication of finance-related articles written by students. Articles address finance, investing and market-related events or theories. During our term, the Bulletin team published 15 editions of the bulletin.
