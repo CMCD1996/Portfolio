@@ -15,7 +15,7 @@ In particular, I am interested in addressing the energy transition, the adoption
 
 [![blog](assets/images/blog.png)](blog.html)
 
-[![Community](assets/images/community.png)](community.html)
+[![Community](assets/images/causes.png)](causes.html)
 
 [![Featured](assets/images/featured.png)](featured.html)
 
@@ -27,9 +27,6 @@ In particular, I am interested in addressing the energy transition, the adoption
 
 [![Resume](assets/images/resume.png)](resume.html)
 
-**Content**
-* **Featured** : A section displaying the project I am currently working on.
-* **Projects** : A compilation of reports and presentations related to my technical skills.
 
 
 
