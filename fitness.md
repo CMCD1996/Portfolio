@@ -13,38 +13,40 @@ This page describes my training schedules, diet and races.
 
 DB Bench Press + Chest Flyes | 1 | 2 | 3 | 4 | 5                                                                            
 :------------:|:--:|:--:|:--:|:--:|:--:
-Req Reps      | 12 | 15 | 15 | 15 | 12
+Required Reps | 12 | 15 | 15 | 15 | 12
 Intensity (%) | 80 | 90 | 90 | 90 | 90
 Recovery (s)  | 60 | 60 | 60 | 60 | --
 Weight (kg)   | 22 | 22 | 22 | 22 | 22
 
-Incline Shoulder Press | 1 | 2 | 3 | 4 | 5 
+Incline Shoulder Press       | 1 | 2 | 3 | 4 | 5 
 :------------:|:--:|:--:|:--:|:--:|:--:
-Req Reps      | 12 | 15 | 15 | 15 | 12
+Reps          | 12 | 12 | 12 | 07 | 05
 Intensity (%) | 80 | 90 | 90 | 90 | 90
 Recovery (s)  | 60 | 60 | 60 | 60 | --
-Weight (kg)   | 22 | 22 | 22 | 22 | 22
+Weight (kg)   | 16 | 18 | 18 | 18 | 14
 
 Low Incline Bench Press (MG) | 1 | 2 | 3 | 4 | 5 
 :------------:|:--:|:--:|:--:|:--:|:--:
-Req Reps      | 12 | 15 | 15 | 15 | 12
+Reps          | 07 | 04 | 03 | 03 | 03
 Intensity (%) | 80 | 90 | 90 | 90 | 90
 Recovery (s)  | 60 | 60 | 60 | 60 | --
-Weight (kg)   | 22 | 22 | 22 | 22 | 22
+Weight (kg)   | 22 | 22 | 22 | 22 | --
 
-Dips | 1 | 2 | 3 | 4 | 5 
+Dips                         | 1 | 2 | 3 | 4 | 5 
 :------------:|:--:|:--:|:--:|:--:|:--:
-Req Reps      | 12 | 15 | 15 | 15 | 12
-Intensity (%) | 80 | 90 | 90 | 90 | 90
-Recovery (s)  | 60 | 60 | 60 | 60 | --
-Weight (kg)   | 22 | 22 | 22 | 22 | 22
+Reps          | 05 | 04 | 03 | 03 | --
+Intensity (%) | 80 | 90 | 90 | 90 | --
+Recovery (s)  | 60 | 45 | 30 | -- | --
+Weight (kg)   | -47 | -47 | -47 | -47 | --
 
-Tricep Choice | 1 | 2 | 3 | 4 | 5 
+Tricep Choice                | 1 | 2 | 3 | 4 | 5 
 :------------:|:--:|:--:|:--:|:--:|:--:
-Req Reps      | 12 | 15 | 15 | 15 | 12
-Intensity (%) | 80 | 90 | 90 | 90 | 90
+Reps          | 12 | 12 | 10 | 05 | --
+Intensity (%) | 80 | 90 | 90 | 90 | --
 Recovery (s)  | 60 | 60 | 60 | 60 | --
-Weight (kg)   | 22 | 22 | 22 | 22 | 22
+Weight (kg)   | 26 | 26 | 26 | 26 | --
+
+Note: First day of new exercise routine. Dips came at the end and were very hard to do.
 
 ### **Diet**
 
