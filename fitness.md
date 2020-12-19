@@ -9,6 +9,13 @@ This page describes my training schedules, diet and races.
 
 ## **Training and Routines**
 
+I am following the training programme described below.
+
+Time | Mon | Tue | Wed | Thur | Fri | Sat | Sun                                                                           
+:---:|:----:|:----:|:----:|:----:|:-----:|:-----:|:----------:
+AM   | Swim | Lower | Run | Push | Swim  | Break | Pull
+PM   | Break| Break| Break| Break| Break | Break | Break
+
 ### **Push**
 
 DB Bench Press + Chest Flyes | 1 | 2 | 3 | 4 | 5                                                                            
@@ -172,22 +179,33 @@ Weight (kg)-W3| -- | -- | -- | -- | --
 Weight (kg)-W4| -- | -- | -- | -- | --
 Weight (kg)-W5| -- | -- | -- | -- | --
 
-### **Diet**
+## **Diet**
 
-### **Ironman Training**
+## **Ironman **
+
+### **Training **
+
+I followed the subsequent training schedule over the 2018/2019 summer when training for my first Ironman.
+Approximate training time per week was 20 hours for 12 weeks (240 hours).
+Training preceding was skills based, approximately 8 hours per week for 40 weeks (360 hours). 
+Total training time was approximately 600 hours.
 
 Time | Mon | Tue | Wed | Thur | Fri | Sat | Sun                                                                           
 :---:|:----:|:----:|:----:|:----:|:-----:|:-----:|:----------:
 AM   | Swim | Run  | Swim | Run  | Swim  | Swim  | Bike + Run
 PM   | Run  | Bike | Run  | Bike | Break | Break | Break
 
-## **Triathlon**
-
 ### **Tauranga Half 2019**
+
+TBC
 
 ### **Ironman New Zealand 2019**
 
+TBC
+
 ### **Ironman 70.3 Sunshine Coast 2019**
+
+TBC
 
 
 
