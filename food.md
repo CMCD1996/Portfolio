@@ -21,6 +21,8 @@ I enjoy preparing homemade meals and experimenting with new recipes. The followi
 ![Salmon](/assets/images/salmon.jpg)
 ## **Chicken and Mushroom Risotto**
 ![Risotto](/assets/images/risotto.jpg)
+## **Roast Chicken**
+![Chicken](/assets/images/roast-chicken.jpg)
 ## **Avocado and Cajun Chicken + Salmon, Spinach and Cream Cheese Bagels**
 ![Bagels](/assets/images/bagels.jpg)
 
