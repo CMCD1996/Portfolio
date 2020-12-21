@@ -52,5 +52,7 @@ I started the University of Auckland's Women Engagement Initiative to break down
 
 [![Women Engagement](/assets/images/wei.png)]({{ site.url }}/downloads/women-engagement-initiative.pdf)
 
+## **Mental Health Foundation of New Zealand Fundraising** ##
+[![MHF](/assets/images/mental-health-foundation.png)]({{ site.url }}/downloads/women-engagement-initiative.pdf)
 
 

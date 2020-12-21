@@ -13,6 +13,8 @@ In particular, I am interested in addressing the energy transition, the adoption
 
 {% include googleDrivePlayer.html id=page.driveId %}
 
+[![blog](assets/images/welcome.png)](blog.html)
+
 [![blog](assets/images/blog.png)](blog.html)
 
 [![Community](assets/images/causes.png)](causes.html)

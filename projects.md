@@ -12,13 +12,13 @@ Please click any of the images to review project material and reports.
 
 I am developing an open-source energy modelling tool for users to design their own energy systems. The model intends to inform policy and investment in sustainable technology. The model is built using Python, Excel, GNU Mathprog and IBM Watson Machine Learning services.
 
-[![Project Outline](/assets/images/gocpi-project-outline.png)]({{ site.url }}/downloads/gocpi-presentation.pdf)
+[![Project Outline](/assets/images/project-outline.png)]({{ site.url }}/downloads/gocpi-presentation.pdf)
 
 {% include googleDrivePlayer.html id=page.driveId %}
 
-[![Project Report](/assets/images/report.jpg)]({{ site.url }}/downloads/gocpi-report.pdf)
+[![Project Report](/assets/images/project-report.png)]({{ site.url }}/downloads/gocpi-report.pdf)
 
-[![Research Compendium](/assets/images/compendium.jpg)]({{ site.url }}/downloads/gocpi-compendium.pdf)
+[![Research Compendium](/assets/images/research-compendium.png)]({{ site.url }}/downloads/gocpi-compendium.pdf)
 
 ### GOCPI Information, References and Required Software
 * [OseMOSYS](http://www.osemosys.org/)
@@ -58,7 +58,7 @@ Extracted Power                    | $$P_E = Q \Sigma$$
 Power Available                    | $$\frac{1}{2}\rho \pi R^2 V_{u}^{3}$$                                                 
 Power Co-efficient                 | $$C_P = \frac{P_E}{P_T}$$                                                             
 
-[![Wind Turbine Project](/assets/images/Turbine.jpg)]({{ site.url }}/downloads/turbine.pdf)
+[![Wind Turbine Project](/assets/images/wind-turbine.png)]({{ site.url }}/downloads/turbine.pdf)
 
 ## **Transhipment Project**
 
@@ -67,14 +67,14 @@ I led a team of three in designing and building a series of models to inform tra
 $$ \text{Min }\sum_{i} \sum_{j} \sum_{p} \text{Cost}_{ij} \times \text{Flow}_{ijp} $$
 $$ + \sum_{m} \sum_{h} \text{numperiods} \times \text{packcost}_{m} \times \text{built}_{mh}$$
 
-[![Transhipment Project](/assets/images/Tranship.jpg)]({{ site.url }}/downloads/tranship.pdf)
+[![Transhipment Project](/assets/images/transhipment.png)]({{ site.url }}/downloads/tranship.pdf)
 
 
 ## **Chulalongkorn International Business Case Competition (2019)**
 
 I represented the University of Auckland Case Programme, competing against 20 teams worldwide to develop and present strategies for Line Mobile and Sea Thailand at the Chulalongkorn International Business Case Competition (CIBCC) in Koh Samui, Thailand. Our team presented our analysis on Sea Limited, placing 3rd in the competition. 
 
-[![CIBCC Competition](/assets/images/CIBCC.jpg)]({{ site.url }}/downloads/cibcc.pdf)
+[![CIBCC Competition](/assets/images/cibcc.png)]({{ site.url }}/downloads/cibcc.pdf)
 
 
 ## **Programming** 
@@ -108,14 +108,14 @@ Python function to run the IBM ILOG CPLEX Optimisation locally:
         return objective_value
 ```
 
-[![Programming Assignments](/assets/images/Code.jpg)]({{ site.url }}/downloads/code.pdf)
+[![Programming Assignments](/assets/images/programming.png)]({{ site.url }}/downloads/code.pdf)
 
 
 ## **Design** 
 
 I completed several design projects. One was to design, model and render a household item in PTC Creo. I chose a Gillette fusion proglide razor. The second was an interface (team of five) to create user-defined catapult designs and three dimensional Solidworks models from user designs (Individually). The user interface includes animations programmed in VBA and API's to manipulate the 3D model.
 
-[![Design Project](/assets/images/Design.jpg)]({{ site.url }}/downloads/design.pdf)
+[![Design Project](/assets/images/design.png)]({{ site.url }}/downloads/design.pdf)
 
 
 ## **Optimisation**
@@ -130,4 +130,4 @@ The calculation of expected profit from a manufacturing process. Mean hitting ti
 
 $$M_{ij} = 1 + \sum_{k=1}^{n} P_{ik} \times M_{kj} \text{ where } i \neq j$$
 
-[![Optimisation Assignments](/assets/images/Optimisation.jpg)]({{ site.url }}/downloads/optimisation.pdf)
+[![Optimisation Assignments](/assets/images/optimisation.png)]({{ site.url }}/downloads/optimisation.pdf)

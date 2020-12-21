@@ -68,11 +68,13 @@ You can review my resume below or download a copy [here]({{ site.url }}/download
 
 ## **Leadership & service**
 
-### **Kupe Leadership Programme (2021)**
+### **Kupe Leadership Scholarship (2021)**
+
+* Selected as a Kupe Leadership Scholar for 2021. The programme aims to develop the most influential and effective of the next generation of leaders in Aotearoa New Zealand. Scholars come from all disciplines, are exceptional young people and have a strong desire to serve.
 
 ### **University of Auckland Investment Club Co-President (2020)**
 
-* Co-lead a team of 18 who run investing and finance related events for 400 general members. I manage internal and external relationships while overseeing four competitions, a weekly bulletin, the Women Engagement Initiative, several education events, and the Investment Committee who manage a $20,000 fund on behalf of the club
+* Co-led a team of 18 who run investing and finance related events for 400 general members. I manage internal and external relationships while overseeing four competitions, a weekly bulletin, the Women Engagement Initiative, several education events, and the Investment Committee who manage a $25,000 fund on behalf of the club
 
 ### **University of Auckland Dean’s Executive Committee (2018 – 2019)**
 
@@ -89,6 +91,8 @@ You can review my resume below or download a copy [here]({{ site.url }}/download
 # **Academic achievements & awards**
 
 ### **University of Auckland Blues Award for Innovation (2020)**
+
+* Outstanding achievement in innovation that has created or enhanced a product, process or system which provides an effective solution to a challenging issue. I received this award by developing business strategies to support Line Mobile's growth and Sea Limited's brand as a member of the University of Auckland's Case Programme team. We placed 3rd at the 2019 Chulalongkorn International Business Case Competition held in Koh Samui, Thailand.
 
 ### **University of Auckland EY Business Student of the Year – Finalist (2020)**
 
