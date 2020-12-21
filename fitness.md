@@ -83,18 +83,29 @@ Chins (Overhand Grip) | 1 | 2 | 3 | 4 | 5
 Required Reps | 12 | 15 | 15 | 15 | 12
 Intensity (%) | 80 | 90 | 90 | 90 | 90
 Recovery (s)  | 60 | 60 | 60 | 60 | --
-Weight (kg)-W1| -- | -- | -- | -- | --
+Weight (kg)-W1| SW | -30 | -30 | -30 | -30
 Weight (kg)-W2| -- | -- | -- | -- | --
 Weight (kg)-W3| -- | -- | -- | -- | --
 Weight (kg)-W4| -- | -- | -- | -- | --
 Weight (kg)-W5| -- | -- | -- | -- | --
 
-Bench Pull (Wide Grip) + Bent Over Reverse Flyes | 1 | 2 | 3 | 4 | 5 
+Incline Bench Pull (Wide Grip) | 1 | 2 | 3 | 4 | 5 
 :------------:|:--:|:--:|:--:|:--:|:--:
 Reps          | 12 | 15 | 15 | 15 | 12
 Intensity (%) | 80 | 90 | 90 | 90 | 90
 Recovery (s)  | 60 | 60 | 60 | 60 | --
-Weight (kg)-W1| -- | -- | -- | -- | --
+Weight (kg)-W1| 12 | 12 | 12 | 12 | 12
+Weight (kg)-W2| -- | -- | -- | -- | --
+Weight (kg)-W3| -- | -- | -- | -- | --
+Weight (kg)-W4| -- | -- | -- | -- | --
+Weight (kg)-W5| -- | -- | -- | -- | --
+
+Bent Over Reverse Flyes | 1 | 2 | 3 | 4 | 5 
+:------------:|:--:|:--:|:--:|:--:|:--:
+Reps          | 12 | 15 | 15 | 15 | 12
+Intensity (%) | 80 | 90 | 90 | 90 | 90
+Recovery (s)  | 60 | 60 | 60 | 60 | --
+Weight (kg)-W1| 08 | 08 | 08 | 08 | 08
 Weight (kg)-W2| -- | -- | -- | -- | --
 Weight (kg)-W3| -- | -- | -- | -- | --
 Weight (kg)-W4| -- | -- | -- | -- | --
@@ -102,10 +113,10 @@ Weight (kg)-W5| -- | -- | -- | -- | --
 
 Seated Row | 1 | 2 | 3 | 4 | 5 
 :------------:|:--:|:--:|:--:|:--:|:--:
-Reps          | 12 | 15 | 15 | 15 | 12
-Intensity (%) | 80 | 90 | 90 | 90 | 90
-Recovery (s)  | 60 | 60 | 60 | 60 | --
-Weight (kg)-W1| -- | -- | -- | -- | --
+Reps          | 10 | 10 | 10 | 10 | --
+Intensity (%) | 80 | 90 | 90 | 90 | --
+Recovery (s)  | 60 | 60 | 60 | -- | --
+Weight (kg)-W1| 47 | 47 | 47 | 47 | --
 Weight (kg)-W2| -- | -- | -- | -- | --
 Weight (kg)-W3| -- | -- | -- | -- | --
 Weight (kg)-W4| -- | -- | -- | -- | --
@@ -113,21 +124,21 @@ Weight (kg)-W5| -- | -- | -- | -- | --
 
 Upright Row (Wide Grip) | 1 | 2 | 3 | 4 | 5 
 :------------:|:--:|:--:|:--:|:--:|:--:
-Reps          | 05 | 04 | 03 | 03 | --
+Reps          | 10 | 10 | 10 | 10 | --
 Intensity (%) | 80 | 90 | 90 | 90 | --
 Recovery (s)  | 60 | 45 | 30 | -- | --
-Weight (kg)   | -47| -47| -47| -47| --
+Weight (kg)   | 20 | 20 | 20 | 20 | --
 Weight (kg)-W2| -- | -- | -- | -- | --
 Weight (kg)-W3| -- | -- | -- | -- | --
 Weight (kg)-W4| -- | -- | -- | -- | --
 Weight (kg)-W5| -- | -- | -- | -- | --
 
-Bicep Choice | 1 | 2 | 3 | 4 | 5 
+BB Curl | 1 | 2 | 3 | 4 | 5 
 :------------:|:--:|:--:|:--:|:--:|:--:
-Reps          | 12 | 12 | 12 | 12 | --
+Reps          | 10 | 10 | 10 | 10 | --
 Intensity (%) | 80 | 90 | 90 | 90 | --
-Recovery (s)  | 60 | 60 | 60 | 60 | --
-Weight (kg)-W1| 26 | 26 | 26 | 26 | --
+Recovery (s)  | 60 | 60 | 60 | -- | --
+Weight (kg)-W1| 20 | 20 | 20 | 20 | --
 Weight (kg)-W2| -- | -- | -- | -- | --
 Weight (kg)-W3| -- | -- | -- | -- | --
 Weight (kg)-W4| -- | -- | -- | -- | --
@@ -179,15 +190,24 @@ Weight (kg)-W3| -- | -- | -- | -- | --
 Weight (kg)-W4| -- | -- | -- | -- | --
 Weight (kg)-W5| -- | -- | -- | -- | --
 
-## **Diet**
+### **Swim**
 
-## **Ironman **
+Reverse Pyramids | WU | 1 | 2 | 3 | 4 | 5 | 6 | 7
+:------------:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:
+Metres        | 300 | 400 | 300 | 200 | 100 | 200 | 300 | 400 
+Intensity (%) | 50 | 90 | 90 | 90 | 90 | 90 | 90 | 90 
+Recovery (s)  | 30 | 30 | 30 | 30 | 30 | 30 | 30 | 30 
 
-### **Training **
+Week | Time (mm:ss) 
+:---:|:------:
+1 | 46m 20s
+## **Ironman**
+
+### **Training**
 
 I followed the subsequent training schedule over the 2018/2019 summer when training for my first Ironman.
 Approximate training time per week was 20 hours for 12 weeks (240 hours).
-Training preceding was skills based, approximately 8 hours per week for 40 weeks (360 hours). 
+Training preceding this schedule was skills based, approximately 8 hours per week for 45 weeks (360 hours). 
 Total training time was approximately 600 hours.
 
 Time | Mon | Tue | Wed | Thur | Fri | Sat | Sun                                                                           
