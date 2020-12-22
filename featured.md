@@ -4,7 +4,11 @@ title: Featured
 ---
 
 
-This page describes my most active project.
+Featured describes my active projects.
+
+![Case Framework](/assets/images/case-framework.png)
+
+![UAIC Advisory Board](/assets/images/uaic-advisory-board.png)
 
 
 

@@ -205,7 +205,7 @@ Week | Time (mm:ss)
 :---:|:------:
 1 | 46m 20s
 
-## **Ironman**
+![Ironman](/assets/images/ironman.png)
 
 ### **Training**
 
@@ -221,7 +221,7 @@ PM   | Run  | Bike | Run  | Bike | Break | Break | Break
 
 ### **Tauranga Half 2019**
 
-TBC
+I competed in the Tauranga Half Multi Sport event in January 2019.
 
 ### **Ironman New Zealand 2019**
 
