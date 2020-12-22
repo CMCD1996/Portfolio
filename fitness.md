@@ -5,7 +5,9 @@ title: Fitness
 key: "abc"
 ---
 
-This page describes my training schedules, diet and races.
+This page describes my training schedules and Ironman races.
+
+![Training](/assets/images/training.png)
 
 ## **Training and Routines**
 
