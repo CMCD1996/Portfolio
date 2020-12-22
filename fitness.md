@@ -151,7 +151,7 @@ Squat | 1 | 2 | 3 | 4 | 5
 Required Reps | 12 | 15 | 15 | 15 | 12
 Intensity (%) | 80 | 90 | 90 | 100 | 100
 Recovery (s)  | 60 | 60 | 60 | 60 | --
-Weight (kg)-W1| -- | -- | -- | -- | --
+Weight (kg)-W1| 40 | 40 | 40 | 40 | 40
 Weight (kg)-W2| -- | -- | -- | -- | --
 Weight (kg)-W3| -- | -- | -- | -- | --
 Weight (kg)-W4| -- | -- | -- | -- | --
@@ -162,7 +162,7 @@ Deadlift | 1 | 2 | 3 | 4 | 5
 Required Reps          | 12 | 15 | 15 | 15 | 12
 Intensity (%) | 80 | 90 | 90 | 90 | 90
 Recovery (s)  | 60 | 60 | 60 | 60 | --
-Weight (kg)-W1| -- | -- | -- | -- | --
+Weight (kg)-W1| 60 | 60 | 60 | 60 | 60
 Weight (kg)-W2| -- | -- | -- | -- | --
 Weight (kg)-W3| -- | -- | -- | -- | --
 Weight (kg)-W4| -- | -- | -- | -- | --
@@ -173,7 +173,7 @@ Single Leg Press | 1 | 2 | 3 | 4 | 5
 Reps          | 15 | 10 | 05 | 10 | --
 Intensity (%) | 80 | 90 | 90 | 90 | --
 Recovery (s)  | 60 | 45 | 30 | -- | --
-Weight (kg)-W1| -- | -- | -- | -- | --
+Weight (kg)-W1| 20 | 20 | 20 | 20 | --
 Weight (kg)-W2| -- | -- | -- | -- | --
 Weight (kg)-W3| -- | -- | -- | -- | --
 Weight (kg)-W4| -- | -- | -- | -- | --
@@ -184,11 +184,14 @@ Sled Walk | 1 | 2 | 3 | 4 | 5
 Metres        | 100 | 100 | 100 | 100 | --
 Intensity (%) | 80 | 90 | 90 | 90 | --
 Recovery (s)  | 90 | 90 | 90 | -- | --
-Weight (kg)   | -- | -- | -- | -- | --
+Weight (kg)   | 20 | 20 | 20 | 20 | --
 Weight (kg)-W2| -- | -- | -- | -- | --
 Weight (kg)-W3| -- | -- | -- | -- | --
 Weight (kg)-W4| -- | -- | -- | -- | --
 Weight (kg)-W5| -- | -- | -- | -- | --
+
+**Notes**
+* Week 1: Focussed on technique and mobility to build a base to improve. Sled walks were very hard.
 
 ### **Swim**
 
