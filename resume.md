@@ -73,7 +73,7 @@ You can review my resume below or download a copy [here.]({{ site.url }}/downloa
 
 ### **University of Auckland Investment Club Co-President (2020)**
 
-* co-led a team of 17 who run investing and finance-related events for 400 general members. I managed internal and external relationships while overseeing four competitions, the Women Engagement Initiative and the Investment Committee who manage a $25,000 fund on behalf of the club
+* Co-led a team of 17 who run investing and finance-related events for 400 general members. I managed internal and external relationships while overseeing four competitions, the Women Engagement Initiative and the Investment Committee who manage a $25,000 fund on behalf of the club
 
 ### **University of Auckland Dean’s Executive Committee (2018 – 2019)**
 
