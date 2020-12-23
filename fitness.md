@@ -15,7 +15,7 @@ I am following the training programme described below.
 
 Time | Mon | Tue | Wed | Thur | Fri | Sat | Sun                                                                           
 :---:|:----:|:----:|:----:|:----:|:-----:|:-----:|:----------:
-AM   | Swim | Lower | Run | Push | Swim  | Break | Pull
+AM   | Swim | Lower | Break | Push | Run  | Swim | Pull
 PM   | Break| Break| Break| Break| Break | Break | Break
 
 ### **Push**

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Projects
+key: {% include googleDrivePlayer.html id=page.driveId %}
 driveId: 1rW4om3FqDZl6quL-0PVW-l-c71CBFPBF/preview
 ---
 
@@ -14,7 +15,7 @@ I am developing an open-source energy modelling tool for users to design their o
 
 [![Project Outline](/assets/images/project-outline.png)]({{ site.url }}/downloads/gocpi-presentation.pdf)
 
-{% include googleDrivePlayer.html id=page.driveId %}
+[![Project Presentation](assets/images/cinema.png)]({{ site.url }}/downloads/wip.pdf)
 
 [![Project Report](/assets/images/project-report.png)]({{ site.url }}/downloads/gocpi-report.pdf)
 
