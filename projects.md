@@ -78,12 +78,16 @@ I represented the University of Auckland Case Programme, competing against 20 te
 
 ### **Photos**
 Photos | Photos
+
 :------------------------------:|:-------------------------------:
+
 ![](/assets/images/cibcc-1.jpg) | ![](/assets/images/cibcc-2.jpg)
 ![](/assets/images/cibcc-3.jpg) | ![](/assets/images/cibcc-4.jpg)
 
 Title 1                 | Title 2              
+
 :---------------------: | :-------------------:
+
 lorem                   | lorem ipsum            
 lorem ipsum dolor sit   | lorem ipsum dolor sit  
 lorem ipsum dolor sit   | lorem ipsum dolor sit  
