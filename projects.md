@@ -6,7 +6,7 @@ driveId: 1rW4om3FqDZl6quL-0PVW-l-c71CBFPBF/preview
 
 This page explains some of the projects I completed during my undergraduate degree.
 
-Please click any of the images to review project material and reports.
+Please click any of the graphics to review project material and reports.
 
 ## **GOCPI: A Scalable Energy System Modelling Tool (2019)**
 

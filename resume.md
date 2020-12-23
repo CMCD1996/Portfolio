@@ -42,6 +42,9 @@ You can review my resume below or download a copy [here.]({{ site.url }}/downloa
 
 * Completed Heli-Sea, Onshore, Offshore, and Fire Fighting training
 
+| ![](/assets/images/xom-1.jpg) | ![](/assets/images/xom-3.jpg) |
+| ![](/assets/images/xom-2.jpg) | ![](/assets/images/xom-4.jpg) |
+
 ### **Deloitte New Zealand | Management Consulting Analyst (2018-2019)**
 
 * Conducted data analysis for the development of a new operating model for a public sector client. The new model was to improve education equity across New Zealand
