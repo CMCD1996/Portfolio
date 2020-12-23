@@ -8,7 +8,6 @@ My resume includes personal details, employment history, leadership, service, ac
 
 You can review my resume below or download a copy [here]({{ site.url }}/downloads/resume.pdf)
 
-
 ## **Personal details**
 
 * Degree: Bachelor of Commerce (Honours, Finance) / Bachelor of Engineering (Honours, Engineering Science) Conjoint
@@ -70,11 +69,11 @@ You can review my resume below or download a copy [here]({{ site.url }}/download
 
 ### **Kupe Leadership Scholarship (2021)**
 
-* Selected as a Kupe Leadership Scholar for 2021. The programme aims to develop the most influential and effective of the next generation of leaders in Aotearoa New Zealand. Scholars come from all disciplines, are exceptional young people and have a strong desire to serve.
+* Selected as a Kupe Leadership Scholar for 2021. The programme aims to develop the most influential and effective of the next generation of leaders in Aotearoa New Zealand. Scholars are exceptional young people from all disciplines who have a strong desire to serve and tackle the most pressing issues facing Aotearoa New Zealand
 
 ### **University of Auckland Investment Club Co-President (2020)**
 
-* Co-led a team of 18 who run investing and finance related events for 400 general members. I manage internal and external relationships while overseeing four competitions, a weekly bulletin, the Women Engagement Initiative, several education events, and the Investment Committee who manage a $25,000 fund on behalf of the club
+* co-led a team of 17 who run investing and finance-related events for 400 general members. I managed internal and external relationships while overseeing four competitions, the Women Engagement Initiative and the Investment Committee who manage a $25,000 fund on behalf of the club
 
 ### **University of Auckland Dean’s Executive Committee (2018 – 2019)**
 
@@ -92,7 +91,7 @@ You can review my resume below or download a copy [here]({{ site.url }}/download
 
 ### **University of Auckland Blues Award for Innovation (2020)**
 
-* Outstanding achievement in innovation that has created or enhanced a product, process or system which provides an effective solution to a challenging issue. I received this award by developing business strategies to support Line Mobile's growth and Sea Limited's brand as a member of the University of Auckland's Case Programme team. We placed 3rd at the 2019 Chulalongkorn International Business Case Competition held in Koh Samui, Thailand.
+* Recognised for an outstanding achievement in innovation that created or enhanced a product, process or system which provides an effective solution to a challenging issue. I received this award for placing 3rd against 20 teams world-wide at the 2019 Chulalongkorn International Business Case Competition in Koh Samui, Thailand. I developed growth and branding strategies for Line Mobile and Sea Thailand respectively as a member of the University of Auckland’s Case Programme team
 
 ### **University of Auckland EY Business Student of the Year – Finalist (2020)**
 
@@ -121,11 +120,11 @@ You can review my resume below or download a copy [here]({{ site.url }}/download
 
 ### **Engineering Science**
 
-* Engineering scientists use mathematical models and advanced computing to simulate real-world processes, systems and solutions in order to solve the complex problems posed by industry and society. The specialisation builds skills in data science, artificial intelligence, linear and non-linear programming, optimisation, computer science, continuum mechanics, statistics and mathematics. I am equipped to solve problems related to technology, energy, finance, healthcare, telecommunications, transport, mining and infrastructure. Engineering Science is taught at a few other schools around the world under different names: Stanford as Management Science and Engineering, Oxford as Engineering Science and Princeton as Operations Research and Financial Engineering.
+* Engineering scientists use mathematical models and advanced computing to simulate real-world processes, systems and solutions in order to solve the complex problems posed by industry and society. The specialisation builds skills in data science, artificial intelligence, linear and non-linear programming, optimisation, computer science, continuum mechanics, statistics and mathematics. I am equipped to solve problems related to technology, energy, finance, healthcare, telecommunications, transport, mining and infrastructure. Engineering Science is taught at a few other schools around the world under different names: Stanford as Management Science and Engineering, Oxford as Engineering Science and Princeton as Operations Research and Financial Engineering
 
 ### **Global Carbon Pricing Optimisation Model (2020)**
 
-* Building a model to inform carbon pricing initiatives across user-defined geographies. The model intends to inform policy and investment in sustainable technology. The model is built using Python, Excel, GNU Mathprog and IBM Watson Machine Learning services
+* Building a model to inform energy investment across user-defined geographies. The model intends to inform policy and investment in sustainable technology. The model is built using Python, Excel, GNU Mathprog and IBM Watson Machine Learning services
 
 ### **Prototype Wind Turbine (2018)**
 
