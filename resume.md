@@ -6,7 +6,7 @@ title: Resume
 
 My resume includes personal details, employment history, leadership, service, academic achievements, awards, projects, skills and extra-curriculars.
 
-You can review my resume below or download a copy [here]({{ site.url }}/downloads/resume.pdf)
+You can review my resume below or download a copy [here.]({{ site.url }}/downloads/resume.pdf)
 
 ## **Personal details**
 

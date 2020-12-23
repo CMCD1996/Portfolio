@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Projects
-key: {% include googleDrivePlayer.html id=page.driveId %}
 driveId: 1rW4om3FqDZl6quL-0PVW-l-c71CBFPBF/preview
 ---
 
