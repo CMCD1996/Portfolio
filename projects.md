@@ -82,7 +82,12 @@ Photos | Photos
 ![](/assets/images/cibcc-1.jpg) | ![](/assets/images/cibcc-2.jpg)
 ![](/assets/images/cibcc-3.jpg) | ![](/assets/images/cibcc-4.jpg)
 
-
+Title 1                 | Title 2              
+:---------------------: | :-------------------:
+lorem                   | lorem ipsum            
+lorem ipsum dolor sit   | lorem ipsum dolor sit  
+lorem ipsum dolor sit   | lorem ipsum dolor sit  
+lorem ipsum dolor sit   | lorem ipsum dolor sit  
 ## **Programming** 
 
 I completed several assignments to improve coding skills in Python, C++, MatLab, SQL, VBA, AMPL and Git.
