@@ -1,7 +1,6 @@
 ---
 layout: default
 driveId: 1lxj91VTGCbmIsP7Re86GWfWpXlR2a2Me/preview
-key: {% include googleDrivePlayer.html id=page.driveId %}
 ---
 [![blog](assets/images/welcome.png)]({{ site.url }}/downloads/wip.pdf)
 
