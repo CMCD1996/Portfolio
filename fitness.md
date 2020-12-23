@@ -223,7 +223,7 @@ PM   | Run  | Bike | Run  | Bike | Break | Break | Break
 
 ### **Tauranga Half 2019**
 
-I competed in the Tauranga Half Multi Sport event in January 2019. This was my first triathlon race. The race includes a 1.9k swim, 90km cycle and 21km run. The swim was my first open water swim. I had issues with sighting but persevered. The cycle was three circuits from Mt Maunganui down the straight towards Papamoa and back. The run included a couple laps around the base of Mt Maunganui in approximately 30 degrees celcius. I finished in just under 6 hours with many lessons learned for the next race.
+I competed in the Tauranga Half Multi Sport event in January 2019. This was my first triathlon race. The race includes a 1.9k swim, 90km cycle and 21.1km run. The swim was my first open water swim. I had issues with sighting but persevered. The cycle was three circuits from Mt Maunganui down the straight towards Papamoa and back. The run included a couple laps around the base of Mt Maunganui in approximately 30 degrees celsius. I finished in just under 6 hours with many lessons learned for the next race.
 
 ### **Ironman New Zealand 2019**
 
@@ -235,7 +235,7 @@ I completed my first full distance Ironman in March 2019. The race is comprised 
 
 ### **Ironman 70.3 Sunshine Coast 2019**
 
-In September 2019, I flew to the Sunshine to visit my childhood friend Trevor and his family (Di and Dave pictured below). While I was there, I competed in the Ironman 70.3 Sunshine Coast. My university schedule and other priorities led to 
+In September 2019, I flew to the Sunshine to visit my childhood friend Trevor and his family (Di and Dave pictured below). While I was there, I competed in the Ironman 70.3 Sunshine Coast. My university schedule and other priorities led to a more relaxed training schedule. It was lovely soaking in the sights on the sunshine coast as I pushed through the 1.9km swim, 90km cycle and 21.1km run. It was tough in approximately 30 degrees celsius again. I finished the race approximately 6 hours 20 minutes. It was a great trip visiting an old friend from childhood.
 
 | ![](/assets/images/imsc-1.jpg) | ![](/assets/images/imsc-2.jpg) |
 
