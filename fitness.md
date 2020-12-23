@@ -223,11 +223,11 @@ PM   | Run  | Bike | Run  | Bike | Break | Break | Break
 
 ### **Tauranga Half 2019**
 
-I competed in the Tauranga Half Multi Sport event in January 2019.
+I competed in the Tauranga Half Multi Sport event in January 2019. This was my first triathlon race. The race includes a 1.9k swim, 90km cycle and 21km run. The swim was my first open water swim. I had issues with sighting but persevered. The cycle was three circuits from Mt Maunganui down the straight towards Papamoa and back. The run included a couple laps around the base of Mt Maunganui in approximately 30 degrees celcius.
 
 ### **Ironman New Zealand 2019**
 
-TBC
+| ![](/assets/images/imsc-1.jpg) | ![](/assets/images/imsc-2.jpg) |
 
 ### **Ironman 70.3 Sunshine Coast 2019**
 
