@@ -77,9 +77,10 @@ I represented the University of Auckland Case Programme, competing against 20 te
 [![CIBCC Competition](/assets/images/cibcc.png)]({{ site.url }}/downloads/cibcc.pdf)
 
 ### **Photos**
-:------------------------------------:|:------------------------------------:
-![cibcc-1](/assets/images/cibcc-1.jpg)|![cibcc-2](/assets/images/cibcc-2.jpg)
-![cibcc-3](/assets/images/cibcc-3.jpg)|![cibcc-4](/assets/images/cibcc-4.jpg)
+| Photos | Photos |
+:------------------------------:|:-------------------------------:
+![](/assets/images/cibcc-1.jpg) | ![](/assets/images/cibcc-2.jpg)
+![](/assets/images/cibcc-3.jpg) | ![](/assets/images/cibcc-4.jpg)
 
 
 ## **Programming** 
