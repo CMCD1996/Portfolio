@@ -2,7 +2,12 @@
 layout: default
 title: Causes
 ---
-This page describes my contributions to community projects.
+This page describes my principles and contributions to community projects.
+
+## **Principles**
+I use this set of principles to evaluate opportunities, make decisions, grow relationships and shape the direction of my personal, professional and co-curricular commitment. I was inspired to adopt this framework after reading Principles by Ray Dalio. **Click the image below to review my principles**
+
+[![MHF](/assets/images/principles.png)]({{ site.url }}/downloads/wip.pdf)
 
 ## **University of Auckland Investment Club in 2020** ##
 

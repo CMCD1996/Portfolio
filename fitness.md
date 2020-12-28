@@ -125,7 +125,7 @@ Required Reps | 12 | 15 | 15 | 15 | 12
 Intensity (%) | 80 | 90 | 90 | 90 | 90
 Recovery (s)  | 60 | 60 | 60 | 60 | --
 Weight (kg)-W1| SW | -30 | -30 | -30 | -30
-Weight (kg)-W2| -- | -- | -- | -- | --
+Weight (kg)-W2| -30 | -30 | -30 | -30  -30
 Weight (kg)-W3| -- | -- | -- | -- | --
 Weight (kg)-W4| -- | -- | -- | -- | --
 Weight (kg)-W5| -- | -- | -- | -- | --
@@ -136,7 +136,7 @@ Reps          | 12 | 15 | 15 | 15 | 12
 Intensity (%) | 80 | 90 | 90 | 90 | 90
 Recovery (s)  | 60 | 60 | 60 | 60 | --
 Weight (kg)-W1| 12 | 12 | 12 | 12 | 12
-Weight (kg)-W2| -- | -- | -- | -- | --
+Weight (kg)-W2| 14 | 12 | 12 | 12 | 12
 Weight (kg)-W3| -- | -- | -- | -- | --
 Weight (kg)-W4| -- | -- | -- | -- | --
 Weight (kg)-W5| -- | -- | -- | -- | --
@@ -147,7 +147,7 @@ Reps          | 12 | 15 | 15 | 15 | 12
 Intensity (%) | 80 | 90 | 90 | 90 | 90
 Recovery (s)  | 60 | 60 | 60 | 60 | --
 Weight (kg)-W1| 08 | 08 | 08 | 08 | 08
-Weight (kg)-W2| -- | -- | -- | -- | --
+Weight (kg)-W2| 10 | 10 | 10 | 10 | 10
 Weight (kg)-W3| -- | -- | -- | -- | --
 Weight (kg)-W4| -- | -- | -- | -- | --
 Weight (kg)-W5| -- | -- | -- | -- | --
@@ -158,7 +158,7 @@ Reps          | 10 | 10 | 10 | 10 | --
 Intensity (%) | 80 | 90 | 90 | 90 | --
 Recovery (s)  | 60 | 60 | 60 | -- | --
 Weight (kg)-W1| 47 | 47 | 47 | 47 | --
-Weight (kg)-W2| -- | -- | -- | -- | --
+Weight (kg)-W2| 40 | 40 | 40 | 40 | --
 Weight (kg)-W3| -- | -- | -- | -- | --
 Weight (kg)-W4| -- | -- | -- | -- | --
 Weight (kg)-W5| -- | -- | -- | -- | --
@@ -169,7 +169,7 @@ Reps          | 10 | 10 | 10 | 10 | --
 Intensity (%) | 80 | 90 | 90 | 90 | --
 Recovery (s)  | 60 | 45 | 30 | -- | --
 Weight (kg)   | 20 | 20 | 20 | 20 | --
-Weight (kg)-W2| -- | -- | -- | -- | --
+Weight (kg)-W2| 20 | 20 | 20 | 20 | --
 Weight (kg)-W3| -- | -- | -- | -- | --
 Weight (kg)-W4| -- | -- | -- | -- | --
 Weight (kg)-W5| -- | -- | -- | -- | --
@@ -180,7 +180,7 @@ Reps          | 10 | 10 | 10 | 10 | --
 Intensity (%) | 80 | 90 | 90 | 90 | --
 Recovery (s)  | 60 | 60 | 60 | -- | --
 Weight (kg)-W1| 20 | 20 | 20 | 20 | --
-Weight (kg)-W2| -- | -- | -- | -- | --
+Weight (kg)-W2| 20 | 20 | 25 | 22.5 | 
 Weight (kg)-W3| -- | -- | -- | -- | --
 Weight (kg)-W4| -- | -- | -- | -- | --
 Weight (kg)-W5| -- | -- | -- | -- | --
@@ -193,7 +193,7 @@ Required Reps | 12 | 15 | 15 | 15 | 12
 Intensity (%) | 80 | 90 | 90 | 100 | 100
 Recovery (s)  | 60 | 60 | 60 | 60 | --
 Weight (kg)-W1| 40 | 40 | 40 | 40 | 40
-Weight (kg)-W2| -- | -- | -- | -- | --
+Weight (kg)-W2| 50 | 50 | 50 | 50 | 50
 Weight (kg)-W3| -- | -- | -- | -- | --
 Weight (kg)-W4| -- | -- | -- | -- | --
 Weight (kg)-W5| -- | -- | -- | -- | --
@@ -204,7 +204,7 @@ Required Reps          | 12 | 15 | 15 | 15 | 12
 Intensity (%) | 80 | 90 | 90 | 90 | 90
 Recovery (s)  | 60 | 60 | 60 | 60 | --
 Weight (kg)-W1| 60 | 60 | 60 | 60 | 60
-Weight (kg)-W2| -- | -- | -- | -- | --
+Weight (kg)-W2| 70 | 70 | 70 | 70 | 70
 Weight (kg)-W3| -- | -- | -- | -- | --
 Weight (kg)-W4| -- | -- | -- | -- | --
 Weight (kg)-W5| -- | -- | -- | -- | --
@@ -215,7 +215,7 @@ Reps          | 15 | 10 | 05 | 10 | --
 Intensity (%) | 80 | 90 | 90 | 90 | --
 Recovery (s)  | 60 | 45 | 30 | -- | --
 Weight (kg)-W1| 20 | 20 | 20 | 20 | --
-Weight (kg)-W2| -- | -- | -- | -- | --
+Weight (kg)-W2| 30 | 30 | 30 | 30 | --
 Weight (kg)-W3| -- | -- | -- | -- | --
 Weight (kg)-W4| -- | -- | -- | -- | --
 Weight (kg)-W5| -- | -- | -- | -- | --
@@ -226,7 +226,7 @@ Metres        | 100 | 100 | 100 | 100 | --
 Intensity (%) | 80 | 90 | 90 | 90 | --
 Recovery (s)  | 90 | 90 | 90 | -- | --
 Weight (kg)   | 20 | 20 | 20 | 20 | --
-Weight (kg)-W2| -- | -- | -- | -- | --
+Weight (kg)-W2| 20 | 20 | 20 | 20 | --
 Weight (kg)-W3| -- | -- | -- | -- | --
 Weight (kg)-W4| -- | -- | -- | -- | --
 Weight (kg)-W5| -- | -- | -- | -- | --
