@@ -4,11 +4,6 @@ title: Causes
 ---
 This page describes my principles and contributions to community projects.
 
-## **Principles**
-I use this set of principles to evaluate opportunities, make decisions, grow relationships and shape the direction of my personal, professional and co-curricular commitment. I was inspired to adopt this framework after reading Principles by Ray Dalio. **Click the image below to review my principles**
-
-[![MHF](/assets/images/principles.png)]({{ site.url }}/downloads/wip.pdf)
-
 ## **University of Auckland Investment Club in 2020** ##
 
 In 2020, I led the University of Auckland Investment Club (UAIC) as Co President with David Saul. We introduced several new initiatives while running several of UAIC's legacy offerings. I lead Competition, Investment Committee, Women Engagement Initiative, Treasurer portfolios while managing sponsorship negotiations and external relationships. David managed Bulletin, Marketing, Education and Social portfolios while managing the implementation of organisational changes.
