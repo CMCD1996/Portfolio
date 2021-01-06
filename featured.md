@@ -4,12 +4,11 @@ title: Featured
 ---
 
 
-This page features my principles, the advice I pass onto those I mentor and the projects I am actively working on.
-
-## **Principles**
-I use this set of principles to evaluate opportunities, build relationships and shape the direction of my personal, professional and co-curricular commitments. I was inspired to adopt this framework after reading Principles by Ray Dalio. **Click the image below to review my principles**
+This page features my principles, the advice I pass to mentees and the projects I am actively working on.
 
 [![MHF](/assets/images/principles.png)]({{ site.url }}/downloads/wip.pdf)
+
+[![MHF](/assets/images/lessons.png)]({{ site.url }}/downloads/wip.pdf)
 
 [![MHF](/assets/images/technical.png)]({{ site.url }}/downloads/wip.pdf)
 
