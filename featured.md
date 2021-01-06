@@ -6,11 +6,11 @@ title: Featured
 
 This page features my principles, the advice I pass to mentees and the projects I am actively working on.
 
-[![MHF](/assets/images/principles.png)]({{ site.url }}/downloads/wip.pdf)
+[![principles](/assets/images/principles.png)]({{ site.url }}/downloads/wip.pdf)
 
-[![MHF](/assets/images/lessons.png)]({{ site.url }}/downloads/wip.pdf)
+[![lessons](/assets/images/lessons.png)]({{ site.url }}/downloads/wip.pdf)
 
-[![MHF](/assets/images/technical.png)]({{ site.url }}/downloads/wip.pdf)
+[![technical](/assets/images/technical.png)]({{ site.url }}/downloads/wip.pdf)
 
 [![Case Framework](/assets/images/case-frameworks.png)]({{ site.url }}/downloads/wip.pdf)
 
