@@ -11,6 +11,8 @@ I use this set of principles to evaluate opportunities, build relationships and 
 
 [![MHF](/assets/images/principles.png)]({{ site.url }}/downloads/wip.pdf)
 
+[![MHF](/assets/images/technical.png)]({{ site.url }}/downloads/wip.pdf)
+
 [![Case Framework](/assets/images/case-frameworks.png)]({{ site.url }}/downloads/wip.pdf)
 
 [![UAIC Advisory Board](/assets/images/uaic-advisory-board.png)]({{ site.url }}/downloads/wip.pdf)

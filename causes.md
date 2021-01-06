@@ -2,7 +2,10 @@
 layout: default
 title: Causes
 ---
-This page describes my principles and contributions to community projects.
+This page describes my contributions to the community.
+
+## **Kupe Leadership Programme**
+[![Kupe](/assets/images/kupe.png)]({{ site.url }}/downloads/wip.pdf)
 
 ## **University of Auckland Investment Club in 2020** ##
 
