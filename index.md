@@ -2,7 +2,7 @@
 layout: default
 driveId: 1lxj91VTGCbmIsP7Re86GWfWpXlR2a2Me/preview
 ---
-[![blog](assets/images/welcome.png)]({{ site.url }}/downloads/wip.pdf)
+[![blog](assets/images/welcome.png)](index.html)
 
 [![blog](assets/images/blog.png)](blog.html)
 
