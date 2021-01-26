@@ -7,6 +7,8 @@ I enjoy preparing homemade meals and experimenting with new recipes. The followi
 
 ## **Roast Leg of Lamb in a Red Wine Jus**
 ![Leg of Lamb](/assets/images/leg-o-lamb.jpg)
+## **Roast Pork**
+![Roast Pork](/assets/images/roast-pork.jpg)
 ## **Creamy Yellow Chicken Curry**
 ![Chicken Curry](/assets/images/chicken-curry.jpg)
 ## **Slow Cooked Lamb Shanks in a Red Wine Jus**
@@ -23,6 +25,8 @@ I enjoy preparing homemade meals and experimenting with new recipes. The followi
 ![Risotto](/assets/images/risotto.jpg)
 ## **Roast Chicken**
 ![Chicken](/assets/images/roast-chicken.jpg)
+## **Homemade Pizza**
+![Pizza](/assets/images/pizza-hm.jpg)
 ## **Avocado and Cajun Chicken + Salmon, Spinach and Cream Cheese Bagels**
 ![Bagels](/assets/images/bagels.jpg)
 
