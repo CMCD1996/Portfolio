@@ -5,44 +5,44 @@ title: Food
 
 I enjoy preparing homemade meals and experimenting with new recipes. The following dishes are a sample of the meals I have prepared for myself, friends or family.
 
-# **Lamb**
-## **Roast Leg of Lamb in a Red Wine Jus**
+# Lamb
+## Roast Leg of Lamb in a Red Wine Jus
 ![Leg of Lamb](/assets/images/leg-o-lamb.jpg)
-## **Slow Cooked Lamb Shanks in a Red Wine Jus**
+## Slow Cooked Lamb Shanks in a Red Wine Jus
 ![Lamb Shanks](/assets/images/lamb-shanks.jpg)
 
-# **Pork
-## **Roast Pork**
+# Pork
+## Roast Pork
 ![Roast Pork](/assets/images/roast-pork.jpg)
 
-# **Chicken
-## **Roast Chicken**
+# Chicken
+## Roast Chicken
 ![Chicken](/assets/images/roast-chicken.jpg)
-## **Creamy Yellow Chicken Curry**
+## Creamy Yellow Chicken Curry
 ![Chicken Curry](/assets/images/chicken-curry.jpg)
-## **Chicken Enchiladas with Homemade Enchilada Sauce**
+## Chicken Enchiladas with Homemade Enchilada Sauce
 ![Enchiladas](/assets/images/enchiladas.jpg)
 
-# **Soups**
-## **Potato and Leek Soup**
+# Soups
+## Potato and Leek Soup
 ![Potato and Leek Soup](/assets/images/pizza-hm.jpg)
 
-# **Pasta
-## **Spaghetti Bolognese with Homemade Bolognese Sauce**
+# Pasta
+## Spaghetti Bolognese with Homemade Bolognese Sauce
 ![Bolognese](/assets/images/bolognese.jpg)
-## **Creamy Chicken, Bacon and Mushroom Carbonara**
+## Creamy Chicken, Bacon and Mushroom Carbonara
 ![Carbonara](/assets/images/carbonara.jpg)
 
-# **Seafood
-## **Oven Baked Salmon**
+# Seafood
+## Oven Baked Salmon
 ![Salmon](/assets/images/salmon.jpg)
 
-# **Pizza**
-## **Homemade Margherita Pizza**
+# Pizza
+## Homemade Margherita Pizza
 ![Pizza](/assets/images/pizza-hm.jpg)
 
-# **Rice**
-## **Chicken and Mushroom Risotto**
+# Rice
+## Chicken and Mushroom Risotto
 ![Risotto](/assets/images/risotto.jpg)
 
 
