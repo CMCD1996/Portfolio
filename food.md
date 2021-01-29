@@ -25,7 +25,7 @@ I enjoy preparing homemade meals and experimenting with new recipes. The followi
 
 # Soups
 ## Potato and Leek Soup
-![Potato and Leek Soup](/assets/images/pizza-hm.jpg)
+![Potato and Leek Soup](/assets/images/potato-leek-soup.jpg)
 
 # Pasta
 ## Spaghetti Bolognese with Homemade Bolognese Sauce
@@ -44,6 +44,8 @@ I enjoy preparing homemade meals and experimenting with new recipes. The followi
 # Rice
 ## Chicken and Mushroom Risotto
 ![Risotto](/assets/images/risotto.jpg)
+## Chicken Seafood Paella
+![Chicken Seafood Paella](/assets/images/paella.jpg)
 
 
 
