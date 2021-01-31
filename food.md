@@ -32,6 +32,8 @@ I enjoy preparing homemade meals and experimenting with new recipes. The followi
 ![Bolognese](/assets/images/bolognese.jpg)
 ## Creamy Chicken, Bacon and Mushroom Carbonara
 ![Carbonara](/assets/images/carbonara.jpg)
+## Singapore Noodles
+![Singapore Noodles](/assets/images/singapore-noodles.jpg)
 
 # **Seafood**
 ## Oven Baked Salmon
