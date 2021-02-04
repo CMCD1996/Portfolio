@@ -14,6 +14,8 @@ I enjoy preparing homemade meals and experimenting with new recipes. The followi
 # **Pork**
 ## Roast Pork
 ![Roast Pork](/assets/images/roast-pork.jpg)
+## Pork Spare Ribs with Homemade Ribs Sauce
+![Pork Spare Ribs](/assets/images/spare-ribs.jpg)
 
 # **Chicken**
 ## Roast Chicken
@@ -38,6 +40,8 @@ I enjoy preparing homemade meals and experimenting with new recipes. The followi
 # **Seafood**
 ## Oven Baked Salmon
 ![Salmon](/assets/images/salmon.jpg)
+## Tom Yum Kung
+![Tom Yum Kung](/assets/images/tom-yum-kung.jpg)
 
 # **Pizza**
 ## Homemade Margherita Pizza

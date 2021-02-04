@@ -6,13 +6,13 @@ title: Resume
 
 My resume includes personal details, employment history, leadership, service, academic achievements, awards, projects, skills and extra-curriculars.
 
-You can review my resume below or download a copy [here.]({{ site.url }}/downloads/resume.pdf)
+You can review my extended resume below or download a two page copy [here.]({{ site.url }}/downloads/resume.pdf)
 
 ## **Personal details**
 
 * Degree: Bachelor of Commerce (Honours, Finance) / Bachelor of Engineering (Honours, Engineering Science) Conjoint
 
-* University: University of Auckland
+* University: University of Auckland (2020 - 2015)
 
 * Overall GPA:  **8.17**
 
@@ -26,11 +26,17 @@ You can review my resume below or download a copy [here.]({{ site.url }}/downloa
 
 * Email: connormcdowall@gmail.com 
 
+* Website: [connormcdowall.com](https://connormcdowall.com/)
+
 * Phone: +64 27 892 3821 (NZ)
 
-* Citizenship: Canada, New Zealand
+* Citizenship: Canada and New Zealand
 
 ## **Employment history**
+
+### **Summer Career Break (2020 - 2021)**
+
+* Took a break over summer to support my family after a difficult year
 
 ### **ExxonMobil Australia | Engineering Vacation Student - Upstream Commercial (2019-2020)**
 
@@ -44,7 +50,7 @@ You can review my resume below or download a copy [here.]({{ site.url }}/downloa
 
 | ![](/assets/images/xom-1.jpg) | ![](/assets/images/xom-3.jpg) |
 | ![](/assets/images/xom-2.jpg) | ![](/assets/images/xom-4.jpg) |
-
+ 
 ### **Deloitte New Zealand | Management Consulting Analyst (2018-2019)**
 
 * Conducted data analysis for the development of a new operating model for a public sector client. The new model was to improve education equity across New Zealand
@@ -72,7 +78,7 @@ You can review my resume below or download a copy [here.]({{ site.url }}/downloa
 
 ### **Kupe Leadership Scholarship (2021)**
 
-* Selected as a Kupe Leadership Scholar for 2021. The programme aims to develop the most influential and effective of the next generation of leaders in Aotearoa New Zealand. Scholars are exceptional young people from all disciplines who have a strong desire to serve and tackle the most pressing issues facing Aotearoa New Zealand
+* Selected as one of 17 Kupe Leadership Scholars. The scholarship aims to develop the most influential and effective of the next generation of leaders in New Zealand. Scholars are exceptional young people from all disciplines who have a strong desire to serve and tackle the most pressing issues facing New Zealand
 
 ### **University of Auckland Investment Club Co-President (2020)**
 
@@ -84,13 +90,16 @@ You can review my resume below or download a copy [here.]({{ site.url }}/downloa
 
 ### **University of Auckland Dean’s Leadership Programme (2017)**
 
-* Selected as one of 10 Part II undergraduate engineering students for leadership training and mentorship. We had leadership sessions with business leaders, academic staff, and the Vice Chancellor
+* Selected as one of 10 Part II undergraduate engineering students for leadership training and mentorship. We had leadership sessions with industry and academic leaders
 
 ### **Mental Health Foundation Fundraiser (2019)**
 
 * Raised $1600 for the Mental Health Foundation of New Zealand
 
 # **Academic achievements & awards**
+
+### **University of Auckland Engineering Dean’s Honours List (2020)**
+* Recognised for demonstrating excellence in academic performance by being in the top 5% or attaining a GPA of over 8.25 in Part IV Engineering
 
 ### **University of Auckland Blues Award for Innovation (2020)**
 
@@ -121,13 +130,9 @@ You can review my resume below or download a copy [here.]({{ site.url }}/downloa
 
 # **Projects & skills**
 
-### **Engineering Science**
+### **Global Carbon Pricing Optimisation Model (2020 - 2021)**
 
-* Engineering scientists use mathematical models and advanced computing to simulate real-world processes, systems and solutions in order to solve the complex problems posed by industry and society. The specialisation builds skills in data science, artificial intelligence, linear and non-linear programming, optimisation, computer science, continuum mechanics, statistics and mathematics. I am equipped to solve problems related to technology, energy, finance, healthcare, telecommunications, transport, mining and infrastructure. Engineering Science is taught at a few other schools around the world under different names: Stanford as Management Science and Engineering, Oxford as Engineering Science and Princeton as Operations Research and Financial Engineering
-
-### **Global Carbon Pricing Optimisation Model (2020)**
-
-* Building a model to inform energy investment across user-defined geographies. The model intends to inform policy and investment in sustainable technology. The model is built using Python, Excel, GNU Mathprog and IBM Watson Machine Learning services
+* Building a model to inform energy investments across user-defined geographies. The model intends to inform policy and investment in sustainable technologies. The model is built using Python, Excel, GNU Mathprog and IBM Watson Machine Learning services
 
 ### **Prototype Wind Turbine (2018)**
 
@@ -143,7 +148,7 @@ You can review my resume below or download a copy [here.]({{ site.url }}/downloa
 
 ### **Programming**
 
-* Proficient in Python, MATLAB, VBA, AMPL, Git and GitHub
+* Proficient in Python, MATLAB, VBA, AMPL, Jekyll, Git and GitHub
 
 ### **Mathematical Modelling** 
 
@@ -154,10 +159,12 @@ You can review my resume below or download a copy [here.]({{ site.url }}/downloa
 
 * Completed the Tauranga Half, Ironman 70.3 Sunshine Coast, and Ironman New Zealand. In Ironman New Zealand, I was one of 30 in 18-24 age group to complete 4km swim, 180km bike and 42km run
 
-### **University of Auckland Case Programme (2017-20)** 
-* Represent the University of Auckland at Regional, National, and International Case Competitions. I prepare analysis on a case company’s problems and propose solutions. I have competed in Christchurch (New Zealand), Sydney (Australia), and Koh Samui (Thailand)
-
 ### **University of Auckland Investment Club Investment Committee Senior Analyst (2019)** 
 
 * Pitched stocks, valued equities and engaged in weekly discussions about companies, industries, and markets. I prepared investment analysis on, and invested in, Spark New Zealand (NZE: SPK) and Sea Limited (NYSE: SE)
+
+### **University of Auckland Case Programme (2017-21)** 
+* Represent the University of Auckland at Regional, National, and International Case Competitions. I prepare analysis on a case company’s problems and propose solutions. I have competed in Christchurch (New Zealand), Sydney (Australia), and Koh Samui (Thailand)
+
+
 
