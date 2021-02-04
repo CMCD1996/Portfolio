@@ -9,7 +9,7 @@ This page describes my contributions to the community.
 
 ## **University of Auckland Investment Club in 2020** ##
 
-In 2020, I led the University of Auckland Investment Club (UAIC) as Co President with David Saul. We introduced several new initiatives while running several of UAIC's legacy offerings. I lead Competition, Investment Committee, Women Engagement Initiative, Treasurer portfolios while managing sponsorship negotiations and external relationships. David managed Bulletin, Marketing, Education and Social portfolios while managing the implementation of organisational changes.
+In 2020, I led the University of Auckland Investment Club (UAIC) as Co President with [David Saul](https://www.linkedin.com/in/davidrjsaul/). We introduced several new initiatives while running several of UAIC's legacy offerings. I lead Competition, Investment Committee, Women Engagement Initiative, Treasurer portfolios while managing sponsorship negotiations and external relationships. David managed Bulletin, Marketing, Education and Social portfolios while managing the implementation of organisational changes.
 
 | ![](/assets/images/uaic-3.jpg) | ![](/assets/images/uaic-4.jpg) |
 | ![](/assets/images/uaic-1.jpg) | ![](/assets/images/uaic-2.jpg) |
