@@ -43,7 +43,7 @@ quantitative analysis on an NZX/ASX listed equity to support a buy recommendatio
 [![Stock Pitch](/assets/images/jsp.png)]({{ site.url }}/downloads/stock-pitch-competition.pdf)
 
 ### **Global From Day One Venture Capital Competition** ###
-I created a Venture Capital competition in partnership with Global From Day One, a technology-based venture capital fund who invest in New Zealand hardware, software and deep technology startups. The competition had competitors follow their investment thesis to allocate $15m in three New Zealand startups. Their portfolio allocation was supported by qualitative analysis. **Click the image below to view the competition pack**.
+I created a Venture Capital competition in partnership with Global From Day One, a technology-based venture capital fund who invest in New Zealand hardware, software and deep technology startups. The competition had competitors follow their investment thesis to allocate $15m across three New Zealand startups. Their portfolio allocation was supported by qualitative analysis. **Click the image below to view the competition pack**.
 
 [![Venture Capital](/assets/images/VC.png)]({{ site.url }}/downloads/venture-capital-competition.pdf)
 
@@ -54,7 +54,7 @@ I created an Investment Banking competition in partnership with UBS New Zealand.
 
 ### **Women Engagement Initiative** ###
 
-I started the University of Auckland's Women Engagement Initiative to break down barriers discouraging women from considering careers in finance. This initiative includes a Mentoring Programme where 15 industry mentors were paired with 15 mentees. We facilitated a three-part speaker series focusing on careers in finance, the future of finance with an emphasis on financial technology and challenges in the workplace. **Click the image below to view the engagement pack**.
+I started the University of Auckland's Women Engagement Initiative to break down barriers discouraging women from considering careers in finance. This initiative includes a Mentoring Programme where 15 industry mentors were paired with 15 mentees. We facilitated a two-part speaker series focusing on careers in finance, challenges in the workplace and the future of finance with an emphasis on financial technology. **Click the image below to view the engagement pack**.
 
 [![Women Engagement](/assets/images/wei.png)]({{ site.url }}/downloads/women-engagement-initiative.pdf)
 
@@ -64,7 +64,7 @@ I raised $1600 for the Mental Health Foundation of New Zealand when training and
 
 The World Health Organisation (WHO) conducted analysis on the impact mental, neurological and substance use disorders (MNS) have on the community at large. It is estimated at least 10% of the world's population is affected by MNS disorders and 20% of adolescents and children suffer from some type of mental disorder. The impact of MNS disorders on social and economic well-being is large. The global economy loses approximately $1 trillion annually in productivity due to depression and anxiety. MNS disorders are estimated to contribute to $2.5 - $8.5 trillion globally in economic losses, forecast to double by 2030 [(WHO,2020)](https://www.worldbank.org/en/topic/mental-health).
 
-As a community, it is our responsibility to support our most vulnerable and help the next generation overcome these challenges. Click the image below to review the Mental Health Foundation of New Zealand's website.
+As a community, it is our responsibility to support our most vulnerable and help the next generation overcome these challenges. **Click the image below to review the Mental Health Foundation of New Zealand's website**.
 [![MHF](/assets/images/mental-health-foundation.png)](https://www.mentalhealth.org.nz/)
 
 
