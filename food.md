@@ -24,7 +24,7 @@ I enjoy preparing homemade meals and experimenting with new recipes. The followi
 ![Chicken Curry](/assets/images/chicken-curry.jpg)
 ## Chicken Enchiladas with Homemade Enchilada Sauce
 ![Enchiladas](/assets/images/enchiladas.jpg)
-## Oven Baked Chicken Drumsticks with Homemade Southern Spice and accompanied by Feta, Spinach and Beetroot Pasta Salad
+## Chicken Drumsticks with Homemade Southern Spice and Pasta Salad
 ![Chicken Drumsticks](/assets/images/chicken-ds.jpg)
 
 # **Soup**
