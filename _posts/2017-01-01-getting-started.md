@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Default: Getting Started"
+title: "Jekyll Starter Kit"
 ---
 
 # Jekyll Starter Kit
