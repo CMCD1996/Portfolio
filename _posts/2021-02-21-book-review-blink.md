@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Book Review X: Blink - The Power of Thinking with Thinking by Malcolm Gladwell "
+title: "Book Review X: Blink - The Power of Thinking Without Thinking by Malcolm Gladwell "
 ---
 
 This entry is a continuation of my book review series. 
