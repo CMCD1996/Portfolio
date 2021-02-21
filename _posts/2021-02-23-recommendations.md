@@ -1,8 +1,11 @@
 ---
 layout: post
-title: "Recommendations"
+title: "Oh, The Places You'll Go! - Recommendations"
 ---
 
+One of my favourite childhood books is Oh, the Places You'll Go! by Doctor Seuss.
+The book articulates life as a journey full of many twists, turns, successes, failures and adversities.
+Some of our best experiences in life come from exploring recommendations made by others.
 This entry documents recommendations made by personal and professional connections.
 
 ### Books
