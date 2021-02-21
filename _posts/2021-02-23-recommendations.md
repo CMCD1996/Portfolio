@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Oh, The Places You'll Go! - Recommendations"
+title: "Recommendations - Oh, The Places You'll Go!"
 ---
 
 One of my favourite childhood books is Oh, the Places You'll Go! by Doctor Seuss.
