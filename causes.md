@@ -56,9 +56,8 @@ I started the University of Auckland's Women Engagement Initiative to break down
 [![Women Engagement](/assets/images/wei.png)]({{ site.url }}/downloads/women-engagement-initiative.pdf)
 
 ## **Case Frameworks** ##
-I prepared this resource to help applicants prepare for case interviews.
+I prepared this resource to help applicants prepare for case interviews. **Click the image below to review the resource**.
 [![Case Framework](/assets/images/case-frameworks.png)]({{ site.url }}/downloads/case-frameworks.pdf)
-
 
 ## **Mental Health Foundation of New Zealand Fundraising** ##
 
