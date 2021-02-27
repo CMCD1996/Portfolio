@@ -12,7 +12,7 @@ You can review my extended resume below or download a two page copy [here.]({{ s
 
 * Degree: Bachelor of Commerce (Honours, Finance) / Bachelor of Engineering (Honours, Engineering Science) Conjoint
 
-* University: University of Auckland (2020 - 2015)
+* University: University of Auckland (2015 - 2021)
 
 * Overall GPA:  **8.17**
 
