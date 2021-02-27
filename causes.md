@@ -4,9 +4,6 @@ title: Causes
 ---
 This page describes my contributions to the community.
 
-## **Kupe Leadership Programme**
-[![Kupe](/assets/images/kupe.png)]({{ site.url }}/downloads/wip.pdf)
-
 ## **University of Auckland Investment Club in 2020** ##
 
 In 2020, I led the University of Auckland Investment Club (UAIC) as Co President with [David Saul](https://www.linkedin.com/in/davidrjsaul/). We introduced several new initiatives while running several of UAIC's legacy offerings. I lead Competition, Investment Committee, Women Engagement Initiative, Treasurer portfolios while managing sponsorship negotiations and external relationships. David managed Bulletin, Marketing, Education and Social portfolios while managing the implementation of organisational changes.
@@ -57,6 +54,11 @@ I created an Investment Banking competition in partnership with UBS New Zealand.
 I started the University of Auckland's Women Engagement Initiative to break down barriers discouraging women from considering careers in finance. This initiative includes a Mentoring Programme where 15 industry mentors were paired with 15 mentees. We facilitated a two-part speaker series focusing on careers in finance, challenges in the workplace and the future of finance with an emphasis on financial technology. **Click the image below to view the engagement pack**.
 
 [![Women Engagement](/assets/images/wei.png)]({{ site.url }}/downloads/women-engagement-initiative.pdf)
+
+## **Case Frameworks** ##
+I prepared this resource to help applicants prepare for case interviews.
+[![Case Framework](/assets/images/case-frameworks.png)]({{ site.url }}/downloads/case-frameworks.pdf)
+
 
 ## **Mental Health Foundation of New Zealand Fundraising** ##
 
