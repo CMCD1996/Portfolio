@@ -8,11 +8,11 @@ driveId: 1lxj91VTGCbmIsP7Re86GWfWpXlR2a2Me/preview
 
 [![Community](assets/images/causes.png)](causes.html)
 
-[![Featured](assets/images/featured.png)](featured.html)
-
 [![Fitness](assets/images/fitness.png)](fitness.html)
 
 [![Food](assets/images/food.png)](food.html)
+
+[![Future](assets/images/future.png)](future.html)
 
 [![Projects](assets/images/projects.png)](projects.html)
 

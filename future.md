@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Ongoing
+title: Future
 ---
 
-## **Ongoing**
-These section features my ongoing projects. They will be published upon completion.
+## **Future**
+These section features my ongoing projects that will be published in the future.
 
 [![Principles](/assets/images/principles.png)]({{ site.url }}/downloads/wip.pdf)
 
