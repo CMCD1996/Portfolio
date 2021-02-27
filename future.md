@@ -3,8 +3,7 @@ layout: default
 title: Future
 ---
 
-## **Future**
-These section features my ongoing projects that will be published in the future.
+These page lists my ongoing projects that will be published in the future when complete.
 
 [![Principles](/assets/images/principles.png)]({{ site.url }}/downloads/wip.pdf)
 
