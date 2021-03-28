@@ -23,6 +23,8 @@ PM   | Run  | Bike | Run  | Bike | Break | Break | Break
 
 I competed in the Tauranga Half Multi Sport event in January 2019. This was my first triathlon race. The race includes a 1.9k swim, 90km cycle and 21.1km run. The swim was my first open water swim. I had issues with sighting but persevered. The cycle was three circuits from Mt Maunganui down the straight towards Papamoa and back. The run included a couple laps around the base of Mt Maunganui in approximately 30 degrees celsius. I finished in just under 6 hours with many lessons learned for the next race.
 
+| ![](/assets/images/th1.jpg) | ![](/assets/images/th2.jpg) |
+
 ### **Ironman New Zealand 2019**
 
 I completed my first full distance Ironman in March 2019. The race is comprised of a 3.9km swim, a 180km cycle and 42.2km run. I had my best swim yet recording approximately 1 hour 11 mins. The bike was brutal as you race 45km from the Taupo centre to Reporoa and back. You complete this circuit twice which includes tackling heartbreak hill multiple times. Unfavourable wind direction changes led to a headwind for 135km of the ride. The bike was slow and featured multiple punctures. I finished the cycle just after disembarking just over 7 hours earlier. I was ready to run after the transition. However, my first few strides were accompanied with sharp ankle pains which jolted up my leg. Unfortunately, I injured myself on the bike with an incorrect bike setup rendering myself incapable of running without excruciating pain. I reached a crossroads in my Ironman journey. I had come too far, trained for approximately 600 hours and had a whole community backing me. I could muster a painful walk so preceded to walk 42km to finish the race against all odds. Approximately 15 hours and 45 minutes later, I had finished my first Ironman. I am most grateful for William and Angela Cook who cheered me on from the beginning of the race, and my parents Steve and Janet McDowall who surprised me mid race to cheer me to the finish line. I can not wait to do another full distance race offshore when the boarders open up.
@@ -39,7 +41,7 @@ In September 2019, I flew to the Sunshine to visit my childhood friend Trevor an
 
 [![Training](/assets/images/training.png)]({{ site.url }}/downloads/wip.pdf)
 
-I am following the training programme described below.
+I train general fitness using the training program described below.
 
 Time | Mon | Tue | Wed | Thur | Fri | Sat | Sun                                                                           
 :---:|:----:|:----:|:----:|:----:|:-----:|:-----:|:----------:
