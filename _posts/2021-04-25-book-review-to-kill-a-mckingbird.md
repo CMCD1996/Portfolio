@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Book Review XIV: To Kill A Mockingbird by Harper Lee (In Progress)"
+title: "Book Review XIV: To Kill A Mockingbird by Harper Lee"
 ---
 
 This entry is a continuation of my book review series. 
