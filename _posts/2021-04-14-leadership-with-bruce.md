@@ -1,27 +1,27 @@
 ---
 layout: post
-title: "Leadership Lessons with [X]"
+title: "Leadership Lessons from Bruce"
 ---
 
-This post outlines the key leaderships lessons learned from my mentor during my tenure as a member of the 2021 Kupe Leadership Programme.
+This post outlines the key leadership lessons from my mentor as a 2021 Kupe Leadership Scholar.
 
-### April: Setting the Foundation - An Introduction
+### April: Setting the Scene - An Introduction
 
-### May: TBC
+### May: Culture & Relationship Building
 
-### June: TBC 
+### June: Balancing Commitments
 
-### July: TBC
+### July: CEO & Board Relationships
 
-### August: TBC
+### August: Emotional Intelligence & Empathy
 
-### September: TBC
+### September: Leading during a Crisis
 
-### October: TBC
+### October: Performing under Pressure
 
-### November: TBC
+### November: Bouncing Back from Failure
 
-### September: TBC
+### September: Being the Bad Guy - Making Tough Decisions
 
 
 
