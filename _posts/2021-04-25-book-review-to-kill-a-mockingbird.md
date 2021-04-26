@@ -20,5 +20,5 @@ themes related to race, class, prejudice, and justice.
 * Upholding your values can have a profound impact on your community
 
 ### Reflections
-* Issues often arise from poor communication, misunderstandings, and prejudices. It is disheartening the same issues persist across different contexts.
-* It is important to raise critical and courageous thinkers who challenge existing systems. The perspectives from these individuals will help shape new actions to address systemic issues.
+* Issues often arise from poor communication, misunderstandings, and prejudices. It is disheartening the same issues persist, repeatedly, in multiple contexts.
+* It is important to raise critical and courageous thinkers who challenge existing systems. The perspectives contributed by these individuals will help shape new actions to address systemic issues.
