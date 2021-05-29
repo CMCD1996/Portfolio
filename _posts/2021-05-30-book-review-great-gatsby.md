@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Book Review XV: The Handmaid's Tale by Margaret Atwood"
+title: "Book Review XVI: The Great Gatsby by F. Scott Fitzgerald (In Progress)"
 ---
 
 This entry is a continuation of my book review series. 
