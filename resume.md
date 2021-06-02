@@ -101,11 +101,14 @@ You can review my extended resume below or download a two page copy [here.]({{ s
 ### **University of Auckland Engineering Dean’s Honours List (2020)**
 * Recognised for demonstrating excellence in academic performance by being in the top 5% or attaining a GPA of over 8.25 in Part IV Engineering
 
+**First in Course Award for ECON 372 (2019)** 
+* Top student; Econ 372: Energy and Environmental Economics covering economics related to resource management, oil markets, climate change, energy policy  
+
 ### **University of Auckland Blues Award for Innovation (2020)**
 
 * Recognised for an outstanding achievement in innovation that created or enhanced a product, process or system which provides an effective solution to a challenging issue. I received this award for placing 3rd against 20 teams world-wide at the 2019 Chulalongkorn International Business Case Competition in Koh Samui, Thailand. I developed growth and branding strategies for Line Mobile and Sea Thailand respectively as a member of the University of Auckland’s Case Programme team
 
-### **University of Auckland EY Business Student of the Year – Finalist (2020)**
+### **University of Auckland EY Business Student of the Year – Finalist (2020-21)**
 
 * Recognised as one of the top seven University of Auckland Undergraduate Business School Students who display excellence in academic performance, communication skills, community service, extra-curricular activities, and knowledge of world issues
 
