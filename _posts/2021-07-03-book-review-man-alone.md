@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Book Review XIII: 1984 by George Orwell"
+title: "Book Review XIX: Man Alone by John Mulgan (In progress)"
 ---
 
 This entry is a continuation of my book review series. 
@@ -9,11 +9,10 @@ The series documents a brief overview of each book,
 personal, professional, and societal contexts.
 
 ### Overview
-George Orwell explores the suffocating grip of Big Brother and The Party in a totalitarian society through the point of view of Winston Smith, an outer party member who questions the Party's ideologies and begins to rebel. 
+To be continued
 
 ### Lessons
-* 
+To be continued
 
 ### Reflections
-* 
-
+To be continued
