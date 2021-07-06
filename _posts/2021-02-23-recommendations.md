@@ -13,6 +13,9 @@ This entry documents recommendations made by personal and professional connectio
 * Zero to One: Notes on Startups, or How to Build the Future by Peter Thiel
 * What It Takes: Lessons in the Pursuit of Excellence by Stephen A. Schwarzman
 * The God Boy by Ian Cross
+* Noise: A Flaw in Human Judgment by Daniel Kahneman, Olivier Sibony, and Cass R. Sunstein
+* Humor, Seriously: Why Humor Is a Secret Weapon in Business and Life by Jennifer Aaker and Naomi Bagdonas
+* Too Big to Fail: The Inside Story of How Wall Street and Washington Fought to Save the Financial System and Themselves by Andrew Ross Sorkin
 
 ### Movies
 * The Great Gatsby
