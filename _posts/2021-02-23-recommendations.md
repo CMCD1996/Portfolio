@@ -25,6 +25,7 @@ To be continued...
 
 ### Experiences
 * Europe (As an experience)
+* [Mongol Rally](https://www.theadventurists.com/adventures/mongol-rally/)
 
 ### Travel
 * [The Hermitage, Aoraki Mount Cook](https://www.hermitage.co.nz/).
