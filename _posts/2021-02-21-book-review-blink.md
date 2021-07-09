@@ -10,9 +10,9 @@ personal, professional, and societal contexts.
 
 ### Overview
 
-Malcolm Gladwell outlines the powers of our brain's ability to make snap judgements.
+Malcolm Gladwell outlines the powers of our brain's ability to make snap judgments.
 He explores the positives and negatives of these abilities through case studies.
-A subset of these cases are subsequently itemized:
+I itemize a subset of these cases:
 * Divorce prediction 
 * Military training exercises 
 * Art acquisitions
@@ -21,8 +21,8 @@ A subset of these cases are subsequently itemized:
 ### Lessons
 * Thin-Slicing is a powerful and dangerous subconscious behavior.
 * There is structure to spontaneity and creative processes. 
-* Over communication can be counter productive.
+* Excess communication can inhibit productivity.
 
 ### Reflections
-To be continued...
-
+* It is important to recognize and mitigate subconscious biases as necessary when making decisions.
+Failing to consider subconscious biases may perpetuate inequality, financial losses, and poor quality relationships in personal, professional, and social contexts.
