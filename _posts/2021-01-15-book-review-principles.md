@@ -9,10 +9,14 @@ The series documents a brief overview of each book,
 personal, professional, and societal contexts.
 
 ### Overview
-To be continued
+Ray Dalio teaches the lessons he learned throughout building Bridgewater Associates and his personal life through a series of 'Principles'.
+The book is split into three parts addressing an auto-bibliography, life principles, and work principles.
 
 ### Lessons
-To be continued
+* Meaningful relationships are foremost in living meaningful lives.
+* It is important to be courageous and not fear failure to innovate at the highest level.
+* The preservation of your culture is utmost important in building and maintaining an exceptional organisation.
 
 ### Reflections
-To be continued
+* The insight on meaningful relationships inform how to live great lives. Many fall into bad circumstances out of their control.
+A great relationship and support can make a world of difference in helping them back on their feet. Additionally, these relationship put life into perspective. 
