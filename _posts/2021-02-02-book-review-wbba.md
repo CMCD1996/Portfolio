@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Book Review VII: When Breath Becomes Air by Paul Kalanithi "
+title: "Book Review VII: When Breath Becomes Air by Paul Kalanithi (Review in Progress) "
 ---
 
 This entry is a continuation of my book review series. 

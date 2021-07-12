@@ -9,11 +9,13 @@ April: Setting the Scene - An Introduction
 * 
 
 May: Culture & Relationship Building
+* 
 
 June: Balancing Commitments
-*
+* 
 
 July: CEO & Board Relationships
+* 
 
 August: Emotional Intelligence & Empathy
 

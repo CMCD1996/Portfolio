@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Book Review XII: Billion Dollar Whale by Tom Wright & Bradley Hope"
+title: "Book Review XII: Billion Dollar Whale by Tom Wright & Bradley Hope (Review in Progress)"
 ---
 
 This entry is a continuation of my book review series. 

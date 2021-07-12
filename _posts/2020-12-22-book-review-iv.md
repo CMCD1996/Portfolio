@@ -18,5 +18,4 @@ Caroline addresses bias in daily life, the workplace, design, and public life. E
 * It is important to provide a platform for all members of society to feel comfortable and enabled to voice their opinions.
 
 ### Reflections
-* It is imperative to have a diverse range of voices in the room when making any decision related to governance, investment, policy, and design. Stakeholders must be considered from all dimensions while remaining feasible.
-* These insights necessitate governance and leadership reform to promptly close the global gender gap. 
+* It is imperative to have a diverse range of voices in the room when making any decision related to governance, investment, policy, and design. Stakeholders must be considered from all dimensions while remaining feasible. These insights necessitate governance and leadership reform to promptly close the global gender gap. 

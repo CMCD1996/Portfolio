@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Book Review XI: Complications - A Surgeon's Notes on an Imperfect Science by Atul Gawande"
+title: "Book Review XI: Complications - A Surgeon's Notes on an Imperfect Science by Atul Gawande (Review in Progress)"
 ---
 
 This entry is a continuation of my book review series. 

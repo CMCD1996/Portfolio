@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Book Review XV: The Handmaid's Tale by Margaret Atwood"
+title: "Book Review XV: The Handmaid's Tale by Margaret Atwood (Review in Progress)"
 ---
 
 This entry is a continuation of my book review series. 

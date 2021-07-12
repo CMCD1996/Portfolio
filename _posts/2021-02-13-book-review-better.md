@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Book Review IX: Better - A Surgeon's Notes on Performance by Atul Gawande "
+title: "Book Review IX: Better - A Surgeon's Notes on Performance by Atul Gawande (Review in Progress) "
 ---
 
 This entry is a continuation of my book review series. 

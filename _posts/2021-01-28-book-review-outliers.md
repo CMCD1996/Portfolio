@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Book Review VI: Outliers - The Story of Success by Malcolm Gladwell"
+title: "Book Review VI: Outliers - The Story of Success by Malcolm Gladwell (Review in Progress)"
 ---
 
 This entry is a continuation of my book review series. 

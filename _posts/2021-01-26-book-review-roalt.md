@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Book Review V: The Ride of a Lifetime... by Robert Iger"
+title: "Book Review V: The Ride of a Lifetime... by Robert Iger (Review in Progress)"
 ---
 
 This entry is a continuation of my book review series. 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Book Review VIII: Being Mortal - Medicine and What Matters in the End by Atul Gawande "
+title: "Book Review VIII: Being Mortal - Medicine and What Matters in the End by Atul Gawande (Review in Progress)"
 ---
 
 This entry is a continuation of my book review series. 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Book Review XIX: Man Alone by John Mulgan (In progress)"
+title: "Book Review XIX: Man Alone by John Mulgan (Reading in Progress)"
 ---
 
 This entry is a continuation of my book review series. 
