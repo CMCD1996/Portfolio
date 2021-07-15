@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Book Review XIX: Man Alone by John Mulgan (Reading in Progress)"
+title: "Book Review XIX: Man Alone by John Mulgan (Review in Progress)"
 ---
 
 This entry is a continuation of my book review series. 
@@ -9,10 +9,18 @@ The series documents a brief overview of each book,
 personal, professional, and societal contexts.
 
 ### Overview
-To be continued
+Man Alone follows the story of Johnson, an Englishman immigrating to New Zealand after the Great War.
+Johnson begins in Auckland, traversing down and across the central plateau, returning to Auckland when circumstances force him to leave the country. He led a solitary life moving from one work opportunity to another without any stability.
+The narrative conveys depression-era struggles, relationships with nature, and New Zealand's stereotypical masculine identity.
 
 ### Lessons
-To be continued
+* Repeating commentary implies the importance of owning equity or 'land'.
+* A solitary life is not very satisfactory.
+* Masculine stereotype
+* Rapid economic development shapes culture and community.
 
 ### Reflections
-To be continued
+The commentary on land ownership informs New Zealand's relationship with property. 
+As at July 15th 2021, the country continues to experience a 'housing crisis'.
+Several factors contribute to this issue including cultural expectations on the 'New Zealand Living Experience'.
+Commentary on land ownership reflects this sentiment. Johnson's journey highlights the instability
