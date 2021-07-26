@@ -16,6 +16,9 @@ This entry documents recommendations made by personal and professional connectio
 * Noise: A Flaw in Human Judgment by Daniel Kahneman, Olivier Sibony, and Cass R. Sunstein
 * Humor, Seriously: Why Humor Is a Secret Weapon in Business and Life by Jennifer Aaker and Naomi Bagdonas
 * Too Big to Fail: The Inside Story of How Wall Street and Washington Fought to Save the Financial System and Themselves by Andrew Ross Sorkin
+* Just Mercy by Ryan Jackson
+* Biography of Helen Kelly
+* Journey Toward Justice by Sir Kim Workman
 
 ### Movies
 * The Great Gatsby

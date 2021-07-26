@@ -16,11 +16,12 @@ The narrative conveys depression-era struggles, relationships with nature, and N
 ### Lessons
 * Repeating commentary implies the importance of owning equity or 'land'.
 * A solitary life is not very satisfactory.
-* Masculine stereotype
+* Masculine stereotype in New Zealand.
 * Rapid economic development shapes culture and community.
 
 ### Reflections
 The commentary on land ownership informs New Zealand's relationship with property. 
 As at July 15th 2021, the country continues to experience a 'housing crisis'.
-Several factors contribute to this issue including cultural expectations on the 'New Zealand Living Experience'.
-Commentary on land ownership reflects this sentiment. Johnson's journey highlights the instability
+Several factors contribute to this issue including our expectations of a 'backyard with a bach' being the epitome of the kiwi lifestyle.
+It will be interesting to see these issue progress. 
+Commentary on land ownership reflects this sentiment.
