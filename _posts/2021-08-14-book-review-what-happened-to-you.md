@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Book Review XXI: Humour, Seriously by Jennifer Aaker & Naomi Bagdonas (Review in Progress)"
+title: "Book Review XXII: What Happened to You?... by Dr Bruce D. Perry, M.D, PH.D & Oprah Winfrey (Review in Progress)"
 ---
 
 This entry is a continuation of my book review series. 
@@ -9,6 +9,7 @@ The series documents a brief overview of each book,
 personal, professional, and societal contexts.
 
 ### Overview
+What Happened to You? Conversation on Trauma, Resilience, and Healing by Dr Bruce D. Perry, M.D, PH.D & Oprah Winfrey.
 To be continued
 
 ### Lessons
