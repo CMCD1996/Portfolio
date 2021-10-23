@@ -34,6 +34,9 @@ You can review my extended resume below or download a two page copy [here.]({{ s
 
 ## **Employment history**
 
+### **Aurecon New Zealand | Consultant – Future Energy (2021)**
+* Conduct commercial and technical due diligence with geographic information systems, financial modelling, computational techniques and data science to inform renewable energy and infrastructure investment
+
 ### **Summer Career Break (2020 - 2021)**
 
 * Took a break over summer to support my family after a difficult year
@@ -98,10 +101,13 @@ You can review my extended resume below or download a two page copy [here.]({{ s
 
 # **Academic achievements & awards**
 
+### **Rhodes Scholarship Interview (2021)** 
+* Selected to interview for the New Zealand constituency
+
 ### **University of Auckland Engineering Dean’s Honours List (2020)**
 * Recognised for demonstrating excellence in academic performance by being in the top 5% or attaining a GPA of over 8.25 in Part IV Engineering
 
-**First in Course Award for ECON 372 (2019)** 
+### **First in Course Award for ECON 372 (2019)** 
 * Top student; Econ 372: Energy and Environmental Economics covering economics related to resource management, oil markets, climate change, energy policy  
 
 ### **University of Auckland Blues Award for Innovation (2020)**
