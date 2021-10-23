@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Book Review XXIII: Woke, Inc. Inside the Social Justice Scam by Vivek Ramaswamy (Review in Progress)"
+title: "Book Review XXIV: Empire of Pain... by Patrick Radden Keefe (Review in Progress)"
 ---
 
 This entry is a continuation of my book review series. 
