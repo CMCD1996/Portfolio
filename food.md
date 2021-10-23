@@ -32,6 +32,8 @@ I enjoy preparing homemade meals and experimenting with new recipes. The followi
 ![Potato and Leek Soup](/assets/images/potato-leek-soup.jpg)
 
 # **Pasta**
+## Lemon Chilli Salmon Spaghetti
+![Salmon](/assets/images/lcss.jpg)
 ## Spaghetti Bolognese with Homemade Bolognese Sauce
 ![Bolognese](/assets/images/bolognese.jpg)
 ## Creamy Chicken, Bacon and Mushroom Carbonara
