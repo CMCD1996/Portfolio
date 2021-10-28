@@ -35,7 +35,7 @@ You can review my extended resume below or download a two page copy [here.]({{ s
 ## **Employment history**
 
 ### **Aurecon New Zealand | Consultant – Future Energy (2021)**
-* Conduct commercial and technical due diligence with geographic information systems, financial modelling, computational techniques and data science to inform renewable energy and infrastructure investment
+* Conduct commercial and technical due diligence using geographic information systems, financial modelling, computer programming, and data science to inform renewable energy and infrastructure investment
 
 ### **Summer Career Break (2020 - 2021)**
 
@@ -47,7 +47,7 @@ You can review my extended resume below or download a two page copy [here.]({{ s
 
 * Built an Excel-based 3rd party storage optimisation model to optimise ExxonMobil’s sales strategy from an onshore storage facility. The model compares different sales strategies, informs how to maximise gas revenue, and ensures ExxonMobil meet their gas storage contractual obligations
 
-* Discussed negotiations between ExxonMobil and Governments, the drilling of new wells in the Gippsland Basin, and competitive pricing strategies in weekly team meetings
+* Discussed geopolitical strategies, the drilling of new wells in the Gippsland Basin and competitive pricing strategies in weekly team meetings
 
 * Completed Heli-Sea, Onshore, Offshore, and Fire Fighting training
 
@@ -81,11 +81,11 @@ You can review my extended resume below or download a two page copy [here.]({{ s
 
 ### **Kupe Leadership Scholarship (2021)**
 
-* Selected as one of 17 Kupe Leadership Scholars. The scholarship aims to develop the most influential and effective of the next generation of leaders in New Zealand. Scholars are exceptional young people from all disciplines who have a strong desire to serve and tackle the most pressing issues facing New Zealand
+* Selected as one of 16 Kupe Leadership Scholars. The scholarship aims to develop the most influential and effective of the next generation of leaders in New Zealand. Scholars are exceptional young people from all disciplines who have a strong desire to serve and tackle the most pressing issues facing New Zealand
 
 ### **University of Auckland Investment Club Co-President (2020)**
 
-* Co-led a team of 17 who run investing and finance-related events for 400 general members. I managed internal and external relationships while overseeing four competitions, the Women Engagement Initiative and the Investment Committee who manage a $25,000 fund on behalf of the club
+* Co-led a team of 17 who run investing and finance-related events for 400 general members. I managed internal and external relationships, created three new competitions focusing on equity valuation, venture capital and M&A strategy, created the Women Engagement Initiative, and monitored the Investment Committee who managed a $25,000 fund on behalf of the club
 
 ### **University of Auckland Dean’s Executive Committee (2018 – 2019)**
 
@@ -164,9 +164,9 @@ You can review my extended resume below or download a two page copy [here.]({{ s
 * Modelled the qualitative behaviour of Ordinary Differential Equation (ODE) systems and used computational techniques to model solid mechanisms and fluid dynamics
 
 # **Extra-curriculars**
-### **Ironman Triathlon (2019)** 
+### **Ironman Triathlon (2019-21)** 
 
-* Completed the Tauranga Half, Ironman 70.3 Sunshine Coast, and Ironman New Zealand. In Ironman New Zealand, I was one of 30 in 18-24 age group to complete 4km swim, 180km bike and 42km run
+* Completed the Tauranga Half, Ironman 70.3 Sunshine Coast, and Ironman New Zealand. In Ironman New Zealand, I was one of 30 in the 18-24 age group to complete 4km swim, 180km bike and 42km run. I am currently training for Ironman 70.3 New Zealand 2022
 
 ### **University of Auckland Investment Club Investment Committee Senior Analyst (2019)** 
 
