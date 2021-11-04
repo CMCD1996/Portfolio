@@ -4,7 +4,11 @@ title: Causes
 ---
 This page describes my contributions to the community.
 
-## **University of Auckland Investment Club in 2020** ##
+## **Kupe Leadership Scholarship (2021)** ##
+
+[![Kupe](/assets/images/kupe.png)]({{ site.url }}/downloads/wip.pdf)
+
+## **University of Auckland Investment Club (2020)** ##
 
 In 2020, I led the University of Auckland Investment Club (UAIC) as Co President with [David Saul](https://www.linkedin.com/in/davidrjsaul/). We introduced several new initiatives while running several of UAIC's legacy offerings. I lead Competition, Investment Committee, Women Engagement Initiative, Treasurer portfolios while managing sponsorship negotiations and external relationships. David managed Bulletin, Marketing, Education and Social portfolios while managing the implementation of organisational changes.
 
@@ -59,7 +63,7 @@ I started the University of Auckland's Women Engagement Initiative to break down
 I prepared this resource to help applicants prepare for case interviews. **Click the image below to review the resource**.
 [![Case Framework](/assets/images/case-frameworks.png)]({{ site.url }}/downloads/case-frameworks.pdf)
 
-## **Mental Health Foundation of New Zealand Fundraising** ##
+## **Mental Health Foundation of New Zealand Fundraising (2019)** ##
 
 I raised $1600 for the Mental Health Foundation of New Zealand when training and competing in Ironman New Zealand 2019. The Mental Health Foundation of New Zealand is a charity working towards a society free from discrimination, where all people enjoy positive health and well-being. The foundations primarily educates communities and advocates for policies and services to support those struggling with mental illness.
 

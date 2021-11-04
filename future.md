@@ -3,15 +3,11 @@ layout: default
 title: Future
 ---
 
-These page lists my ongoing projects that will be published in the future when complete.
+This page lists my ongoing projects that will be published in the future when complete.
 
 [![Principles](/assets/images/principles.png)]({{ site.url }}/downloads/wip.pdf)
 
 [![Lessons](/assets/images/lessons.png)]({{ site.url }}/downloads/wip.pdf)
-
-[![Kupe](/assets/images/kupe.png)]({{ site.url }}/downloads/wip.pdf)
-
-[![NZFSA](/assets/images/nzfsa.png)]({{ site.url }}/downloads/wip.pdf)
 
 [![Finance](/assets/images/finance.png)]({{ site.url }}/downloads/wip.pdf)
 
