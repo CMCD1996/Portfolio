@@ -8,17 +8,11 @@ This page explains some of the projects I completed during my undergraduate degr
 
 Please click any of the graphics to review project material and reports.
 
-## **GOCPI: A Scalable Energy System Modelling Tool (2019)**
+## **GOCPI: A Scalable Energy System Modelling Tool**
 
-I am developing an open-source energy modelling tool for users to design their own energy systems. The model intends to inform policy and investment in sustainable technology. The model is built using Python, Excel, GNU Mathprog and IBM Watson Machine Learning services.
+My research project explored the development of an open-source energy modelling tool for users to design their own energy systems. The model intends to inform policy and investment in sustainable technology. The model is built using Python, Excel, GNU Mathprog and IBM Watson Machine Learning services.
 
-[![Project Outline](/assets/images/project-outline.png)]({{ site.url }}/downloads/gocpi-presentation.pdf)
-
-[![Project Presentation](assets/images/cinema.png)]({{ site.url }}/downloads/wip.pdf)
-
-[![Project Report](/assets/images/project-report.png)]({{ site.url }}/downloads/gocpi-report.pdf)
-
-[![Research Compendium](/assets/images/research-compendium.png)]({{ site.url }}/downloads/gocpi-compendium.pdf)
+[![Project Outline](/assets/images/GOCPI.png)]({{ site.url }}/downloads/gocpi.pdf)
 
 ### GOCPI Information, References and Required Software
 * [OseMOSYS](http://www.osemosys.org/)
@@ -133,3 +127,11 @@ The calculation of expected profit from a manufacturing process. Mean hitting ti
 $$M_{ij} = 1 + \sum_{k=1}^{n} P_{ik} \times M_{kj} \text{ where } i \neq j$$
 
 [![Optimisation Assignments](/assets/images/optimisation.png)]({{ site.url }}/downloads/optimisation.pdf)
+
+[![Corporate Governance](/assets/images/corporate-governance.png)]({{ site.url }}/downloads/cmcd398-corporate-governance.pdf)
+
+[![Literature Reviews & Proposals](/assets/images/lit-review.png)]({{ site.url }}/downloads/cmcd398-lit-review-research-proposal.pdf)
+
+[![Machine Learning & Corporate Culture](/assets/images/ML-CC.png)]({{ site.url }}/downloads/cmcd398-ml-corporate-culture.pdf)
+
+[![Technical Analysis](/assets/images/ML-CC.png)]({{ site.url }}/downloads/cmcd398-technical-analysis.pdf)
