@@ -13,11 +13,11 @@
 # plugins:
 #   - jekyll-timeago
 
-title: Connor Robert McDowall
+title: Connor McDowall
 email: connormcdowall@gmail.com
-github_username:  CMCD1996
+github_username: CMCD1996
 linkedin_username: connor-mcdowall
-description: Personal website detailing academic, professional and extra-curricular achievements
+description: Portfolio of Academic, Professional & Extra-curricular Contributions
 collections:
   protected:
 
@@ -25,4 +25,3 @@ collections:
 markdown: kramdown
 mathjax: true
 theme: minima
-
