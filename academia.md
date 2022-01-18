@@ -8,7 +8,7 @@ This page explains some of the projects I completed during my undergraduate degr
 
 Please click any of the graphics to review project material and reports.
 
-## ** Finance (Honours) Dissertation: Direct Hedge Portfolio Excess Return Maximisation using Deep Neural Networks**
+## **Finance (Honours) Dissertation: Direct Hedge Portfolio Excess Return Maximisation using Deep Neural Networks**
 
 My dissertation investigates the feasibility, and economic significance, of using deep neural networks
 to maximise monthly hedge portfolio excess returns using
@@ -153,13 +153,16 @@ I completed several assignments addressing corporate governance-related theories
 
 ## **Literature Review & Proposals**
 
-My literature review informs the subsequent research proposal, based on prior research, exploring applications of data science to private equity. The intention is to inform investment due diligence. However, the required time to implement the proposal exceeds the time allocated to the BCOM(Honours) research essay given the complexity of the project.
+My literature review informs the subsequent research proposal, grounded in prior research, exploring applications of data science to private equity.
+The intention is to inform investment due diligence.
+However, the required time to implement the proposal exceeds the time allocated to the BCOM(Honours) research essay given the proposal's complexity.
 
 [![Literature Reviews & Proposals](/assets/images/lit-review.png)]({{ site.url }}/downloads/cmcd398-lit-review-research-proposal.pdf)
 
 ## **Machine Learning & Corporate Culture**
 
-I implemented Stanford's Core Natural Language Processing Algorithm to ascertain measures for corporate culture across NZX/ASX listed companies. This assignment replicates the methodology implemented by Li et al. (2021), accessible on [Github](https://github.com/MS20190155/Measuring-Corporate-Culture-Using-Machine-Learning).
+I implemented Stanford's Core Natural Language Processing Algorithm to ascertain measures for corporate culture across NZX/ASX listed companies.
+This assignment replicates the methodology implemented by Li et al. (2021), accessible on [Github](https://github.com/MS20190155/Measuring-Corporate-Culture-Using-Machine-Learning).
 
 [![Machine Learning & Corporate Culture](/assets/images/ML-CC.png)]({{ site.url }}/downloads/cmcd398-ml-corporate-culture.pdf)
 
@@ -168,9 +171,3 @@ I implemented Stanford's Core Natural Language Processing Algorithm to ascertain
 I conducted various forms of technical analysis to inform empirical assignments. Methods include Fama-MacBeth regressions, co-integration testing and Bollinger Band trading strategies.
 
 [![Technical Analysis](/assets/images/technical-analysis.png)]({{ site.url }}/downloads/cmcd398-technical-analysis.pdf)
-
-## **Research Essay**
-
-I will complete my research essay from 15th November 2021 to 15th January 2022, exploring the performance of custom optimisation functions in machine learning algorithms to inform asset pricing.
-
-[![Finance](/assets/images/finance.png)]({{ site.url }}/downloads/wip.pdf)
