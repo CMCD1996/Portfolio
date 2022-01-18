@@ -25,6 +25,8 @@ Limitations in the dataset, and accessibility to affordable computing resources,
 - [Tensorflow](https://www.tensorflow.org/)
 - [Google Cloud Platform](https://cloud.google.com)
 - [Neptune.ai](https://neptune.ai)
+- [Classes and Modules]({{ site.url }}/downloads/cmcd398-research-essay.pdf)
+- [Code Repository](https://github.com/CMCD1996/finance-honours)
 
 ## **Engineering (Honours) Dissertation: GOCPI - A Scalable Energy Systems Modelling Tool**
 
