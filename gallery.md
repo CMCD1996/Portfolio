@@ -14,8 +14,8 @@ TBC
 
 # **University of Auckland Investment Club**
 
-| ![](/assets/images/uaic-3.jpg) | ![](/assets/images/uaic-4.jpg) | | ![](/assets/images/uaic-1.jpg) |
-| ![](/assets/images/uaic-1.jpg) | ![](/assets/images/uaic-2.jpg) | | ![](/assets/images/uaic-1.jpg) |
+| ![](/assets/images/uaic-3.jpg) | ![](/assets/images/uaic-4.jpg) | ![](/assets/images/uaic-1.jpg) |
+| ![](/assets/images/uaic-1.jpg) | ![](/assets/images/uaic-2.jpg) | ![](/assets/images/uaic-1.jpg) |
 
 # **ExxonMobil Australia**
 
@@ -23,3 +23,5 @@ TBC
 | ![](/assets/images/xom-2.jpg) | ![](/assets/images/xom-4.jpg) |
 
 # **University of Auckland Case Program**
+
+TBC
