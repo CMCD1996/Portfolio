@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Resume
+title: CV
 ---
 
-# **Resume**
+# **Curriculum Vitae**
 
-My resume includes personal details, employment history, leadership, service, academic achievements, awards, projects, skills and extra-curriculars.
+My resume includes personal details, employment history, leadership, service, academic achievements, awards, projects, skills and extracurricular activities.
 
 You can review my extended resume below or download a two page copy [here.]({{ site.url }}/downloads/resume.pdf)
 
