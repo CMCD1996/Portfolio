@@ -3,8 +3,7 @@ layout: default
 title: Projects
 ---
 
-# **Cooking**
-
+[![Food](assets/images/food.png)]
 |![Roast Leg of Lamb in a Red Wine Jus](/assets/images/leg-o-lamb.jpg)|![Slow Cooked Lamb Shanks in a Red Wine Jus](/assets/images/lamb-shanks.jpg)|
 |![Roast Pork](/assets/images/roast-pork.jpg)|![Pork Spare Ribs with Homemade Ribs Sauce](/assets/images/spare-ribs.jpg)|
 |![Roast Chicken](/assets/images/roast-chicken.jpg)|![Creamy Yellow Chicken Curry](/assets/images/chicken-curry.jpg)|

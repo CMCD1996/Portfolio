@@ -28,11 +28,11 @@ Limitations in the dataset, and accessibility to affordable computing resources,
 - [Classes and Modules]({{ site.url }}/downloads/cmcd398-research-essay.pdf)
 - [Code Repository](https://github.com/CMCD1996/finance-honours)
 
-## **Engineering (Honours) Dissertation: GOCPI - A Scalable Energy Systems Modelling Tool**
+## **Engineering (Honours) Dissertation: Global Optimisation Carbon Pricing Initiative (GOCPI)- A Scalable Energy Systems Modelling Tool**
 
 My research project explored the development of an open-source energy modelling tool for users to design their own energy systems. The model intends to inform policy and investment in sustainable technology. The model is built using Python, Excel, GNU Mathprog and IBM Watson Machine Learning services.
 
-[![Project Outline](/assets/images/GOCPI.png)]({{ site.url }}/downloads/gocpi.pdf)
+[![Project Outline](/assets/images/engineering-honours.png)]({{ site.url }}/downloads/gocpi.pdf)
 
 ### GOCPI Information, References and Required Software
 

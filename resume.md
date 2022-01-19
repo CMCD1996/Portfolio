@@ -7,7 +7,7 @@ title: CV
 
 My resume includes personal details, employment history, leadership, service, academic achievements, awards, projects, skills and extracurricular activities.
 
-You can review my extended resume below or download a two page copy [here.]({{ site.url }}/downloads/resume.pdf)
+You can review my extended resume below or download a two-page copy [here.]({{ site.url }}/downloads/resume.pdf)
 
 ## **Personal details**
 
@@ -105,13 +105,17 @@ You can review my extended resume below or download a two page copy [here.]({{ s
 
 - Selected to interview for the New Zealand constituency
 
+### **First in Course Award for FINANCE 702 (2021)**
+
+- Top student; FINANCE 702: Governance Issues in Finance examined the role of information, knowledge, incentives, and measurement in contracting, organisational design, and governance of economic transactions in property rights, transaction cost economics, agency and stewardship theories
+
 ### **University of Auckland Engineering Dean’s Honours List (2020)**
 
 - Recognised for demonstrating excellence in academic performance by being in the top 5% or attaining a GPA of over 8.25 in Part IV Engineering
 
 ### **First in Course Award for ECON 372 (2019)**
 
-- Top student; Econ 372: Energy and Environmental Economics covering economics related to resource management, oil markets, climate change, energy policy
+- Top student; Econ 372: Energy and Environmental Economics covered economics related to resource management, oil markets, climate change, and energy policy
 
 ### **University of Auckland Blues Award for Innovation (2020)**
 
