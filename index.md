@@ -2,26 +2,19 @@
 layout: default
 driveId: 1lxj91VTGCbmIsP7Re86GWfWpXlR2a2Me/preview
 ---
-[![blog](assets/images/welcome.png)](index.html)
 
-[![blog](assets/images/blog.png)](blog.html)
+[![welcome](assets/images/welcome.png)](index.html)
 
-[![Community](assets/images/causes.png)](causes.html)
+[![Academia](assets/images/academia.png)](academia.html)
+
+[![Community](assets/images/community.png)](community.html)
 
 [![Fitness](assets/images/fitness.png)](fitness.html)
 
-[![Food](assets/images/food.png)](food.html)
+[![Gallery](assets/images/gallery.png)](gallery.html)
 
-[![Future](assets/images/future.png)](future.html)
+[![Literature](assets/images/literature.png)](literature.html)
 
 [![Projects](assets/images/projects.png)](projects.html)
 
 [![Resume](assets/images/resume.png)](resume.html)
-
-
-
-
-
-
-
-
