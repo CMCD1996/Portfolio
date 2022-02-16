@@ -15,13 +15,13 @@ You can review my extended resume below or download a two-page copy [here.]({{ s
 
 - University: University of Auckland (2015 - 2021)
 
-- Overall GPA: **8.17**
+- Overall GPA: **8.18**
 
 - BCOM GPA: **8.21**
 
 - BE(HONS) GPA: **8.14**
 
-- BCOM(HONS) GPA: **TBC**
+- BCOM(HONS) GPA: **8.25**
 
 - Secondary School: Hutt International Boys’ School, NCEA Levels 1, 2 and 3 with Excellence
 
