@@ -10,6 +10,8 @@ A gallery capturing moments with family, friends, and my communities.
 
 # **Kupe Leadership Scholarship (2021)**
 
+| ![](/assets/images/gallery/kupe-1.jpg) | ![](/assets/images/gallery/kupe-2.jpg) |
+
 # **University of Auckland Investment Club (2020)**
 
 | ![](/assets/images/gallery/uaic-1.jpg) | ![](/assets/images/gallery/uaic-2.jpg) |
