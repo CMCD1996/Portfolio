@@ -23,16 +23,16 @@ A gallery capturing moments with family, friends, and my communities.
 | ![](/assets/images/gallery/xom-1.jpg) | ![](/assets/images/gallery/xom-3.jpg) |
 | ![](/assets/images/gallery/xom-2.jpg) | ![](/assets/images/gallery/xom-4.jpg) |
 
-# ** Tauranga Half (2019)**
+# **Tauranga Half (2019)**
 
 | ![](/assets/images/gallery/th1.jpg) | ![](/assets/images/gallery/th2.jpg) |
 
-# ** Ironman New Zealand (2019)**
+# **Ironman New Zealand (2019)**
 
 | ![](/assets/images/gallery/imnz-3.jpg) | ![](/assets/images/gallery/imnz-4.jpg) |
 | ![](/assets/images/gallery/imnz-1.jpg) | ![](/assets/images/gallery/imnz-2.jpg) |
 
-# ** Ironman 70.3 Sunshine Coast (2019)**
+# **Ironman 70.3 Sunshine Coast (2019)**
 
 | ![](/assets/images/gallery/imsc-1.jpg) | ![](/assets/images/gallery/imsc-2.jpg) |
 
