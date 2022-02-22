@@ -31,7 +31,7 @@ You can review my extended resume below or download a two-page copy [here.]({{ s
 
 - Phone: +64 27 892 3821 (NZ)
 
-- Citizenship: Canada and New Zealand
+- Citizenship: Canada, New Zealand
 
 ## **Employment history**
 
