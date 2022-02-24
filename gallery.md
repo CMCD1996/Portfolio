@@ -10,9 +10,7 @@ A gallery capturing moments with family, friends, and my communities.
 
 # **Kupe Leadership Scholarship (2021)**
 
-![](/assets/images/gallery/kupe-1.png)
-
-| ![](/assets/images/gallery/kupe-2.png)| ![](/assets/images/gallery/kupe-4.png) |
+![](/assets/images/gallery/kupe-1.png) | ![](/assets/images/gallery/kupe-2.png) |
 
 ![](/assets/images/gallery/kupe-3.png)
 
