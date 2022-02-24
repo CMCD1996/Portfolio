@@ -7,7 +7,9 @@ key: "abc"
 
 This page describes my Ironman races and training schedules.
 
-[![Training](/assets/images/training.png)]
+![Training](/assets/images/training.png)
+
+Both Strava and Garmin Connect display training information. Workouts are from either Garmin or Training Peaks.
 
 - [Strava](https://www.strava.com/athletes/25758170)
 - [Garmin Connect](https://connect.garmin.com/modern/profile/1f9ed707-bc55-4631-9f63-bb1a14c1d3f6)

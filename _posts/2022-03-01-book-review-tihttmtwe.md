@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Ride of a Lifetime... by Robert Iger (Review in Progress)"
+title: " This Is How They Tell Me The World Ends... by Nicole Perlroth (Reading in Progress)"
 ---
 
 This entry is a continuation of my book review series.
