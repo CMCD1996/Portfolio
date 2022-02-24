@@ -12,7 +12,7 @@ Please click any of the graphics to review project material and reports.
 
 My dissertation investigates the feasibility, and economic significance, of using deep neural networks
 to maximise monthly hedge portfolio excess returns using
-The set of assets for analysis is global assets extracted from [CRSP](https://crsp.org) and [Compustat])(https://www.spglobal.com/marketintelligence/en/?product=compustat-research-insight) by S&P Global.
+The set of assets for analysis is global assets extracted from [CRSP](https://crsp.org) and [Compustat](https://www.spglobal.com/marketintelligence/en/?product=compustat-research-insight) by S&P Global.
 Hedge portfolios form using a long-short zero-cost investment strategies between top and bottom terciles.
 The provision of a factor portfolio dataset by [Jensen et al. (2021)](https://github.com/bkelly-lab/ReplicationCrisis) enables analysis.
 The mathematics, and technical implementation of model architecture, are sound.
