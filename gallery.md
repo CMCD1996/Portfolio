@@ -12,8 +12,6 @@ A gallery capturing moments with family, friends, and my communities.
 
 ![](/assets/images/gallery/kupe-1.png) | ![](/assets/images/gallery/kupe-2.png) |
 
-![](/assets/images/gallery/kupe-3.png)
-
 # **University of Auckland Investment Club (2020)**
 
 | ![](/assets/images/gallery/uaic-1.jpg) | ![](/assets/images/gallery/uaic-2.jpg) |
