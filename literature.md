@@ -13,9 +13,9 @@ This page lists literature reviews and reading recommendations.
 
 | ![](assets/images/literature/1984.jpeg) | ![]() | ![]() | ![](assets/images/literature/billion-dollar-whale.jpeg) | ![](assets/images/literature/blink.jpeg) |
 
-| ![](assets/images/literature/great-gatsby.jpeg) | ![](assets/images/literature/handmaids-tale.jpeg) | ![](assets/images/literature/humour-seriously.jpeg) | ![](assets/images/literature/invisible-women.jpeg) | ![](assets/images/literature/jane-eyre.jpeg) |
+| ![](assets/images/literature/great-gatsby.jpeg) | ![](assets/images/literature/handmaids-tale.jpeg) | ![](assets/images/literature/humour-seriously.jpeg) | ![](assets/images/literature/lolita.jpeg) | ![](assets/images/literature/outliers.jpeg) |
 
-| ![](assets/images/literature/lolita.jpeg) | ![](assets/images/literature/man-alone.jpeg) | ![](assets/images/literature/no-filter.jpeg) | ![](assets/images/literature/outliers.jpeg) | ![](assets/images/literature/principles.jpeg) |
+| ![](assets/images/literature/invisible-women.jpeg) | ![](assets/images/literature/man-alone.jpeg) | ![](assets/images/literature/no-filter.jpeg) | ![](assets/images/literature/jane-eyre.jpeg) | ![](assets/images/literature/principles.jpeg) |
 
 | ![](assets/images/literature/psychopolitics.jpeg) | ![](assets/images/literature/ride-of-a-lifetime.jpeg) | ![](assets/images/literature/the-god-boy.jpeg) | ![](assets/images/literature/this-is-how-they-tell-me-the-world-ends.jpeg) | ![]() |
 
