@@ -9,6 +9,10 @@ This page lists literature reviews and reading recommendations.
 
 | ![](assets/images/literature/To-Kill-A-Mockingbird.jpeg) | ![](assets/images/literature/grit.jpeg) | ![](assets/images/literature/being-mortal.jpeg) | ![](assets/images/literature/too-big-too-fail.jpeg) | ![](assets/images/literature/empire-of-pain.jpeg) |
 
+## **Upcoming Reading**
+
+| ![]() | ![]() | ![]() | ![]() | ![]() |
+
 ## **Library**
 
 | ![](assets/images/literature/1984.jpeg) | ![]() | ![]() | ![](assets/images/literature/billion-dollar-whale.jpeg) | ![](assets/images/literature/blink.jpeg) |
