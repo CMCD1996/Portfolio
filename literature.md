@@ -11,7 +11,7 @@ This page lists literature reviews and reading recommendations.
 
 ## **Upcoming Reading**
 
-| ![]() | ![]() | ![]() | ![]() | ![]() |
+| ![](assets/images/literature/crime-and-punishment.jpeg) | ![](assets/images/literature/ceo-excellence.jpeg) | ![](assets/images/literature/lord-of-the-rings.jpeg) | ![](assets/images/literature/the-tipping-point.jpeg) | ![](assets/images/literature/zero-to-one.jpeg) |
 
 ## **Library**
 
