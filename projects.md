@@ -3,7 +3,15 @@ layout: default
 title: Projects
 ---
 
-|![Food](assets/images/food.png)|
+[![Renovations](/assets/images/renovations.png)]({{ site.url }}/downloads/wip.pdf)
+
+[![Technology](/assets/images/technology.png)]({{ site.url }}/downloads/wip.pdf)
+
+[![Young Tech Professionals](/assets/images/young-tech-professionals.png)]({{ site.url }}/downloads/wip.pdf)
+
+[![UAIC Advisory Board](/assets/images/uaic-advisory-board.png)]({{ site.url }}/downloads/wip.pdf)
+
+![Food](assets/images/food.png)
 
 |![Roast Leg of Lamb in a Red Wine Jus](/assets/images/projects/food/leg-o-lamb.jpg)|![Slow Cooked Lamb Shanks in a Red Wine Jus](/assets/images/projects/food/lamb-shanks.jpg)|
 |![Roast Pork](/assets/images/projects/food/roast-pork.jpg)|![Pork Spare Ribs with Homemade Ribs Sauce](/assets/images/projects/food/spare-ribs.jpg)|
