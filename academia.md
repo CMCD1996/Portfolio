@@ -146,7 +146,7 @@ $$M_{ij} = 1 + \sum_{k=1}^{n} P_{ik} \times M_{kj} \text{ where } i \neq j$$
 
 I completed several assignments addressing corporate governance-related theories and applications.
 
-[![Corporate Governance](/assets/images/corporate-governance.png)]({{ site.url }}/downloads/cmcd398-corporate-governance.pdf)
+[![Corporate Governance](/assets/images/academia/corporate-governance.png)]({{ site.url }}/downloads/cmcd398-corporate-governance.pdf)
 
 ## **Literature Review & Proposals**
 
@@ -167,4 +167,4 @@ This assignment replicates the methodology implemented by Li et al. (2021), acce
 
 I conducted various forms of technical analysis to inform empirical assignments. Methods include Fama-MacBeth regressions, co-integration testing and Bollinger Band trading strategies.
 
-[![Technical Analysis](/assets/images/technical-analysis.png)]({{ site.url }}/downloads/cmcd398-technical-analysis.pdf)
+[![Technical Analysis](/assets/images/academia/technical-analysis.png)]({{ site.url }}/downloads/cmcd398-technical-analysis.pdf)

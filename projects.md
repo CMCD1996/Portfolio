@@ -5,11 +5,15 @@ title: Projects
 
 [![Renovations](/assets/images/renovations.png)]({{ site.url }}/downloads/wip.pdf)
 
+[![Gardening](/assets/images/\projects/gardening.png)]({{ site.url }}/downloads/wip.pdf)
+
+[![Robotics](/assets/images/projects/robotics.png)]({{ site.url }}/downloads/wip.pdf)
+
 [![Technology](/assets/images/technology.png)]({{ site.url }}/downloads/wip.pdf)
 
-[![Young Tech Professionals](/assets/images/young-tech-professionals.png)]({{ site.url }}/downloads/wip.pdf)
+[![Young Tech Professionals](/assets/images/projects/young-tech-professionals.png)]({{ site.url }}/downloads/wip.pdf)
 
-[![UAIC Advisory Board](/assets/images/uaic-advisory-board.png)]({{ site.url }}/downloads/wip.pdf)
+[![UAIC Advisory Board](/assets/images/projects/uaic-advisory-board.png)]({{ site.url }}/downloads/wip.pdf)
 
 ![Food](assets/images/food.png)
 
