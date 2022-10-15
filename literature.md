@@ -3,7 +3,7 @@ layout: default
 title: Literature
 ---
 
-This page lists literature reviews and reading recommendations.
+Literature lists books read from January 2021 onwards.
 
 ## **Currently Reading**
 - [Capital in the 21st Century by Thomas Piketty](https://www.amazon.com/Capital-Twenty-First-Century-Thomas-Piketty/dp/0674979850)
@@ -21,6 +21,7 @@ This page lists literature reviews and reading recommendations.
 - [Principles for Dealing with the Changing World Order: Why Nations Succeed and Fail by Ray Dalio](https://www.amazon.com/Changing-World-Order-Nations-Succeed/dp/1982160276)
 
 ## **Finished Reading**
+- [Humor, Seriously: Why Humor Is a Secret Weapon in Business and Life by Jennifer Aaker and Naomi Bagdonas](https://www.amazon.com/Humor-Seriously-Secret-Business-harness/dp/0593135288)
 - [- What It Takes: Lessons in the Pursuit of Excellence by Stephen A. Schwarzman](https://www.amazon.com/What-Takes-Lessons-Pursuit-Excellence/dp/1501158147)
 - [Split the Pie: A Radical New Way to Negotiate by Barry Nalebuff](https://www.amazon.com/Split-Pie-Radical-New-Negotiate/dp/0063135485)
 - [Lords of Finance: The Bankers Who Broke the World by Liaquat Ahamed](https://www.amazon.com/Lords-Finance-Bankers-Broke-World/dp/0143116800)
