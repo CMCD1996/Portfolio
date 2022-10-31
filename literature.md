@@ -6,7 +6,7 @@ title: Literature
 Literature lists books read from January 2021 onwards. I outline my current reading, favourite reads to recommend, and finished reading from January 2021 onwards. All listed in no particular order. I welcome new connections on Goodreads [(link here)](https://www.goodreads.com/friend/i?invite_token=MGQyMmUyNmYtNmZlMi00YzMwLWFjYTUtY2U1NDQwNjFlNGNl) to share & discuss books.
 
 ## **Currently Reading**
-- [Principles for Dealing with the Changing World Order: Why Nations Succeed and Fail by Ray Dalio (576pg)](https://www.amazon.com/Changing-World-Order-Nations-Succeed/dp/1982160276)
+- [I Love Capitalism!: An American Story by Ken Langone (320pg)](https://www.amazon.com/I-Love-Capitalism-American-Story/dp/073521624X)
 
 ## **Favourites**
 - [To Kill a Mockingbird by Harper Lee (384pg)](https://www.amazon.com/Kill-Mockingbird-Harper-Lee/dp/0446310786)
@@ -17,7 +17,6 @@ Literature lists books read from January 2021 onwards. I outline my current read
 - [Capital in the 21st Century by Thomas Piketty (816 pg)](https://www.amazon.com/Capital-Twenty-First-Century-Thomas-Piketty/dp/0674979850)
 
 ## **Upcoming Reading**
-- [I Love Capitalism!: An American Story by Ken Langone (320pg)](https://www.amazon.com/I-Love-Capitalism-American-Story/dp/073521624X)
 - [Shoe Dog: A Memoir by the Creator of Nike by Phil Knight (399pg)](https://www.amazon.com/Shoe-Dog-Memoir-Creator-Nike-ebook/dp/B0176M1A44)
 
 ## **Finished Reading**
@@ -57,3 +56,4 @@ Literature lists books read from January 2021 onwards. I outline my current read
 34. [Too Big to Fail: The Inside Story of How Wall Street and Washington Fought to Save the Financial System and Themselves by Andrew Ross Sorkin (640pg)](https://www.amazon.com/Too-Big-Fail-Washington-System/dp/0143118242)
 35. [Bad Blood: Secrets and Lies in a Silicon Valley Startup by John Carreyrou (352pg)](https://www.amazon.com/Bad-Blood-Secrets-Silicon-Startup/dp/152473165X)
 36. [Capital in the 21st Century by Thomas Piketty (816 pg)](https://www.amazon.com/Capital-Twenty-First-Century-Thomas-Piketty/dp/0674979850)
+37. [Principles for Dealing with the Changing World Order: Why Nations Succeed and Fail by Ray Dalio (576pg)](https://www.amazon.com/Changing-World-Order-Nations-Succeed/dp/1982160276)
