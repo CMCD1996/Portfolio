@@ -17,6 +17,9 @@ Literature lists books read from January 2021 onwards. I outline my current read
 - [Capital in the 21st Century by Thomas Piketty (816 pg)](https://www.amazon.com/Capital-Twenty-First-Century-Thomas-Piketty/dp/0674979850)
 
 ## **Upcoming Reading**
+- [How Asia Works by Joe Studwell (400pg)](https://www.amazon.com/How-Asia-Works-Joe-Studwell/dp/0802121322)
+- [Asian Godfathers: Money & Power in Hong Kong & Southeast Asia by Joe Studwell (368pg)](https://www.amazon.com/Asian-Godfathers-Money-Power-Southeast/dp/0802143911)
+- [The Seven Moons of Maali Almeida by Shehan Karunatilaka (400pg)](https://www.amazon.com/Seven-Moons-Maali-Almeida/dp/132406482X/)
 - [Shoe Dog: A Memoir by the Creator of Nike by Phil Knight (399pg)](https://www.amazon.com/Shoe-Dog-Memoir-Creator-Nike-ebook/dp/B0176M1A44)
 
 ## **Finished Reading**
