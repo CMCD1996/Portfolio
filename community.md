@@ -70,12 +70,3 @@ I started the University of Auckland's Women Engagement Initiative to break down
 
 I prepared this resource to help applicants prepare for case interviews. **Click the image below to review the resource**.
 [![Case Framework](/assets/images/case-frameworks.png)]({{ site.url }}/downloads/case-frameworks.pdf)
-
-## **Mental Health Foundation of New Zealand Fundraising (2019)**
-
-I raised $1600 for the Mental Health Foundation of New Zealand when training and competing in Ironman New Zealand 2019. The Mental Health Foundation of New Zealand is a charity working towards a society free from discrimination, where all people enjoy positive health and well-being. The foundations primarily educates communities and advocates for policies and services to support those struggling with mental illness.
-
-The World Health Organisation (WHO) conducted analysis on the impact mental, neurological and substance use disorders (MNS) have on the community at large. It is estimated at least 10% of the world's population is affected by MNS disorders and 20% of adolescents and children suffer from some type of mental disorder. The impact of MNS disorders on social and economic well-being is large. The global economy loses approximately $1 trillion annually in productivity due to depression and anxiety. MNS disorders are estimated to contribute to $2.5 - $8.5 trillion globally in economic losses, forecast to double by 2030 [(WHO,2020)](https://www.worldbank.org/en/topic/mental-health).
-
-As a community, it is our responsibility to support our most vulnerable and help the next generation overcome these challenges. **Click the image below to review the Mental Health Foundation of New Zealand's website**.
-[![MHF](/assets/images/mental-health-foundation.png)](https://www.mentalhealth.org.nz/)
