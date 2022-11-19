@@ -3,7 +3,7 @@ layout: default
 title: Literature
 ---
 
-Literature lists books read from January 2021 onwards. I outline my current reading, favourite reads to recommend, and finished reading from January 2021 onwards. All listed in no particular order. I welcome new connections on Goodreads [(link here)](https://www.goodreads.com/friend/i?invite_token=MGQyMmUyNmYtNmZlMi00YzMwLWFjYTUtY2U1NDQwNjFlNGNl) to share & discuss books.
+Literature lists books read from January 2021 onwards. I outline my current reading, favourite reads to recommend, and finished reading from January 2021 onwards. All listed in no particular order.
 
 ## **Currently Reading**
 - [How Asia Works by Joe Studwell (400pg)](https://www.amazon.com/How-Asia-Works-Joe-Studwell/dp/0802121322)
