@@ -7,7 +7,6 @@ Literature lists books read from January 2021 onwards. I outline my current read
 
 ## **Currently Reading**
 
-
 ## **Favourites**
 - [To Kill a Mockingbird by Harper Lee (384pg)](https://www.amazon.com/Kill-Mockingbird-Harper-Lee/dp/0446310786)
 - [Grit: The Power of Passion and Perseverance by Angela Duckworth (352pg)](https://www.amazon.com/Grit-Passion-Perseverance-Angela-Duckworth/dp/1501111108)
