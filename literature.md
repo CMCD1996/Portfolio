@@ -6,7 +6,7 @@ title: Literature
 Literature lists books read from January 2021 onwards. I outline my current reading, favourite reads to recommend, and finished reading from January 2021 onwards. All listed in no particular order.
 
 ## **Currently Reading**
-- [The Seven Moons of Maali Almeida by Shehan Karunatilaka (400pg)](https://www.amazon.com/Seven-Moons-Maali-Almeida/dp/132406482X/)
+
 
 ## **Favourites**
 - [To Kill a Mockingbird by Harper Lee (384pg)](https://www.amazon.com/Kill-Mockingbird-Harper-Lee/dp/0446310786)
@@ -17,11 +17,10 @@ Literature lists books read from January 2021 onwards. I outline my current read
 - [Capital in the 21st Century by Thomas Piketty (816 pg)](https://www.amazon.com/Capital-Twenty-First-Century-Thomas-Piketty/dp/0674979850)
 
 ## **Upcoming Reading**
-- [The Power Broker: Robert Mosesn & The Fall of New York by Robert A. Caro (1344pg)](https://www.amazon.com/Power-Broker-Robert-Moses-Fall/dp/0394720245)
+- [How to Win Friends & Influence People by Dale Carnegie (320pg)](https://www.amazon.com/How-Win-Friends-Influence-People/dp/0671027034)
 - [Shoe Dog: A Memoir by the Creator of Nike by Phil Knight (399pg)](https://www.amazon.com/Shoe-Dog-Memoir-Creator-Nike-ebook/dp/B0176M1A44)
 - [Albert Speer: His Battle with Truth by Gitta Sereny (800pg)](https://www.amazon.com/Albert-Speer-His-Battle-Truth/dp/0679768122)
-
-
+- [The Power Broker: Robert Mosesn & The Fall of New York by Robert A. Caro (1344pg)](https://www.amazon.com/Power-Broker-Robert-Moses-Fall/dp/0394720245)
 
 ## **Finished Reading**
 1. [Humor, Seriously: Why Humor Is a Secret Weapon in Business and Life by Jennifer Aaker and Naomi Bagdonas (pg 272)](https://www.amazon.com/Humor-Seriously-Secret-Business-harness/dp/0593135288)
@@ -64,3 +63,4 @@ Literature lists books read from January 2021 onwards. I outline my current read
 38. [I Love Capitalism!: An American Story by Ken Langone (320pg)](https://www.amazon.com/I-Love-Capitalism-American-Story/dp/073521624X)
 39. [How Asia Works by Joe Studwell (400pg)](https://www.amazon.com/How-Asia-Works-Joe-Studwell/dp/0802121322)
 40. [Asian Godfathers: Money & Power in Hong Kong & Southeast Asia by Joe Studwell (368pg)](https://www.amazon.com/Asian-Godfathers-Money-Power-Southeast/dp/0802143911)
+41. [The Seven Moons of Maali Almeida by Shehan Karunatilaka (400pg)](https://www.amazon.com/Seven-Moons-Maali-Almeida/dp/132406482X/)
