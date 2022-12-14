@@ -6,7 +6,7 @@ title: Literature
 Literature lists books read from January 2021 onwards. I outline my current reading, favourite reads to recommend, and finished reading from January 2021 onwards. All listed in no particular order.
 
 ## **Currently Reading**
-
+- [How to Win Friends & Influence People by Dale Carnegie (320pg)](https://www.amazon.com/How-Win-Friends-Influence-People/dp/0671027034)
 ## **Favourites**
 - [To Kill a Mockingbird by Harper Lee (384pg)](https://www.amazon.com/Kill-Mockingbird-Harper-Lee/dp/0446310786)
 - [Grit: The Power of Passion and Perseverance by Angela Duckworth (352pg)](https://www.amazon.com/Grit-Passion-Perseverance-Angela-Duckworth/dp/1501111108)
@@ -16,10 +16,11 @@ Literature lists books read from January 2021 onwards. I outline my current read
 - [Capital in the 21st Century by Thomas Piketty (816 pg)](https://www.amazon.com/Capital-Twenty-First-Century-Thomas-Piketty/dp/0674979850)
 
 ## **Upcoming Reading**
-- [How to Win Friends & Influence People by Dale Carnegie (320pg)](https://www.amazon.com/How-Win-Friends-Influence-People/dp/0671027034)
 - [Shoe Dog: A Memoir by the Creator of Nike by Phil Knight (399pg)](https://www.amazon.com/Shoe-Dog-Memoir-Creator-Nike-ebook/dp/B0176M1A44)
 - [Albert Speer: His Battle with Truth by Gitta Sereny (800pg)](https://www.amazon.com/Albert-Speer-His-Battle-Truth/dp/0679768122)
 - [The Power Broker: Robert Mosesn & The Fall of New York by Robert A. Caro (1344pg)](https://www.amazon.com/Power-Broker-Robert-Moses-Fall/dp/0394720245)
+- [Belonging: The Science of Creating Connection and Bridging Divides by Geoffrey L. Cohen (448pg)](https://www.amazon.com/Belonging-Science-Creating-Connection-Bridging/dp/1324006188)
+- [Endurance : Shackleton's Incredible Voyage to the Antarctic by Alfred Lansing (288pg)](https://www.amazon.com/Endurance-Shackletons-Incredible-Voyage-Antarctic/dp/029782919X)
 
 ## **Finished Reading**
 1. [Humor, Seriously: Why Humor Is a Secret Weapon in Business and Life by Jennifer Aaker and Naomi Bagdonas (pg 272)](https://www.amazon.com/Humor-Seriously-Secret-Business-harness/dp/0593135288)
