@@ -24,7 +24,7 @@ Literature lists books read from January 2021 onwards. I outline my current read
 - [Endurance : Shackleton's Incredible Voyage to the Antarctic by Alfred Lansing (288pg)](https://www.amazon.com/Endurance-Shackletons-Incredible-Voyage-Antarctic/dp/029782919X)
 
 ## **Finished Reading**
-# **2022**
+### **2022**
 42. [How to Win Friends & Influence People by Dale Carnegie (320pg)](https://www.amazon.com/How-Win-Friends-Influence-People/dp/0671027034)
 41. [The Seven Moons of Maali Almeida by Shehan Karunatilaka (400pg)](https://www.amazon.com/Seven-Moons-Maali-Almeida/dp/132406482X/)
 40. [Asian Godfathers: Money & Power in Hong Kong & Southeast Asia by Joe Studwell (368pg)](https://www.amazon.com/Asian-Godfathers-Money-Power-Southeast/dp/0802143911)
@@ -44,7 +44,7 @@ Literature lists books read from January 2021 onwards. I outline my current read
 26. [Empire of Pain: The Secret History of the Sackler Dynasty by Patrick Radden Keefe (560pg)](https://www.amazon.com/Empire-Pain-History-Sackler-Dynasty/dp/0385545681)
 25. [This Is How They Tell Me the World Ends: The Cyberweapons Arms Race by Nicole Perlo (528pg)](https://www.amazon.com/This-They-Tell-World-Ends/dp/1635576059)
 
-# **2021**
+### **2021**
 24. [Humor, Seriously: Why Humor Is a Secret Weapon in Business and Life by Jennifer Aaker and Naomi Bagdonas (pg 272)](https://www.amazon.com/Humor-Seriously-Secret-Business-harness/dp/0593135288)
 23. [The Great Gatby by F. Scott Fitzgerlad (180pg)](https://www.amazon.com/Great-Gatsby-F-Scott-Fitzgerald/dp/0743273567)
 22. [The Handmaid's Tale by Margaret Atwood (325pg)](https://www.amazon.com/Handmaids-Tale-Margaret-Atwood-ebook/dp/B003JFJHTS)
