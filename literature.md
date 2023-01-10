@@ -3,10 +3,11 @@ layout: default
 title: Literature
 ---
 
-Literature lists books read from January 2021 onwards. I outline my current reading, favourite reads to recommend, and finished reading from January 2021 onwards. All listed in no particular order.
+Literature lists books read from January 2021 onwards. I outline my current reading, favourite reads to recommend, and finished reading from January 2021 onwards. Book re-read are re-listed, itemized mulitple
+times on the webpage.
 
 ## **Currently Reading**
-- [Shoe Dog: A Memoir by the Creator of Nike by Phil Knight (399pg)](https://www.amazon.com/Shoe-Dog-Memoir-Creator-Nike-ebook/dp/B0176M1A44)
+- [Grit: The Power of Passion and Perseverance by Angela Duckworth (352pg)](https://www.amazon.com/Grit-Passion-Perseverance-Angela-Duckworth/dp/1501111108)
 
 ## **Favourites**
 - [To Kill a Mockingbird by Harper Lee (384pg)](https://www.amazon.com/Kill-Mockingbird-Harper-Lee/dp/0446310786)
@@ -24,6 +25,7 @@ Literature lists books read from January 2021 onwards. I outline my current read
 
 ## **Finished Reading**
 ### **2023**
+44. [Shoe Dog: A Memoir by the Creator of Nike by Phil Knight (399pg)](https://www.amazon.com/Shoe-Dog-Memoir-Creator-Nike-ebook/dp/B0176M1A44)
 
 ### **2022**
 43. [Of Boys and Men: Why the Modern Male Is Struggling, Why It Matters, and What to Do about It by Richard Reeves (256pg)](https://www.amazon.com/Boys-Men-Modern-Struggling-Matters/dp/0815739877)
