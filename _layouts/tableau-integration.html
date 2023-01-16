@@ -16,14 +16,16 @@ config=TeX-AMS-MML_HTMLorMML"></script>
     <main class="page-content" aria-label="Content">
       <div class="wrapper">
         {{ content }}
+
+        <script type="module" src="https://public.tableau.com/javascripts/api/tableau.embedding.3.latest.min.js"></script>
+        <tableau-viz id="tableauViz"       
+          src='https://public.tableau.com/app/profile/connor.mcdowall/viz/RelationshipDirectory/RelationshipDirectory'>
+        </tableau-viz>
       </div>
     </main>
 
     {%- include footer.html -%}
 
   </body>
-  <script type="module" src="https://public.tableau.com/javascripts/api/tableau.embedding.3.latest.min.js"></script>
-  <tableau-viz id="tableauViz"       
-  src='https://public.tableau.com/app/profile/connor.mcdowall/viz/RelationshipDirectory/RelationshipDirectory'>
-  </tableau-viz>
+  
 </html>
