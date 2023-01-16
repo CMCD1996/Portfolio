@@ -1,5 +1,5 @@
 ---
-layout: tableau-integration
+layout: default
 title: Projects
 ---
 
