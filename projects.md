@@ -14,5 +14,3 @@ title: Projects
 |![Singapore Noodles](/assets/images/projects/food/singapore-noodles.jpg)|![Chicken Drumsticks with Homemade Southern Spice and Pasta Salad](/assets/images/projects/food/chicken-ds.jpg)|
 |![Tom Yum Kung](/assets/images/projects/food/tom-yum-kung.jpg)|![Homemade Margherita Pizza](/assets/images/projects/food/pizza-hm.jpg)|
 |![Chicken and Mushroom Risotto](/assets/images/projects/food/risotto.jpg)|![Chicken Seafood Paella](/assets/images/projects/food/paella.jpg)|
-
-![Data Analysis](assets/images/food.png)
