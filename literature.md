@@ -7,7 +7,7 @@ Literature lists books read from January 2021 onwards. I outline my current read
 times on the webpage.
 
 ## **Currently Reading**
-- [Grit: The Power of Passion and Perseverance by Angela Duckworth (352pg)](https://www.amazon.com/Grit-Passion-Perseverance-Angela-Duckworth/dp/1501111108)
+- [Steve Jobs by Walter Isaacson (656pg) ](https://www.amazon.com/Steve-Jobs-Walter-Isaacson/dp/1451648537)
 
 ## **Favourites**
 - [To Kill a Mockingbird by Harper Lee (384pg)](https://www.amazon.com/Kill-Mockingbird-Harper-Lee/dp/0446310786)
@@ -25,6 +25,7 @@ times on the webpage.
 
 ## **Finished Reading**
 ### **2023**
+45. [Grit: The Power of Passion and Perseverance by Angela Duckworth (352pg)](https://www.amazon.com/Grit-Passion-Perseverance-Angela-Duckworth/dp/1501111108)
 44. [Shoe Dog: A Memoir by the Creator of Nike by Phil Knight (399pg)](https://www.amazon.com/Shoe-Dog-Memoir-Creator-Nike-ebook/dp/B0176M1A44)
 
 ### **2022**
