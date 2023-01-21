@@ -17,15 +17,17 @@ config=TeX-AMS-MML_HTMLorMML"></script>
       <div class="wrapper">
         {{ content }}
       </div>
+      </div>
+        <script type="module"
+        src="https://public.tableau.com/javascripts/api/tableau.embedding.3.latest.min.js">
+        </script>
+        <tableau-viz id="tableauViz"
+          src='https://public.tableau.com/views/RelationshipDirectory/RelationshipDirectory'
+          toolbar="bottom" hide-tabs>
+        </tableau-viz>
+      </div>
     </main>
-    <script type="module"
-    src="https://public.tableau.com/javascripts/api/tableau.embedding.3.latest.min.js">
-    </script>
-    <tableau-viz id="tableauViz"
-      src='https://public.tableau.com/views/RelationshipDirectory/RelationshipDirectory'
-      toolbar="bottom" hide-tabs>
-    </tableau-viz>
-
+  
     {%- include footer.html -%}
 
   </body>
