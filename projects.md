@@ -3,6 +3,8 @@ layout: default
 title: Projects
 ---
 
+![Data Analysis](assets/images/food.png)
+
 ![Cooking](assets/images/food.png)
 
 |![Roast Leg of Lamb in a Red Wine Jus](/assets/images/projects/food/leg-o-lamb.jpg)|![Slow Cooked Lamb Shanks in a Red Wine Jus](/assets/images/projects/food/lamb-shanks.jpg)|
