@@ -1,5 +1,5 @@
 ---
-layout: tableau
+layout: default
 title: Projects
 ---
 
