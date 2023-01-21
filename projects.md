@@ -3,7 +3,7 @@ layout: default
 title: Projects
 ---
 
-![Data Analysis](assets/images/food.png)
+![Data Analysis](assets/images/data-analysis.png)
 
 ![Cooking](assets/images/food.png)
 
