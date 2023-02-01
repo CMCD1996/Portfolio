@@ -24,6 +24,7 @@ times on the webpage.
 - [Belonging: The Science of Creating Connection and Bridging Divides by Geoffrey L. Cohen (448pg)](https://www.amazon.com/Belonging-Science-Creating-Connection-Bridging/dp/1324006188)
 - [Endurance : Shackleton's Incredible Voyage to the Antarctic by Alfred Lansing (288pg)](https://www.amazon.com/Endurance-Shackletons-Incredible-Voyage-Antarctic/dp/029782919X)
 - [Steve Jobs by Walter Isaacson (656pg) ](https://www.amazon.com/Steve-Jobs-Walter-Isaacson/dp/1451648537)
+- [Loneliness: Human Nature and the Need for Social Connection ()](https://www.amazon.com/Loneliness-Human-Nature-Social-Connection/dp/0393335283)
 
 ## **Finished Reading**
 ### **2023**
