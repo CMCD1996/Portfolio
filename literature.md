@@ -7,27 +7,27 @@ Literature lists books read from January 2021 onwards. I outline my current read
 times on the webpage.
 
 ## **Currently Reading**
-- [Invisible Women: Data Bias in a World Designed for Men by Caroline Criado Perez (272pg)](https://www.amazon.com/Invisible-Women-Data-World-Designed/dp/1419729071)
+- [Deep Work: Rules for Focused Success in a Distracted World by Cal Newport (304pg)](https://www.amazon.com/Deep-Work-Focused-Success-Distracted/dp/1455586692)
 
 ## **Favourites**
 - [To Kill a Mockingbird by Harper Lee (384pg)](https://www.amazon.com/Kill-Mockingbird-Harper-Lee/dp/0446310786)
 - [Grit: The Power of Passion and Perseverance by Angela Duckworth (352pg)](https://www.amazon.com/Grit-Passion-Perseverance-Angela-Duckworth/dp/1501111108)
+- [Bad Blood: Secrets and Lies in a Silicon Valley Startup by John Carreyrou (352pg)](https://www.amazon.com/Bad-Blood-Secrets-Silicon-Startup/dp/152473165X)
 - [Being Mortal by Atul Gawande (282pg)](https://www.amazon.com/Being-Mortal-Illness-Medicine-Matters/dp/1250081246)
 - [Too Big to Fail: The Inside Story of How Wall Street and Washington Fought to Save the Financial System and Themselves by Andrew Ross Sorkin (640pg)](https://www.amazon.com/Too-Big-Fail-Washington-System/dp/0143118242)
-- [Bad Blood: Secrets and Lies in a Silicon Valley Startup by John Carreyrou (352pg)](https://www.amazon.com/Bad-Blood-Secrets-Silicon-Startup/dp/152473165X)
-- [Capital in the 21st Century by Thomas Piketty (816 pg)](https://www.amazon.com/Capital-Twenty-First-Century-Thomas-Piketty/dp/0674979850)
+- [Lords of Finance: The Bankers Who Broke the World by Liaquat Ahamed (576pg)](https://www.amazon.com/Lords-Finance-Bankers-Broke-World/dp/0143116800)
 
 ## **Upcoming Reading**
-- [Deep Work: Rules for Focused Success in a Distracted World by Cal Newport (304pg)](https://www.amazon.com/Deep-Work-Focused-Success-Distracted/dp/1455586692)
 - [Albert Speer: His Battle with Truth by Gitta Sereny (800pg)](https://www.amazon.com/Albert-Speer-His-Battle-Truth/dp/0679768122)
 - [The Power Broker: Robert Mosesn & The Fall of New York by Robert A. Caro (1344pg)](https://www.amazon.com/Power-Broker-Robert-Moses-Fall/dp/0394720245)
 - [Belonging: The Science of Creating Connection and Bridging Divides by Geoffrey L. Cohen (448pg)](https://www.amazon.com/Belonging-Science-Creating-Connection-Bridging/dp/1324006188)
 - [Endurance : Shackleton's Incredible Voyage to the Antarctic by Alfred Lansing (288pg)](https://www.amazon.com/Endurance-Shackletons-Incredible-Voyage-Antarctic/dp/029782919X)
 - [Steve Jobs by Walter Isaacson (656pg) ](https://www.amazon.com/Steve-Jobs-Walter-Isaacson/dp/1451648537)
-- [Loneliness: Human Nature and the Need for Social Connection ()](https://www.amazon.com/Loneliness-Human-Nature-Social-Connection/dp/0393335283)
+- [Loneliness: Human Nature and the Need for Social Connection (336pg)](https://www.amazon.com/Loneliness-Human-Nature-Social-Connection/dp/0393335283)
 
 ## **Finished Reading**
 ### **2023**
+47. [Invisible Women: Data Bias in a World Designed for Men by Caroline Criado Perez (272pg)](https://www.amazon.com/Invisible-Women-Data-World-Designed/dp/1419729071)
 46. [Secrets of the Sprakkar: Iceland's Extraordinary Women and How They Are Changing the World by Eliza Reid (288pg)](https://www.amazon.com/Secrets-Sprakkar-Icelands-Extraordinary-Changing/dp/1728242169)
 45. [Grit: The Power of Passion and Perseverance by Angela Duckworth (352pg)](https://www.amazon.com/Grit-Passion-Perseverance-Angela-Duckworth/dp/1501111108)
 44. [Shoe Dog: A Memoir by the Creator of Nike by Phil Knight (399pg)](https://www.amazon.com/Shoe-Dog-Memoir-Creator-Nike-ebook/dp/B0176M1A44)
