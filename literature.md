@@ -7,7 +7,7 @@ Literature lists books read from January 2021 onwards. I outline my current read
 times on the webpage.
 
 ## **Currently Reading**
-- [Becoming by Michelle Obama (448pg)](https://www.amazon.com/Becoming-Michelle-Obama/dp/1524763136)
+- [The Power Broker: Robert Mosesn & The Fall of New York by Robert A. Caro (1344pg)](https://www.amazon.com/Power-Broker-Robert-Moses-Fall/dp/0394720245)
 
 ## **Favourites**
 - [To Kill a Mockingbird by Harper Lee (384pg)](https://www.amazon.com/Kill-Mockingbird-Harper-Lee/dp/0446310786)
@@ -21,13 +21,13 @@ times on the webpage.
 - [The House of Rothschild: Part I & II (1136pg)](https://www.amazon.com/dp/B074CH9PR9?binding=paperback&ref=dbs_dp_sirpi)
 - [Morgan: American Financier (848pg)](https://www.amazon.com/Morgan-American-Financier-Jean-Strouse/dp/0812987047)
 - [Albert Speer: His Battle with Truth by Gitta Sereny (800pg)](https://www.amazon.com/Albert-Speer-His-Battle-Truth/dp/0679768122)
-- [The Power Broker: Robert Mosesn & The Fall of New York by Robert A. Caro (1344pg)](https://www.amazon.com/Power-Broker-Robert-Moses-Fall/dp/0394720245)
 - [Belonging: The Science of Creating Connection and Bridging Divides by Geoffrey L. Cohen (448pg)](https://www.amazon.com/Belonging-Science-Creating-Connection-Bridging/dp/1324006188)
 - [Endurance : Shackleton's Incredible Voyage to the Antarctic by Alfred Lansing (288pg)](https://www.amazon.com/Endurance-Shackletons-Incredible-Voyage-Antarctic/dp/029782919X)
 - [Steve Jobs by Walter Isaacson (656pg) ](https://www.amazon.com/Steve-Jobs-Walter-Isaacson/dp/1451648537)
 
 ## **Finished Reading**
 ### **2023**
+49. [Becoming by Michelle Obama (448pg)](https://www.amazon.com/Becoming-Michelle-Obama/dp/1524763136)
 48. [Deep Work: Rules for Focused Success in a Distracted World by Cal Newport (304pg)](https://www.amazon.com/Deep-Work-Focused-Success-Distracted/dp/1455586692)
 47. [Invisible Women: Data Bias in a World Designed for Men by Caroline Criado Perez (272pg)](https://www.amazon.com/Invisible-Women-Data-World-Designed/dp/1419729071)
 46. [Secrets of the Sprakkar: Iceland's Extraordinary Women and How They Are Changing the World by Eliza Reid (288pg)](https://www.amazon.com/Secrets-Sprakkar-Icelands-Extraordinary-Changing/dp/1728242169)
