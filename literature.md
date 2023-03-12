@@ -18,15 +18,16 @@ times on the webpage.
 - [Lords of Finance: The Bankers Who Broke the World by Liaquat Ahamed (576pg)](https://www.amazon.com/Lords-Finance-Bankers-Broke-World/dp/0143116800)
 
 ## **Upcoming Reading**
+- [Endurance : Shackleton's Incredible Voyage to the Antarctic by Alfred Lansing (288pg)](https://www.amazon.com/Endurance-Shackletons-Incredible-Voyage-Antarctic/dp/029782919X)
 - [The House of Rothschild: Part I & II (1136pg)](https://www.amazon.com/dp/B074CH9PR9?binding=paperback&ref=dbs_dp_sirpi)
 - [Morgan: American Financier (848pg)](https://www.amazon.com/Morgan-American-Financier-Jean-Strouse/dp/0812987047)
 - [Albert Speer: His Battle with Truth by Gitta Sereny (800pg)](https://www.amazon.com/Albert-Speer-His-Battle-Truth/dp/0679768122)
 - [Belonging: The Science of Creating Connection and Bridging Divides by Geoffrey L. Cohen (448pg)](https://www.amazon.com/Belonging-Science-Creating-Connection-Bridging/dp/1324006188)
-- [Endurance : Shackleton's Incredible Voyage to the Antarctic by Alfred Lansing (288pg)](https://www.amazon.com/Endurance-Shackletons-Incredible-Voyage-Antarctic/dp/029782919X)
 - [Steve Jobs by Walter Isaacson (656pg) ](https://www.amazon.com/Steve-Jobs-Walter-Isaacson/dp/1451648537)
 
 ## **Finished Reading**
 ### **2023**
+50. [Attached: The New Science of Adult Attachment and How It Can Help You Find, and Keep, Love by Amir Levine & Rachel Heller (304pg)](https://www.amazon.com/Attached-Science-Adult-Attachment-YouFind/dp/1585429139)
 49. [Becoming by Michelle Obama (448pg)](https://www.amazon.com/Becoming-Michelle-Obama/dp/1524763136)
 48. [Deep Work: Rules for Focused Success in a Distracted World by Cal Newport (304pg)](https://www.amazon.com/Deep-Work-Focused-Success-Distracted/dp/1455586692)
 47. [Invisible Women: Data Bias in a World Designed for Men by Caroline Criado Perez (272pg)](https://www.amazon.com/Invisible-Women-Data-World-Designed/dp/1419729071)
