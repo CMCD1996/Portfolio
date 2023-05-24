@@ -3,13 +3,15 @@ layout: default
 title: Literature
 ---
 
-Literature lists books read from January 2021 onwards. I outline my current reading, favourite reads to recommend, and finished reading from January 2021 onwards, organised by genre/category loosely. Books re-read are re-listed and re-itemized on the webpage.
+Literature lists books read from January 2021 onwards outlining current reading, favourites, and completed loosely organised by genre. Books re-read are subsequently re-listed and re-itemized.
 
 ## **Currently Reading**
 
 - [Wild Swans: Three Daughters of China by Jung Chang (538pg)](https://www.amazon.com/Wild-Swans-Three-Daughters-China/dp/0743246985)
 
 ## **Favourites**
+
+Subset of top 10 favourite reads to recommend evolving over time.
 
 1. [Grit: The Power of Passion and Perseverance by Angela Duckworth (352pg)](https://www.amazon.com/Grit-Passion-Perseverance-Angela-Duckworth/dp/1501111108)
 2. [To Kill a Mockingbird by Harper Lee (384pg)](https://www.amazon.com/Kill-Mockingbird-Harper-Lee/dp/0446310786)
@@ -27,7 +29,7 @@ Literature lists books read from January 2021 onwards. I outline my current read
 - [Belonging: The Science of Creating Connection and Bridging Divides by Geoffrey L. Cohen (448pg)](https://www.amazon.com/Belonging-Science-Creating-Connection-Bridging/dp/1324006188)
 - [Steve Jobs by Walter Isaacson (656pg) ](https://www.amazon.com/Steve-Jobs-Walter-Isaacson/dp/1451648537)
 
-## **Finished Reading**
+## **Completed**
 
 ### **Biographies & Memoirs**
 
@@ -72,6 +74,7 @@ Literature lists books read from January 2021 onwards. I outline my current read
 1. [How Asia Works by Joe Studwell (400pg)](https://www.amazon.com/How-Asia-Works-Joe-Studwell/dp/0802121322)
 2. [Lords of Finance: The Bankers Who Broke the World by Liaquat Ahamed (576pg)](https://www.amazon.com/Lords-Finance-Bankers-Broke-World/dp/0143116800)
 3. [Asian Godfathers: Money & Power in Hong Kong & Southeast Asia by Joe Studwell (368pg)](https://www.amazon.com/Asian-Godfathers-Money-Power-Southeast/dp/0802143911)
+4. [Capital in the 21st Century by Thomas Piketty (816 pg)](https://www.amazon.com/Capital-Twenty-First-Century-Thomas-Piketty/dp/0674979850)
 
 ### **Medicine**
 
