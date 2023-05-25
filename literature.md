@@ -29,7 +29,7 @@ Top 10 favourite reads, evolving over time.
 
 ### **Discovered from Articles & Websites**
 
-1. [The House of Rothschild: Part I & II (1136pg)](https://www.amazon.com/dp/B074CH9PR9?binding=paperback&ref=dbs_dp_sirpi)
+1. [The House of Rothschild: Part I & II (1136pg)](https://www.amazon.com/dp/B074CH9PR9?binding=paperback/ref=dbs_dp_sirpi)
 2. [Morgan: American Financier (848pg)](https://www.amazon.com/Morgan-American-Financier-Jean-Strouse/dp/0812987047)
 3. [Steve Jobs by Walter Isaacson (656pg) ](https://www.amazon.com/Steve-Jobs-Walter-Isaacson/dp/1451648537)
 4. [Belonging: The Science of Creating Connection and Bridging Divides by Geoffrey L. Cohen (448pg)](https://www.amazon.com/Belonging-Science-Creating-Connection-Bridging/dp/1324006188)
