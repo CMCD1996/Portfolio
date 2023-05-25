@@ -9,6 +9,20 @@ Literature lists books read from January 2021 onwards outlining current reading,
 
 - [Wild Swans: Three Daughters of China by Jung Chang (538pg)](https://www.amazon.com/Wild-Swans-Three-Daughters-China/dp/0743246985)
 
+## **Statistics**
+
+| Metric          |  Value   |
+| :-------------- | :------: |
+| Start Date      |
+| Last Update     | 25/05/23 |
+| # Days          |   874    |
+| # Books         |    53    |
+| # Pages / Book  |   385    |
+| # Pages / Day   |    23    |
+| # Books in 2021 |    20    |
+| # Books in 2022 |    21    |
+| # Books in 2023 |    12    |
+
 ## **Favourites**
 
 Top 10 favourite reads, evolving over time.
