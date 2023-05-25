@@ -13,7 +13,7 @@ Literature lists books read from January 2021 onwards outlining current reading,
 
 | Metric          |  Value   |
 | :-------------- | :------: |
-| Start Date      |
+| Start Date      | 01/01/21 |
 | Last Update     | 25/05/23 |
 | # Days          |   874    |
 | # Books         |    53    |
