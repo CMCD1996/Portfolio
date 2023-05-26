@@ -10,7 +10,7 @@ Literature lists books read from January 2021 onwards outlining current reading,
 - [Wild Swans: Three Daughters of China by Jung Chang (538pg)](https://www.amazon.com/Wild-Swans-Three-Daughters-China/dp/0743246985)
 - [Mastering The Market Cycle: Getting the Odds on Your Side by Howard Marks (316pg)](https://www.amazon.com/Mastering-Market-Cycle-Getting-odds/dp/1473680379)
 
-## **Statistics**
+## **KPIs & Statistics**
 
 Key performance indicators related to reading.
 
