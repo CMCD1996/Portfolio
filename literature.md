@@ -12,7 +12,7 @@ Literature lists books read from January 2021 onwards outlining current reading,
 
 ## **KPIs & Statistics**
 
-Key performance indicators related to reading.
+Key performance indicators and statistics related to reading.
 
 | Metric          |  Value   |
 | :-------------- | :------: |
@@ -28,7 +28,7 @@ Key performance indicators related to reading.
 
 ## **Favourites**
 
-Top 10 favourite reads, evolving over time.
+Favourite reads, evolving over time.
 
 1. [Grit: The Power of Passion and Perseverance by Angela Duckworth (352pg)](https://www.amazon.com/Grit-Passion-Perseverance-Angela-Duckworth/dp/1501111108)
 2. [To Kill a Mockingbird by Harper Lee (384pg)](https://www.amazon.com/Kill-Mockingbird-Harper-Lee/dp/0446310786)
