@@ -10,22 +10,6 @@ Literature lists books read from January 2021 onwards outlining current reading,
 - [Wild Swans: Three Daughters of China by Jung Chang (538pg)](https://www.amazon.com/Wild-Swans-Three-Daughters-China/dp/0743246985)
 - [Mastering The Market Cycle: Getting the Odds on Your Side by Howard Marks (316pg)](https://www.amazon.com/Mastering-Market-Cycle-Getting-odds/dp/1473680379)
 
-## **KPIs & Statistics**
-
-Key performance indicators and statistics related to reading.
-
-| Metric          |  Value   |
-| :-------------- | :------: |
-| Start Date      | 01/01/21 |
-| Last Update     | 25/05/23 |
-| # Days          |   874    |
-| # Books         |    53    |
-| # Pages / Book  |   385    |
-| # Pages / Day   |    23    |
-| # Books in 2021 |    20    |
-| # Books in 2022 |    21    |
-| # Books in 2023 |    12    |
-
 ## **Favourites**
 
 Favourite reads, evolving over time.
@@ -129,3 +113,19 @@ Books read from January 2021 onwards.
 7. [Invisible Women: Data Bias in a World Designed for Men by Caroline Criado Perez (272pg)](https://www.amazon.com/Invisible-Women-Data-World-Designed/dp/1419729071)
 8. [Psychopolitics: Neoliberalism and New Technologies of Power by Byung-Chul Han (96pg)](https://www.amazon.com/Psychopolitics-Neoliberalism-New-Technologies-Power/dp/1784785776)
 9. [Blink: The Power of Thinking Without Thinking by Malcolm Gladwell (296pg)](https://www.amazon.com/Blink-Power-Thinking-Without/dp/0316010669)
+
+### **KPIs & Statistics**
+
+Key performance indicators and statistics related to reading.
+
+| Metric          |  Value   |
+| :-------------- | :------: |
+| Start Date      | 01/01/21 |
+| Last Update     | 25/05/23 |
+| # Days          |   874    |
+| # Books         |    53    |
+| # Pages / Book  |   385    |
+| # Pages / Day   |    23    |
+| # Books in 2021 |    20    |
+| # Books in 2022 |    21    |
+| # Books in 2023 |    12    |
