@@ -116,16 +116,13 @@ Books read from January 2021 onwards.
 
 ### **KPIs & Statistics**
 
-Key performance indicators and statistics related to reading.
+Key reading statistics and key performance indicators. **Last update: 28/05/23**
 
-| Metric          |  Value   |
-| :-------------- | :------: |
-| Start Date      | 01/01/21 |
-| Last Update     | 25/05/23 |
-| # Days          |   874    |
-| # Books         |    53    |
-| # Pages / Book  |   385    |
-| # Pages / Day   |    23    |
-| # Books in 2021 |    20    |
-| # Books in 2022 |    21    |
-| # Books in 2023 |    12    |
+| Statistics     | Total | 2021 | 2022 | 2023 |  KPI  |
+| :------------- | :---: | :--: | :--: | :--: | :---: |
+| # Days         |  877  | 365  | 365  | 147  |  365  |
+| # Books        |  53   |  22  |  19  |  12  |  25   |
+| # Pages        | 20420 | 7386 | 8171 | 4863 | 10000 |
+| # Pages / Book |  385  | 336  | 430  | 405  |  400  |
+| # Pages / Day  |  23   |  20  |  22  |  33  |  27   |
+| # Weeks / Book | 2.36  | 2.37 | 2.74 | 1.75 | 2.09  |
