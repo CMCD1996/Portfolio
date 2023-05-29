@@ -8,7 +8,6 @@ Literature lists books read from January 2021 onwards outlining current reading,
 ## **Currently Reading**
 
 - [Wild Swans: Three Daughters of China by Jung Chang (538pg)](https://www.amazon.com/Wild-Swans-Three-Daughters-China/dp/0743246985)
-- [Mastering The Market Cycle: Getting the Odds on Your Side by Howard Marks (316pg)](https://www.amazon.com/Mastering-Market-Cycle-Getting-odds/dp/1473680379)
 
 ## **Favourites**
 
@@ -28,6 +27,7 @@ Favourite reads, evolving over time.
 1. [Albert Speer: His Battle with Truth by Gitta Sereny (800pg)](https://www.amazon.com/Albert-Speer-His-Battle-Truth/dp/0679768122)
 2. [Endurance : Shackleton's Incredible Voyage to the Antarctic by Alfred Lansing (288pg)](https://www.amazon.com/Endurance-Shackletons-Incredible-Voyage-Antarctic/dp/029782919X)
 3. [The World For Sale: Money, Power, and the Traders Who Barter the Earth's Resources by Javier Blas and Jack Farchy (416pg)](https://www.amazon.com/World-Sale-Javier-Blas/dp/0190078952)
+4. [Mastering The Market Cycle: Getting the Odds on Your Side by Howard Marks (316pg)](https://www.amazon.com/Mastering-Market-Cycle-Getting-odds/dp/1473680379)
 
 ### **Discovered from Articles & Websites**
 
