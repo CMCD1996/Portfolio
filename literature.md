@@ -24,9 +24,10 @@ Favourite reads, evolving over time.
 
 ### **Recommendations from Friends, Family, & Mentors**
 
-1. [Albert Speer: His Battle with Truth by Gitta Sereny (800pg)](https://www.amazon.com/Albert-Speer-His-Battle-Truth/dp/0679768122)
-2. [Endurance : Shackleton's Incredible Voyage to the Antarctic by Alfred Lansing (288pg)](https://www.amazon.com/Endurance-Shackletons-Incredible-Voyage-Antarctic/dp/029782919X)
-3. [Mastering The Market Cycle: Getting the Odds on Your Side by Howard Marks (316pg)](https://www.amazon.com/Mastering-Market-Cycle-Getting-odds/dp/1473680379)
+1. [Big Debt Crises by Ray Dalio (456pg)](https://www.amazon.com/Big-Debt-Crises-Ray-Dalio/dp/1732689806)
+2. [Albert Speer: His Battle with Truth by Gitta Sereny (800pg)](https://www.amazon.com/Albert-Speer-His-Battle-Truth/dp/0679768122)
+3. [Endurance : Shackleton's Incredible Voyage to the Antarctic by Alfred Lansing (288pg)](https://www.amazon.com/Endurance-Shackletons-Incredible-Voyage-Antarctic/dp/029782919X)
+4. [Mastering The Market Cycle: Getting the Odds on Your Side by Howard Marks (316pg)](https://www.amazon.com/Mastering-Market-Cycle-Getting-odds/dp/1473680379)
 
 ### **Discovered from Articles & Websites**
 
