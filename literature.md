@@ -7,7 +7,8 @@ Literature lists books read from January 2021 onwards outlining current reading,
 
 ## **Currently Reading**
 
-- [The World For Sale: Money, Power, and the Traders Who Barter the Earth's Resources by Javier Blas and Jack Farchy (416pg)](https://www.amazon.com/World-Sale-Javier-Blas/dp/0190078952)
+- [Attached: The New Science of Adult Attachment and How It Can Help You Find, and Keep, Love by Amir Levine & Rachel Heller (304pg)](https://www.amazon.com/Attached-Science-Adult-Attachment-YouFind/dp/1585429139)
+- [Big Debt Crises by Ray Dalio (456pg)](https://www.amazon.com/Big-Debt-Crises-Ray-Dalio/dp/1732689806)
 
 ## **Favourites**
 
@@ -24,10 +25,9 @@ Favourite reads, evolving over time.
 
 ### **Recommendations from Friends, Family, & Mentors**
 
-1. [Big Debt Crises by Ray Dalio (456pg)](https://www.amazon.com/Big-Debt-Crises-Ray-Dalio/dp/1732689806)
-2. [Albert Speer: His Battle with Truth by Gitta Sereny (800pg)](https://www.amazon.com/Albert-Speer-His-Battle-Truth/dp/0679768122)
-3. [Endurance : Shackleton's Incredible Voyage to the Antarctic by Alfred Lansing (288pg)](https://www.amazon.com/Endurance-Shackletons-Incredible-Voyage-Antarctic/dp/029782919X)
-4. [Mastering The Market Cycle: Getting the Odds on Your Side by Howard Marks (316pg)](https://www.amazon.com/Mastering-Market-Cycle-Getting-odds/dp/1473680379)
+1. [Albert Speer: His Battle with Truth by Gitta Sereny (800pg)](https://www.amazon.com/Albert-Speer-His-Battle-Truth/dp/0679768122)
+2. [Endurance : Shackleton's Incredible Voyage to the Antarctic by Alfred Lansing (288pg)](https://www.amazon.com/Endurance-Shackletons-Incredible-Voyage-Antarctic/dp/029782919X)
+3. [Mastering The Market Cycle: Getting the Odds on Your Side by Howard Marks (316pg)](https://www.amazon.com/Mastering-Market-Cycle-Getting-odds/dp/1473680379)
 
 ### **Discovered from Articles & Websites**
 
@@ -65,6 +65,7 @@ Books read from January 2021 onwards.
 10. [Principles: Life and Work by Ray Dalio (592pg)](https://www.amazon.com/Principles-Life-Work-Ray-Dalio/dp/1501124021)
 11. [Woke, Inc.: Inside Corporate America's Social Justice Scam (368pg)](https://www.amazon.com/Woke-Inc-Corporate-Americas-Justice/dp/1546090789)
 12. [Billion Dollar Whale: The Man Who Fooled Wall Street, Hollywood, and the World by Tom Wright & Bradley Hope (400pg)](https://www.amazon.com/Billion-Dollar-Whale-Fooled-Hollywood/dp/031643650X)
+13. [The World For Sale: Money, Power, and the Traders Who Barter the Earth's Resources by Javier Blas and Jack Farchy (416pg)](https://www.amazon.com/World-Sale-Javier-Blas/dp/0190078952)
 
 ### **Fiction**
 
