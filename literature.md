@@ -3,7 +3,7 @@ layout: default
 title: Literature
 ---
 
-Literature lists books read from January 2021 onwards outlining current reading, favourites, and completed loosely organised by genre. Books re-read are subsequently re-listed and re-itemized.
+Literature lists books read from January 2021 onwards outlining current reading, favourites, and completed loosely organised by genre. Books read again are not relisted but accounted for in reading statistics and KPIs.
 
 ## **Currently Reading**
 
@@ -103,7 +103,6 @@ Books read from January 2021 onwards.
 4. [The How of Happiness: A New Approach to Getting the Life You Want by Sonja Lyubomirsky (384pg)](https://www.amazon.com/How-Happiness-Approach-Getting-Life/dp/0143114956)
 5. [Humor, Seriously: Why Humor Is a Secret Weapon in Business and Life by Jennifer Aaker and Naomi Bagdonas (pg 272)](https://www.amazon.com/Humor-Seriously-Secret-Business-harness/dp/0593135288)
 6. [What Happened to You?: Conversations on Trauma, Resilience, and Healing by Oprah Winfrey & Bruce D. Perry (304pg)](https://www.amazon.com/What-Happened-You-Understanding-Resilience/dp/1250223180)
-7. [Grit: The Power of Passion and Perseverance by Angela Duckworth (352pg)](https://www.amazon.com/Grit-Passion-Perseverance-Angela-Duckworth/dp/1501111108)
 
 ### **Politics & Social Science**
 
