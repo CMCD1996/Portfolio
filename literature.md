@@ -7,7 +7,7 @@ Literature lists books read from January 2021 onwards outlining current reading,
 
 ## **Currently Reading**
 
-- [Attached: The New Science of Adult Attachment and How It Can Help You Find, and Keep, Love by Amir Levine & Rachel Heller (304pg)](https://www.amazon.com/Attached-Science-Adult-Attachment-YouFind/dp/1585429139)
+- [Cutting for Stone by Abraham Verghese (688pg)](https://www.amazon.com.au/Cutting-Stone-Abraham-Verghese/dp/0375714367)
 - [Big Debt Crises by Ray Dalio (456pg)](https://www.amazon.com/Big-Debt-Crises-Ray-Dalio/dp/1732689806)
 
 ## **Favourites**

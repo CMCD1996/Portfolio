@@ -10,7 +10,7 @@ Please click any of the graphics to review project material and reports.
 
 ## **Finance (Honours) Dissertation: Direct Hedge Portfolio Excess Return Maximisation using Deep Neural Networks**
 
-My dissertation investigates both feasibility, and economic significance, of maximising excess returns from monthly long short equity hedge portfolios using deep neural networks.
+My dissertation investigates both the feasibility, and economic significance, of maximising excess returns from monthly long short equity hedge portfolios using deep neural networks.
 Portfolios are constructed from global assets extracted from [CRSP](https://crsp.org) and [Compustat](https://www.spglobal.com/marketintelligence/en/?product=compustat-research-insight) by S&P Global.
 Long-short zero-cost investment strategies between top and bottom terciles inform hedge portfolios.
 [Jensen et al. (2021)](https://github.com/bkelly-lab/ReplicationCrisis) enable analysis by proving a factor portfolio dataset. Both mathematics, and technical implementation of model architecture, are sound.
