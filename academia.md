@@ -10,13 +10,11 @@ Please click any of the graphics to review project material and reports.
 
 ## **Finance (Honours) Dissertation: Direct Hedge Portfolio Excess Return Maximisation using Deep Neural Networks**
 
-My dissertation investigates the feasibility, and economic significance, of using deep neural networks
-to maximise monthly hedge portfolio excess returns using
-The set of assets for analysis is global assets extracted from [CRSP](https://crsp.org) and [Compustat](https://www.spglobal.com/marketintelligence/en/?product=compustat-research-insight) by S&P Global.
-Hedge portfolios form using a long-short zero-cost investment strategies between top and bottom terciles.
-The provision of a factor portfolio dataset by [Jensen et al. (2021)](https://github.com/bkelly-lab/ReplicationCrisis) enables analysis.
-The mathematics, and technical implementation of model architecture, are sound.
-Limitations in the dataset, and accessibility to affordable computing resources, render outcomes inconclusive at this time.
+My dissertation investigates both feasibility, and economic significance, of maximising excess returns from monthly long short equity hedge portfolios using deep neural networks.
+Portfolios are constructed from global assets extracted from [CRSP](https://crsp.org) and [Compustat](https://www.spglobal.com/marketintelligence/en/?product=compustat-research-insight) by S&P Global.
+Long-short zero-cost investment strategies between top and bottom terciles inform hedge portfolios.
+[Jensen et al. (2021)](https://github.com/bkelly-lab/ReplicationCrisis) enable analysis by proving a factor portfolio dataset. Both mathematics, and technical implementation of model architecture, are sound.
+The dataset has limitations and unaffordable computing resources were unavailable at time of analysis. Subsequently, outcomes were inconclusive at the time of analysis.
 
 [![Project Outline](/assets/images/finance-honours.png)]({{ site.url }}/downloads/cmcd398-research-essay.pdf)
 
@@ -27,6 +25,8 @@ Limitations in the dataset, and accessibility to affordable computing resources,
 - [Neptune.ai](https://neptune.ai)
 - [Classes and Modules]({{ site.url }}/downloads/cmcd398-finance-honours-code-listing.pdf)
 - [Code Repository](https://github.com/CMCD1996/finance-honours)
+
+### Dissertation Mathematics
 
 ## **Engineering (Honours) Dissertation: Global Optimisation Carbon Pricing Initiative (GOCPI)- A Scalable Energy Systems Modelling Tool**
 
