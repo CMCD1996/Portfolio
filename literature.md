@@ -7,8 +7,8 @@ Literature lists books read from January 2021 onwards outlining current reading,
 
 ## **Currently Reading**
 
-- [Cutting for Stone by Abraham Verghese (688pg)](https://www.amazon.com.au/Cutting-Stone-Abraham-Verghese/dp/0375714367)
-- [Big Debt Crises by Ray Dalio (456pg)](https://www.amazon.com/Big-Debt-Crises-Ray-Dalio/dp/1732689806)
+1. [Big Debt Crises by Ray Dalio (456pg)](https://www.amazon.com/Big-Debt-Crises-Ray-Dalio/dp/1732689806)
+2. [Cutting for Stone by Abraham Verghese (688pg)](https://www.amazon.com.au/Cutting-Stone-Abraham-Verghese/dp/0375714367)
 
 ## **Favourites**
 
