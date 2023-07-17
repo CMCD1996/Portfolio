@@ -7,9 +7,8 @@ Literature lists books read from January 2021 onwards outlining current reading,
 
 ## **Currently Reading**
 
-1. [Big Debt Crises by Ray Dalio (456pg)](https://www.amazon.com/Big-Debt-Crises-Ray-Dalio/dp/1732689806)
-2. [Freakonomics by Steven D. Levitt and Stephen J. Dubner (336pg)](https://www.amazon.com.au/Freakonomics-Stephen-J-Dubner/dp/0060731338)
-3. [Cutting for Stone by Abraham Verghese (688pg)](https://www.amazon.com.au/Cutting-Stone-Abraham-Verghese/dp/0375714367)
+1. [Cutting for Stone by Abraham Verghese (688pg)](https://www.amazon.com.au/Cutting-Stone-Abraham-Verghese/dp/0375714367)
+2. [Big Debt Crises by Ray Dalio (456pg)](https://www.amazon.com/Big-Debt-Crises-Ray-Dalio/dp/1732689806)
 
 ## **Favourites**
 
@@ -24,14 +23,16 @@ Favourite reads, evolving over time.
 
 ## **Upcoming Reading**
 
+1. [SuperFreakonomics: Global Cooling, Patriotic Prostitutes, and Why Suicide Bombers Should Buy Life Insurance by by Steven D. Levitt and Stephen J. Dubner (320pg)](https://www.amazon.com/SuperFreakonomics-Cooling-Patriotic-Prostitutes-Insurance/dp/0060889586)
+2. [Why Nations Fail: The Origins of Power, Prosperity and Poverty by Daron Acemoglu and James A. Robinson (556pg)](https://www.amazon.com/Why-Nations-Fail-Origins-Prosperity-ebook/dp/B007HLIUN4)
+3. [Chip War: The Fight for the World's Most Critical Technology by Chris Miller (464pg)](https://www.amazon.com.au/Chip-War-Worlds-Critical-Technology/dp/1982172002)
+
 ### **Recommendations from Friends, Family, & Mentors**
 
-1. [Why Nations Fail: The Origins of Power, Prosperity and Poverty by Daron Acemoglu and James A. Robinson (556pg)](https://www.amazon.com/Why-Nations-Fail-Origins-Prosperity-ebook/dp/B007HLIUN4)
-2. [Chip War: The Fight for the World's Most Critical Technology by Chris Miller (464pg)](https://www.amazon.com.au/Chip-War-Worlds-Critical-Technology/dp/1982172002)
-3. [Albert Speer: His Battle with Truth by Gitta Sereny (800pg)](https://www.amazon.com/Albert-Speer-His-Battle-Truth/dp/0679768122)
-4. [Endurance : Shackleton's Incredible Voyage to the Antarctic by Alfred Lansing (288pg)](https://www.amazon.com/Endurance-Shackletons-Incredible-Voyage-Antarctic/dp/029782919X)
-5. [Mastering The Market Cycle: Getting the Odds on Your Side by Howard Marks (316pg)](https://www.amazon.com/Mastering-Market-Cycle-Getting-odds/dp/1473680379)
-6. [Red Notice: A True Story of High Finance, Murder, and One Man's Fight for Justice by Bill Browder (416 pg)](https://www.amazon.com.au/Red-Notice-Finance-Murder-Justice/dp/1476755744)
+1. [Albert Speer: His Battle with Truth by Gitta Sereny (800pg)](https://www.amazon.com/Albert-Speer-His-Battle-Truth/dp/0679768122)
+2. [Endurance : Shackleton's Incredible Voyage to the Antarctic by Alfred Lansing (288pg)](https://www.amazon.com/Endurance-Shackletons-Incredible-Voyage-Antarctic/dp/029782919X)
+3. [Mastering The Market Cycle: Getting the Odds on Your Side by Howard Marks (316pg)](https://www.amazon.com/Mastering-Market-Cycle-Getting-odds/dp/1473680379)
+4. [Red Notice: A True Story of High Finance, Murder, and One Man's Fight for Justice by Bill Browder (416 pg)](https://www.amazon.com.au/Red-Notice-Finance-Murder-Justice/dp/1476755744)
 
 ### **Discovered from Articles & Websites**
 
@@ -70,6 +71,7 @@ Books read from January 2021 onwards.
 11. [Woke, Inc.: Inside Corporate America's Social Justice Scam (368pg)](https://www.amazon.com/Woke-Inc-Corporate-Americas-Justice/dp/1546090789)
 12. [Billion Dollar Whale: The Man Who Fooled Wall Street, Hollywood, and the World by Tom Wright & Bradley Hope (400pg)](https://www.amazon.com/Billion-Dollar-Whale-Fooled-Hollywood/dp/031643650X)
 13. [The World For Sale: Money, Power, and the Traders Who Barter the Earth's Resources by Javier Blas and Jack Farchy (416pg)](https://www.amazon.com/World-Sale-Javier-Blas/dp/0190078952)
+14. [Freakonomics by Steven D. Levitt and Stephen J. Dubner (336pg)](https://www.amazon.com.au/Freakonomics-Stephen-J-Dubner/dp/0060731338)
 
 ### **Fiction**
 
