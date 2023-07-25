@@ -8,7 +8,7 @@ Literature lists books read from January 2021 onwards outlining current reading,
 ## **Currently Reading**
 
 1. [Cutting for Stone by Abraham Verghese (688pg)](https://www.amazon.com.au/Cutting-Stone-Abraham-Verghese/dp/0375714367)
-2. [Big Debt Crises by Ray Dalio (456pg)](https://www.amazon.com/Big-Debt-Crises-Ray-Dalio/dp/1732689806)
+1. [SuperFreakonomics: Global Cooling, Patriotic Prostitutes, and Why Suicide Bombers Should Buy Life Insurance by by Steven D. Levitt and Stephen J. Dubner (320pg)](https://www.amazon.com/SuperFreakonomics-Cooling-Patriotic-Prostitutes-Insurance/dp/0060889586)
 
 ## **Favourites**
 
@@ -23,9 +23,8 @@ Favourite reads, evolving over time.
 
 ## **Upcoming Reading**
 
-1. [SuperFreakonomics: Global Cooling, Patriotic Prostitutes, and Why Suicide Bombers Should Buy Life Insurance by by Steven D. Levitt and Stephen J. Dubner (320pg)](https://www.amazon.com/SuperFreakonomics-Cooling-Patriotic-Prostitutes-Insurance/dp/0060889586)
-2. [Why Nations Fail: The Origins of Power, Prosperity and Poverty by Daron Acemoglu and James A. Robinson (556pg)](https://www.amazon.com/Why-Nations-Fail-Origins-Prosperity-ebook/dp/B007HLIUN4)
-3. [Chip War: The Fight for the World's Most Critical Technology by Chris Miller (464pg)](https://www.amazon.com.au/Chip-War-Worlds-Critical-Technology/dp/1982172002)
+1. [Why Nations Fail: The Origins of Power, Prosperity and Poverty by Daron Acemoglu and James A. Robinson (556pg)](https://www.amazon.com/Why-Nations-Fail-Origins-Prosperity-ebook/dp/B007HLIUN4)
+2. [Chip War: The Fight for the World's Most Critical Technology by Chris Miller (464pg)](https://www.amazon.com.au/Chip-War-Worlds-Critical-Technology/dp/1982172002)
 
 ### **Recommendations from Friends, Family, & Mentors**
 
@@ -72,6 +71,7 @@ Books read from January 2021 onwards.
 12. [Billion Dollar Whale: The Man Who Fooled Wall Street, Hollywood, and the World by Tom Wright & Bradley Hope (400pg)](https://www.amazon.com/Billion-Dollar-Whale-Fooled-Hollywood/dp/031643650X)
 13. [The World For Sale: Money, Power, and the Traders Who Barter the Earth's Resources by Javier Blas and Jack Farchy (416pg)](https://www.amazon.com/World-Sale-Javier-Blas/dp/0190078952)
 14. [Freakonomics by Steven D. Levitt and Stephen J. Dubner (336pg)](https://www.amazon.com.au/Freakonomics-Stephen-J-Dubner/dp/0060731338)
+15. [Big Debt Crises by Ray Dalio (300 pg)](https://www.amazon.com/Big-Debt-Crises-Ray-Dalio/dp/1732689806)
 
 ### **Fiction**
 
