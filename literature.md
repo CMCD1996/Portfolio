@@ -8,7 +8,6 @@ Literature lists books read from January 2021 onwards outlining current reading,
 ## **Currently Reading**
 
 1. [Cutting for Stone by Abraham Verghese (688pg)](https://www.amazon.com.au/Cutting-Stone-Abraham-Verghese/dp/0375714367)
-2. [SuperFreakonomics: Global Cooling, Patriotic Prostitutes, and Why Suicide Bombers Should Buy Life Insurance by by Steven D. Levitt and Stephen J. Dubner (320pg)](https://www.amazon.com/SuperFreakonomics-Cooling-Patriotic-Prostitutes-Insurance/dp/0060889586)
 
 ## **Favourites**
 
