@@ -4,17 +4,18 @@ title: Academia
 driveId: 1rW4om3FqDZl6quL-0PVW-l-c71CBFPBF/preview
 ---
 
-This page explains some of the projects I completed during my undergraduate degree.
+I completed a range of assignments and research projects during University. This pages explains major projects and access to my assignments.
 
 Please click any of the graphics to review project material and reports.
 
 ## **Finance (Honours) Dissertation: Direct Hedge Portfolio Excess Return Maximisation using Deep Neural Networks**
 
-My dissertation explores feasibility and economic significance of maximising excess returns of monthly long short equity hedge portfolios using deep neural networks and a range of financial-related objective functions.
-Portfolios are constructed from global assets extracted from [CRSP](https://crsp.org) and [Compustat](https://www.spglobal.com/marketintelligence/en/?product=compustat-research-insight) by S&P Global.
-Long-short zero-cost investment strategies between top and bottom terciles inform hedge portfolios.
-[Jensen et al. (2021)](https://github.com/bkelly-lab/ReplicationCrisis) enable analysis by proving a factor portfolio dataset. Both mathematics, and technical implementation of model architecture, are sound.
-Dataset limitations and lack of computing resources render outcomes inclusive at times of analysis.
+I explored variations in the optimisation functions used maximise excess returns of long-short hedge portfolio trading strategies. The purpose was investigate if objective functions considering both risk and return characteristics would outperform standard methods. Traditional optimisation methods seek to minimise the difference between realised observations & outcomes predicted by a model.
+
+[Jensen et al. (2021)](https://github.com/bkelly-lab/ReplicationCrisis) published a factor portfolio dataset sorted into terciles from [CRSP](https://crsp.org) and [Compustat](https://www.spglobal.com/marketintelligence/en/?product=compustat-research-insight) by S&P Global databases. I leverage this dataset, forming Long-short portfolios between the top and bottom terciles assuming a zero-cost investment strategy.
+
+Both the mathematical formulation and computational implementation of model architecture, are sound.
+However, data limitations and lack of computing resources rendered outcomes inclusive at the time of analysis.
 
 [![Project Outline](/assets/images/finance-honours.png)]({{ site.url }}/downloads/cmcd398-research-essay.pdf)
 

@@ -3,7 +3,7 @@ layout: default
 title: Literature
 ---
 
-Literature lists books read from January 2021 onwards outlining current reading, favourites, and completed loosely organised by genre. Books read again are not relisted but accounted for in reading statistics and KPIs.
+I outline what I am current reading, my favourite books, and books completed from January 2021 onwards. A set of statistics and KPIs summarise my reading with books categorized by genre. Books re-read are not relisted but included in reading statistics.
 
 ## **Currently Reading**
 
