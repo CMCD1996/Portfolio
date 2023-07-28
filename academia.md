@@ -10,24 +10,41 @@ Please click any of the graphics to review project material and reports.
 
 ## **Finance (Honours) Dissertation: Direct Hedge Portfolio Excess Return Maximisation using Deep Neural Networks**
 
-I investigated the statistical and economic significance of reconfiguring neural networks in maximising excess returns of one month lead long-short hedge portfolio trading strategies and outperform standard methods.
+[![Project Outline](/assets/images/finance-honours.png)]({{ site.url }}/downloads/cmcd398-research-essay.pdf)
 
-Traditional models minimise a loss function in aims to reduce the difference between realised observations & predicted outcomes. Portfolio managers seek to maximise excess returns from trading strategies while managing risk. Therefore, I explore if neural networks can be configured to maximise a multi-objective loss functions considering both return and risk.
+Traditional data science models minimise a loss function calculating the difference between realised observations & predicted outcomes. Portfolio managers seek to maximise excess returns from trading strategies while diversifying idiosyncratic risk. One trading strategy portfolio managers deploy is trading long-short hedge portfolios.
+
+I reconfigured a neural network to use a hedge portfolio loss function to maximise excess returns of one month lead long-short hedge portfolios.
+
+Analysis tested the reconfigured model's ability to generate statistically and economically significant results, outperforming standard configurations while aligning with a portfolio manager's main objectives.
 
 ### Data
 
-[Jensen et al. (2021)](https://github.com/bkelly-lab/ReplicationCrisis) published a factor portfolio dataset sorted into terciles from [CRSP](https://crsp.org) and [Compustat](https://www.spglobal.com/marketintelligence/en/?product=compustat-research-insight) by S&P Global databases. I leverage this dataset, forming Long-short portfolios between the top and bottom terciles assuming zero-cost investment strategies.
+[Jensen et al. (2021)](https://github.com/bkelly-lab/ReplicationCrisis) published a global factor dataset using [CRSP](https://crsp.org) and [Compustat](https://www.spglobal.com/marketintelligence/en/?product=compustat-research-insight) by S&P Global. The dataset is comprised of individual firm-year observations across countries with a 1-month holding period factor for each characteristic. ON a high level:
 
-### Loss Functions
+1. For each country and month, stocks are sorted into terciles for each characteristic.
+2. Factors are defined by high-tercile returns minus low-tercile returns to align with a zero cost investment strategy. Each factors alpha calculated by an OLS regression on a constant and region's market return.
+3. Factors are clustered by signing factors and equally weighting returns of a factors within a specific cluster.
+
+Effectively, each factor is the contribution the characteristic would make to excess returns to a portfolio if included in a long-short zero net investment strategy.
+I leverage this dataset, forming Long-short portfolios between the top and bottom terciles assuming zero-cost investment strategies.
 
 ### Model Architecture
+
+### Loss Function
+
+The main loss function is a non-convex function seeking to maximise hedge portfolio returns with weights mapping using a monotinically non-increasing ranking function.
+
+A total of three loss functions:
+
+1. Tensorflow's inbuilt mean square error loss function.
+2. A custom mean square error loss function to validate tensorflow's automatic
+3.
 
 ### Outcomes
 
 Both the mathematical formulation and computational implementation of model architecture, are sound.
 However, data limitations and lack of computing resources rendered outcomes inclusive at the time of analysis.
-
-[![Project Outline](/assets/images/finance-honours.png)]({{ site.url }}/downloads/cmcd398-research-essay.pdf)
 
 ### Resources
 
@@ -37,7 +54,7 @@ However, data limitations and lack of computing resources rendered outcomes incl
 - [Classes and Modules]({{ site.url }}/downloads/cmcd398-finance-honours-code-listing.pdf)
 - [Code Repository](https://github.com/CMCD1996/finance-honours)
 
-### Dissertation Mathematics
+### Mathematics
 
 ## **Engineering (Honours) Dissertation: Global Optimisation Carbon Pricing Initiative (GOCPI)- A Scalable Energy Systems Modelling Tool**
 
