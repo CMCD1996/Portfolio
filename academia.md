@@ -10,16 +10,26 @@ Please click any of the graphics to review project material and reports.
 
 ## **Finance (Honours) Dissertation: Direct Hedge Portfolio Excess Return Maximisation using Deep Neural Networks**
 
-I explored variations in the optimisation functions used maximise excess returns of long-short hedge portfolio trading strategies. The purpose was investigate if objective functions considering both risk and return characteristics would outperform standard methods. Traditional optimisation methods seek to minimise the difference between realised observations & outcomes predicted by a model.
+I investigated the statistical and economic significance of reconfiguring neural networks in maximising excess returns of one month lead long-short hedge portfolio trading strategies and outperform standard methods.
 
-[Jensen et al. (2021)](https://github.com/bkelly-lab/ReplicationCrisis) published a factor portfolio dataset sorted into terciles from [CRSP](https://crsp.org) and [Compustat](https://www.spglobal.com/marketintelligence/en/?product=compustat-research-insight) by S&P Global databases. I leverage this dataset, forming Long-short portfolios between the top and bottom terciles assuming a zero-cost investment strategy.
+Traditional models minimise a loss function in aims to reduce the difference between realised observations & predicted outcomes. Portfolio managers seek to maximise excess returns from trading strategies while managing risk. Therefore, I explore if neural networks can be configured to maximise a multi-objective loss functions considering both return and risk.
+
+### Data
+
+[Jensen et al. (2021)](https://github.com/bkelly-lab/ReplicationCrisis) published a factor portfolio dataset sorted into terciles from [CRSP](https://crsp.org) and [Compustat](https://www.spglobal.com/marketintelligence/en/?product=compustat-research-insight) by S&P Global databases. I leverage this dataset, forming Long-short portfolios between the top and bottom terciles assuming zero-cost investment strategies.
+
+### Loss Functions
+
+### Model Architecture
+
+### Outcomes
 
 Both the mathematical formulation and computational implementation of model architecture, are sound.
 However, data limitations and lack of computing resources rendered outcomes inclusive at the time of analysis.
 
 [![Project Outline](/assets/images/finance-honours.png)]({{ site.url }}/downloads/cmcd398-research-essay.pdf)
 
-### Dissertation Resources
+### Resources
 
 - [Tensorflow](https://www.tensorflow.org/)
 - [Google Cloud Platform](https://cloud.google.com)
