@@ -18,8 +18,8 @@ I reconfigured a neural network to use a hedge portfolio loss function to maximi
 
 Analysis tested the reconfigured model's ability to generate statistically and economically significant results, outperformance from standard configurations, and alignment with a portfolio manager's mandate. Hypothetically,
 
-1. arg max $$f(x) = $$ arg min $$-f(x)$$
-2. A hedge portfolio loss function will not outperform standard minimisation functions.
+1. **arg max $$f(x) = $$ arg min $$-f(x)$$**
+2. A hedge portfolio loss function will not outperform standard minimisation functions given fundamental theory behind prediction.
 
 ### **Data**
 
@@ -33,8 +33,7 @@ Effectively, each factor is the contribution the characteristic would make to ex
 
 ### **Model Architecture**
 
-|![](assets/images/academia/nn-configuration.png)|
-An input, ouput, and multiple hidden layers contribute to standard deep neutral network topography. I configured a deep neutral network with an input layer, output layer, three dense hidden layers, & one dropout hidden layer to mitigate overfitting.|
+An input, ouput, and multiple hidden layers contribute to standard deep neutral network topography. I configured a deep neutral network with an input layer, output layer, three dense hidden layers, & one dropout hidden layer to mitigate overfitting.
 
 ### **Loss Function**
 
