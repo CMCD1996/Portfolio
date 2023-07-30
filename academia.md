@@ -14,24 +14,22 @@ Please click any of the graphics to review project material and reports.
 
 ### **Theory & Hypotheses**
 
-Data science models tend to minimise a loss function calculating the difference between realised observations & predicted outcomes. Portfolio managers seek to use trading strategies to maximise excess returns while diversifying idiosyncratic risk. A long-short hedge portfolio is one of these strategies.
+AI models optimise a loss function by iteratively fine tuning model parameters to minimise the difference between actual observations & predicted outcomes. Portfolio managers seek to maximise excess returns while diversifying idiosyncratic risk by using trading strategies e.g., Trading long-short equity hedge portfolios.
 
-I reconfigured a neural network to use a hedge portfolio loss function to maximise excess returns of one month lead long-short hedge portfolios.
+I reconfigured a neural network to directly use a hedge portfolio loss function to maximise excess returns of one month lead long-short hedge portfolios.
 
-Analysis tested the reconfigured model's ability to generate statistically and economically significant results, outperformance from standard configurations, and alignment with a portfolio manager's mandate. Hypothetically,
+Analysis tested the reconfigured model's ability to generate statistically and economically significant results, outperform standard configurations, and align with a portfolio manager's mandate. Hypothetically,
 
-1. It is possible to reconfigure a neural network from maximisation problems given argmax f(x) = argmin -f(x).
+1. It is possible to reconfigure a neural network from maximisation problems given: Argmax $$f(x)$$ = Argmin $$-f(x)$$.
 2. A hedge portfolio loss function will not outperform standard minimisation functions given the fundamental theory behind these models.
 
 ### **Data**
 
-I use a dataset published by [Jensen et al. (2021)](https://github.com/bkelly-lab/ReplicationCrisis) published a global factor dataset using [CRSP](https://crsp.org) and [Compustat](https://www.spglobal.com/marketintelligence/en/?product=compustat-research-insight) by S&P Global. The dataset is comprised of individual firm-year observations across countries with a 1-month holding period factor for each characteristic. Factors calculated as follows:
+I used a global factor dataset published by [Jensen et al. (2021)](https://github.com/bkelly-lab/ReplicationCrisis) using [CRSP](https://crsp.org) and [Compustat](https://www.spglobal.com/marketintelligence/en/?product=compustat-research-insight) by S&P Global. The dataset includes individual firm-year observations across countries with a 1-month holding period factor for each characteristic e.g., book-to-market ratio. A factor represents a characteristic's contribution to a portfolio's excess returns to if included in a long-short zero net investment strategy calculated by:
 
-1. For each country and month, stocks are sorted into terciles for each characteristic.
-2. Factors are defined by high-tercile returns minus low-tercile returns to align with a zero cost investment strategy. Each factors' alpha is calculated using an Ordinary least squares (OLS) regression on a constant and region's market return.
-3. Factors are clustered by signing factors and equally weighting returns of a factors within a specific cluster.
-
-Effectively, each factor is the contribution the characteristic would make to excess returns to a portfolio if included in a long-short zero net investment strategy.
+1. Sorting stocks into terciles for each characteristic for each country and month;
+2. Defining factors by high-tercile returns minus low-tercile returns to align with a zero cost investment strategy, calculating each factors' alpha using an Ordinary least squares (OLS) regression on a constant and region's market return;
+3. Clustering factors by signing factors and equally weighting returns of a factors within a specific cluster.
 
 ### **Model Architecture**
 
