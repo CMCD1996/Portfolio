@@ -44,6 +44,8 @@ config=TeX-AMS-MML_HTMLorMML"></script>
 
 <p><a href="http://localhost:4000/downloads/cmcd398-research-essay.pdf"><img src="/assets/images/finance-honours.png" alt="Project Outline" /></a></p>
 
+<h3 id="theory--hypotheses"><strong>Theory &amp; Hypotheses</strong></h3>
+
 <p>Data science models tend to minimise a loss function calculating the difference between realised observations &amp; predicted outcomes. Portfolio managers seek to use trading strategies to maximise excess returns while diversifying idiosyncratic risk. A long-short hedge portfolio is one of these strategies.</p>
 
 <p>I reconfigured a neural network to use a hedge portfolio loss function to maximise excess returns of one month lead long-short hedge portfolios.</p>
@@ -51,8 +53,8 @@ config=TeX-AMS-MML_HTMLorMML"></script>
 <p>Analysis tested the reconfigured model’s ability to generate statistically and economically significant results, outperformance from standard configurations, and alignment with a portfolio manager’s mandate. Hypothetically,</p>
 
 <ol>
-  <li>It is possible to reconfigure a neural network to maximise given argmax f(x) = argmin -f(x).</li>
-  <li>A hedge portfolio loss function will not outperform standard minimisation functions given fundamental theory behind prediction.</li>
+  <li>It is possible to reconfigure a neural network from maximisation problems given argmax f(x) = argmin -f(x).</li>
+  <li>A hedge portfolio loss function will not outperform standard minimisation functions given the fundamental theory behind these models.</li>
 </ol>
 
 <h3 id="data"><strong>Data</strong></h3>
@@ -69,11 +71,13 @@ config=TeX-AMS-MML_HTMLorMML"></script>
 
 <h3 id="model-architecture"><strong>Model Architecture</strong></h3>
 
+<p>An input, ouput, and multiple hidden layers contribute to standard deep neutral network topography (left). I configured a deep neutral network with an input layer, output layer, three dense hidden layers, &amp; one dropout hidden layer to mitigate overfitting (right) using Google’s open-source machine learning platform <a href="https://www.tensorflow.org/">Tensorflow</a>.</p>
+
 <table>
   <tbody>
     <tr>
+      <td><img src="/assets/images/academia/neural-network.png" alt="" /></td>
       <td><img src="/assets/images/academia/nn-configuration.png" alt="" /></td>
-      <td>An input, ouput, and multiple hidden layers contribute to standard deep neutral network topography. I configured a deep neutral network with an input layer, output layer, three dense hidden layers, &amp; one dropout hidden layer to mitigate overfitting.</td>
     </tr>
   </tbody>
 </table>

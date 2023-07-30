@@ -12,14 +12,16 @@ Please click any of the graphics to review project material and reports.
 
 [![Project Outline](/assets/images/finance-honours.png)]({{ site.url }}/downloads/cmcd398-research-essay.pdf)
 
+### **Theory & Hypotheses**
+
 Data science models tend to minimise a loss function calculating the difference between realised observations & predicted outcomes. Portfolio managers seek to use trading strategies to maximise excess returns while diversifying idiosyncratic risk. A long-short hedge portfolio is one of these strategies.
 
 I reconfigured a neural network to use a hedge portfolio loss function to maximise excess returns of one month lead long-short hedge portfolios.
 
 Analysis tested the reconfigured model's ability to generate statistically and economically significant results, outperformance from standard configurations, and alignment with a portfolio manager's mandate. Hypothetically,
 
-1. It is possible to reconfigure a neural network to maximise given argmax f(x) = argmin -f(x).
-2. A hedge portfolio loss function will not outperform standard minimisation functions given fundamental theory behind prediction.
+1. It is possible to reconfigure a neural network from maximisation problems given argmax f(x) = argmin -f(x).
+2. A hedge portfolio loss function will not outperform standard minimisation functions given the fundamental theory behind these models.
 
 ### **Data**
 
@@ -33,8 +35,9 @@ Effectively, each factor is the contribution the characteristic would make to ex
 
 ### **Model Architecture**
 
-An input, ouput, and multiple hidden layers contribute to standard deep neutral network topography. I configured a deep neutral network with an input layer, output layer, three dense hidden layers, & one dropout hidden layer to mitigate overfitting.
-|![](assets/images/academia/neural-network.png)|![](assets/images/academia/nn-configuration.png)|
+An input, ouput, and multiple hidden layers contribute to standard deep neutral network topography (left). I configured a deep neutral network with an input layer, output layer, three dense hidden layers, & one dropout hidden layer to mitigate overfitting (right) using Google's open-source machine learning platform [Tensorflow](https://www.tensorflow.org/).
+
+| ![](assets/images/academia/neural-network.png) | ![](assets/images/academia/nn-configuration.png) |
 
 ### **Loss Function**
 
