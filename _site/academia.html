@@ -1,0 +1,317 @@
+<!DOCTYPE html>
+<script type="text/javascript" async 
+src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?
+config=TeX-AMS-MML_HTMLorMML"></script>
+<html lang="en"><head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1"><!-- Begin Jekyll SEO tag v2.6.1 -->
+<title>Academia | Connor McDowall</title>
+<meta name="generator" content="Jekyll v3.9.0" />
+<meta property="og:title" content="Academia" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Portfolio" />
+<meta property="og:description" content="Portfolio" />
+<link rel="canonical" href="http://localhost:4000/academia.html" />
+<meta property="og:url" content="http://localhost:4000/academia.html" />
+<meta property="og:site_name" content="Connor McDowall" />
+<script type="application/ld+json">
+{"url":"http://localhost:4000/academia.html","description":"Portfolio","@type":"WebPage","headline":"Academia","@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+<link rel="stylesheet" href="/assets/main.css"><link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="Connor McDowall" /></head>
+<body><header class="site-header" role="banner">
+
+  <div class="wrapper"><a class="site-title" rel="author" href="/">Connor McDowall</a><nav class="site-nav">
+        <input type="checkbox" id="nav-trigger" class="nav-trigger" />
+        <label for="nav-trigger">
+          <span class="menu-icon">
+            <svg viewBox="0 0 18 15" width="18px" height="15px">
+              <path d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.032C17.335,0,18,0.665,18,1.484L18,1.484z M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.032C17.335,6.031,18,6.696,18,7.516L18,7.516z M18,13.516C18,14.335,17.335,15,16.516,15H1.484 C0.665,15,0,14.335,0,13.516l0,0c0-0.82,0.665-1.483,1.484-1.483h15.032C17.335,12.031,18,12.695,18,13.516L18,13.516z"/>
+            </svg>
+          </span>
+        </label>
+
+        <div class="trigger"><a class="page-link" href="/academia.html">Academia</a><a class="page-link" href="/community.html">Community</a><a class="page-link" href="/fitness.html">Fitness</a><a class="page-link" href="/gallery.html">Gallery</a><a class="page-link" href="/literature.html">Literature</a><a class="page-link" href="/projects.html">Projects</a><a class="page-link" href="/resume.html">CV</a></div>
+      </nav></div>
+</header>
+<main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        <p>I completed a range of assignments and research projects during University. This pages explains major projects and access to my assignments.</p>
+
+<p>Please click any of the graphics to review project material and reports.</p>
+
+<h2 id="finance-honours-direct-hedge-portfolio-excess-return-maximisation-using-deep-neural-networks"><strong>Finance (Honours): Direct Hedge Portfolio Excess Return Maximisation using Deep Neural Networks</strong></h2>
+
+<p><a href="http://localhost:4000/downloads/cmcd398-research-essay.pdf"><img src="/assets/images/finance-honours.png" alt="Project Outline" /></a></p>
+
+<p>Data science models tend to minimise a loss function calculating the difference between realised observations &amp; predicted outcomes. Portfolio managers seek to use trading strategies to maximise excess returns while diversifying idiosyncratic risk. A long-short hedge portfolio is one of these strategies.</p>
+
+<p>I reconfigured a neural network to use a hedge portfolio loss function to maximise excess returns of one month lead long-short hedge portfolios.</p>
+
+<p>Analysis tested the reconfigured model’s ability to generate statistically and economically significant results, outperformance from standard configurations, and alignment with a portfolio manager’s mandate. Hypothetically,</p>
+
+<ol>
+  <li><strong>arg max f(x) = arg min -f(x)</strong></li>
+  <li>A hedge portfolio loss function will not outperform standard minimisation functions given fundamental theory behind prediction.</li>
+</ol>
+
+<h3 id="data"><strong>Data</strong></h3>
+
+<p>I use a dataset published by <a href="https://github.com/bkelly-lab/ReplicationCrisis">Jensen et al. (2021)</a> published a global factor dataset using <a href="https://crsp.org">CRSP</a> and <a href="https://www.spglobal.com/marketintelligence/en/?product=compustat-research-insight">Compustat</a> by S&amp;P Global. The dataset is comprised of individual firm-year observations across countries with a 1-month holding period factor for each characteristic. Factors calculated as follows:</p>
+
+<ol>
+  <li>For each country and month, stocks are sorted into terciles for each characteristic.</li>
+  <li>Factors are defined by high-tercile returns minus low-tercile returns to align with a zero cost investment strategy. Each factors’ alpha is calculated using an Ordinary least squares (OLS) regression on a constant and region’s market return.</li>
+  <li>Factors are clustered by signing factors and equally weighting returns of a factors within a specific cluster.</li>
+</ol>
+
+<p>Effectively, each factor is the contribution the characteristic would make to excess returns to a portfolio if included in a long-short zero net investment strategy.</p>
+
+<h3 id="model-architecture"><strong>Model Architecture</strong></h3>
+
+<p>An input, ouput, and multiple hidden layers contribute to standard deep neutral network topography. I configured a deep neutral network with an input layer, output layer, three dense hidden layers, &amp; one dropout hidden layer to mitigate overfitting.</p>
+
+<h3 id="loss-function"><strong>Loss Function</strong></h3>
+
+<p>The main loss function is a non-convex function seeking to maximise hedge portfolio returns with weights mapping using a monotinically non-increasing ranking function.</p>
+
+<p>Tensorflow’s inbuilt mean square error loss function and a custom mean square error loss function to validate tensorflow’s automatic differientiation capabilities.</p>
+
+<h3 id="outcomes"><strong>Outcomes</strong></h3>
+
+<p>Both the mathematical formulation and computational implementation of model architecture, are sound.
+However, data limitations and lack of computing resources rendered outcomes inclusive at the time of analysis.</p>
+
+<h3 id="resources"><strong>Resources</strong></h3>
+
+<ul>
+  <li><a href="https://www.tensorflow.org/">Tensorflow</a></li>
+  <li><a href="https://cloud.google.com">Google Cloud Platform</a></li>
+  <li><a href="https://neptune.ai">Neptune.ai</a></li>
+  <li><a href="http://localhost:4000/downloads/cmcd398-finance-honours-code-listing.pdf">Classes and Modules</a></li>
+  <li><a href="https://github.com/CMCD1996/finance-honours">Code Repository</a></li>
+</ul>
+
+<h2 id="engineering-honours-dissertation-global-optimisation-carbon-pricing-initiative-gocpi--a-scalable-energy-systems-modelling-tool"><strong>Engineering (Honours) Dissertation: Global Optimisation Carbon Pricing Initiative (GOCPI)- A Scalable Energy Systems Modelling Tool</strong></h2>
+
+<p>My research project explored developing an open-source energy modelling tool for users to design their own energy systems. The model intends to inform policy and investment in sustainable technology. The model is built using Python, Excel, GNU Mathprog and IBM Watson Machine Learning services.</p>
+
+<p><a href="http://localhost:4000/downloads/gocpi.pdf"><img src="/assets/images/engineering-honours.png" alt="Project Outline" /></a></p>
+
+<h3 id="gocpi-information-references-and-required-software">GOCPI Information, References and Required Software</h3>
+
+<ul>
+  <li><a href="http://www.osemosys.org/">OseMOSYS</a></li>
+  <li><a href="https://iea-etsap.org/index.php/etsap-tools/model-generators/times">TIMES (Reference)</a></li>
+  <li><a href="https://www.ibm.com/academic/home">IBM Academic Initiative</a></li>
+  <li><a href="https://www.ibm.com/analytics/cplex-optimizer">IBM ILOG CPLEX Optimizer</a></li>
+  <li><a href="https://www.ibm.com/cloud">IBM Cloud</a></li>
+  <li><a href="https://www.ibm.com/cloud/machine-learning">IBM Watson Machine Learning</a></li>
+  <li><a href="https://www.gnu.org/software/glpk/">GNU Linear Programming Kit</a></li>
+  <li><a href="https://github.com/CMCD1996/GOCPI">GOCPI GitHub Repository</a></li>
+  <li><a href="https://github.com/OSeMOSYS/OSeMOSYS">OseMOSY GitHub Repository</a></li>
+</ul>
+
+<h2 id="prototype-wind-turbine"><strong>Prototype Wind Turbine</strong></h2>
+
+<p>I lead a four person team tasked to designed, built, and tested a wind turbine to operate at 140 rpm. Blade profile design was simulated using MATLAB and Xfoil to optimise profile aerodynamics. Optimal profiles were modelled in Dassault Systemes Solidworks and laser cut from sheets of Perspex.</p>
+
+<p>Blade profile aerodynamics were optimised through the maximisation of the power coefficient (\(C_p = \frac{P_E}{P_T}\)) The equations related to blade profile design are displayed below.</p>
+
+<p>Equations:</p>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: center">Variable</th>
+      <th style="text-align: center">Equation</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center">Rotor Radius</td>
+      <td style="text-align: center">\(R=\sqrt{\frac{2P_s}{C_p \eta \rho \pi V_{u}^{3}}}\)</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">Tip Speed Ratio</td>
+      <td style="text-align: center">\(\lambda_r = \frac{\Omega_r}{V_u}\)</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">Local Wind Angle</td>
+      <td style="text-align: center">\(\Phi = \frac{2}{3}tan^{-1}(\frac{1}{\lambda_r})\)</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">Chord Length with Wake Rotation</td>
+      <td style="text-align: center">\(c = \frac{8 \pi r}{B C_L}(1 - \Phi)\)</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">Blade Setting Angle</td>
+      <td style="text-align: center">\(\beta = \frac{180}{\pi}(cos (\Phi) - \alpha)\)</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">Normal Co-efficient</td>
+      <td style="text-align: center">\(C_n = C_L cos(\Phi) + C_D sin(\Phi)\)</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">Tangential Co-efficient</td>
+      <td style="text-align: center">\(C_t = C_L sin(\Phi) - C_D cos(\Phi)\)</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">Factor</td>
+      <td style="text-align: center">\(F = \frac{2}{\pi}cos^{-1}(e^{-f}) \text{ where } f = \frac{B(R-r)}{2rsin{\Phi}}\)</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">Blade Solidarity</td>
+      <td style="text-align: center">\(\sigma^{'} = \frac{Bc}{2 \pi r}\)</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">Axial Induction Factor</td>
+      <td style="text-align: center">\(a = \frac{\sigma^{'} C_n}{4Fsin^{2}(\Phi)+\sigma^{'}C_n}\)</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">Tangential Load</td>
+      <td style="text-align: center">\(\frac{1}{2}\rho \frac{V_{u}^{2}}{sin^{2}(\Phi)}\)</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">Incremental Torque</td>
+      <td style="text-align: center">\(\Delta Q_{i,i+1} = \int_{r_{i + 1}}^{r_{i}}P_Trdr\)</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">Extracted Power</td>
+      <td style="text-align: center">\(P_E = Q \Sigma\)</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">Power Available</td>
+      <td style="text-align: center">\(\frac{1}{2}\rho \pi R^2 V_{u}^{3}\)</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">Power Co-efficient</td>
+      <td style="text-align: center">\(C_P = \frac{P_E}{P_T}\)</td>
+    </tr>
+  </tbody>
+</table>
+
+<p><a href="http://localhost:4000/downloads/turbine.pdf"><img src="/assets/images/wind-turbine.png" alt="Wind Turbine Project" /></a></p>
+
+<h2 id="transhipment-project"><strong>Transhipment Project</strong></h2>
+
+<p>I led a team of three in designing and building a series of models to inform transhipment operations. This project is modelled either using optimisation, conceptual and simulation models. The optimisation model is a linear optimisation model, written in AMPL, to model fruit produce flows from producers to packhouses to markets. The model minimises packaging and transportation costs across 10 different demand forecasts. The conceptual and simulation models are alternatives to this optimisation model. The objective function driving the optimisation model follows.</p>
+
+<p>\(\text{Min }\sum*{i} \sum*{j} \sum*{p} \text{Cost}*{ij} \times \text{Flow}_{ijp}\)
+\(+ \sum_{m} \sum*{h} \text{numperiods} \times \text{packcost}*{m} \times \text{built}\_{mh}\)</p>
+
+<p><a href="http://localhost:4000/downloads/tranship.pdf"><img src="/assets/images/transhipment.png" alt="Transhipment Project" /></a></p>
+
+<h2 id="chulalongkorn-international-business-case-competition-2019"><strong>Chulalongkorn International Business Case Competition (2019)</strong></h2>
+
+<p>I represented the University of Auckland Case Programme, competing against 20 teams worldwide to develop and present strategies for Line Mobile and Sea Thailand at the Chulalongkorn International Business Case Competition (CIBCC) in Koh Samui, Thailand. Our team presented our analysis on Sea Limited, placing 3rd in the competition.</p>
+
+<p><a href="http://localhost:4000/downloads/cibcc.pdf"><img src="/assets/images/cibcc.png" alt="CIBCC Competition" /></a></p>
+
+<h2 id="programming"><strong>Programming</strong></h2>
+
+<p>I completed several assignments to improve coding skills in Python, C++, MatLab, SQL, VBA, AMPL and Git.
+These assignments covered Eigen problems, Finite Differences, Non Linear Equations, Ordinary Differential Equations, Partial Differential Equations (PDE’s) and Databases. The following examples include some of</p>
+
+<p>Application of finite difference approximations to track heat flow. This behaviour is modelled using the following PDE:</p>
+
+\[\frac{\partial^{2}u }{\partial x^{2} } + \frac{\partial^{2}u }{\partial y^{2} } - \alpha \frac{\partial u }{\partial t } = 0\]
+
+<p>Python function to run the IBM ILOG CPLEX Optimisation locally:</p>
+
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code>    <span class="k">def</span> <span class="nf">run_cplex_local</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="n">model_file</span><span class="p">):</span>
+        <span class="s">""" This function runs cplex on the local device if the energy system
+            is of a small enough complexity
+        """</span>
+        <span class="c1"># Creates the model structure
+</span>        <span class="n">model</span> <span class="o">=</span> <span class="n">cp</span><span class="p">.</span><span class="n">Cplex</span><span class="p">()</span>
+        <span class="c1"># Produces the results stream and log streams
+</span>        <span class="n">output</span> <span class="o">=</span> <span class="n">model</span><span class="p">.</span><span class="n">set_results_stream</span><span class="p">(</span><span class="bp">None</span><span class="p">)</span>
+        <span class="n">output</span> <span class="o">=</span> <span class="n">model</span><span class="p">.</span><span class="n">set_log_stream</span><span class="p">(</span><span class="bp">None</span><span class="p">)</span>
+        <span class="c1"># Write the energy system model to Cplex
+</span>        <span class="n">model</span><span class="p">.</span><span class="n">read</span><span class="p">(</span><span class="n">model_file</span><span class="p">)</span>
+        <span class="c1"># Solve the model using the version of Cplex installed on the local
+</span>        <span class="c1"># device (IBM ILOG CPLEX Optimisation Studio)
+</span>        <span class="n">model</span><span class="p">.</span><span class="n">solve</span><span class="p">()</span>
+        <span class="c1"># Return the value of the objective function
+</span>        <span class="n">objective_value</span> <span class="o">=</span> <span class="n">model</span><span class="p">.</span><span class="n">solution</span><span class="p">.</span><span class="n">get_objective_value</span><span class="p">()</span>
+        <span class="k">return</span> <span class="n">objective_value</span>
+</code></pre></div></div>
+
+<p><a href="http://localhost:4000/downloads/code.pdf"><img src="/assets/images/programming.png" alt="Programming Assignments" /></a></p>
+
+<h2 id="design"><strong>Design</strong></h2>
+
+<p>I completed several design projects. One was to design, model and render a household item in PTC Creo. I chose a Gillette fusion proglide razor. The second was an interface (team of five) to create user-defined catapult designs and three dimensional Solidworks models from user designs (Individually). The user interface includes animations programmed in VBA and API’s to manipulate the 3D model.</p>
+
+<p><a href="http://localhost:4000/downloads/design.pdf"><img src="/assets/images/design.png" alt="Design Project" /></a></p>
+
+<h2 id="optimisation"><strong>Optimisation</strong></h2>
+
+<p>I completed several assignments to develop skills to solve optimisation skills. I covered dynamic programming, heuristics, decision making under uncertainty and set partitioning. Some examples follow.</p>
+
+<p>The use of dynamic programming to evaluate whether to reject an applicant or hire the applicant and stop interviewing:</p>
+
+\[\hat{V}_{N} = \int_{0}^{\hat{V}_{N+1}} \hat{V}_{N+1} f(r)dr + \int_{\hat{V}_{N+1}}^{\infty} rf(r)dr\]
+
+<p>The calculation of expected profit from a manufacturing process. Mean hitting times are calculated by considering the probability the product will reach a different state from another state on another process iteration. One transition probability matrix and five separate states were considered (unfinished, poor, good, scrap and average):</p>
+
+\[M_{ij} = 1 + \sum_{k=1}^{n} P_{ik} \times M_{kj} \text{ where } i \neq j\]
+
+<p><a href="http://localhost:4000/downloads/optimisation.pdf"><img src="/assets/images/optimisation.png" alt="Optimisation Assignments" /></a></p>
+
+<h2 id="corporate-governance"><strong>Corporate Governance</strong></h2>
+
+<p>I completed several assignments addressing corporate governance-related theories and applications.</p>
+
+<p><a href="http://localhost:4000/downloads/cmcd398-corporate-governance.pdf"><img src="/assets/images/academia/corporate-governance.png" alt="Corporate Governance" /></a></p>
+
+<h2 id="literature-review--proposals"><strong>Literature Review &amp; Proposals</strong></h2>
+
+<p>My literature review informs the subsequent research proposal, grounded in prior research, exploring applications of data science to private equity.
+The intention is to inform investment due diligence.
+However, the required time to implement the proposal exceeds the time allocated to the BCOM(Honours) research essay given the proposal’s complexity.</p>
+
+<p><a href="http://localhost:4000/downloads/cmcd398-lit-review-research-proposal.pdf"><img src="/assets/images/lit-review.png" alt="Literature Reviews &amp; Proposals" /></a></p>
+
+<h2 id="machine-learning--corporate-culture"><strong>Machine Learning &amp; Corporate Culture</strong></h2>
+
+<p>I implemented Stanford’s Core Natural Language Processing Algorithm to ascertain measures for corporate culture across NZX/ASX listed companies.
+This assignment replicates the methodology implemented by Li et al. (2021), accessible on <a href="https://github.com/MS20190155/Measuring-Corporate-Culture-Using-Machine-Learning">Github</a>.</p>
+
+<p><a href="http://localhost:4000/downloads/cmcd398-ml-corporate-culture.pdf"><img src="/assets/images/ML-CC.png" alt="Machine Learning &amp; Corporate Culture" /></a></p>
+
+<h2 id="technical-analysis"><strong>Technical Analysis</strong></h2>
+
+<p>I conducted various forms of technical analysis to inform empirical assignments. Methods include Fama-MacBeth regressions, co-integration testing and Bollinger Band trading strategies.</p>
+
+<p><a href="http://localhost:4000/downloads/cmcd398-technical-analysis.pdf"><img src="/assets/images/academia/technical-analysis.png" alt="Technical Analysis" /></a></p>
+
+      </div>
+    </main><footer class="site-footer h-card">
+  <data class="u-url" href="/"></data>
+
+  <div class="wrapper">
+
+    <h2 class="footer-heading">Connor McDowall</h2>
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-1">
+        <ul class="contact-list">
+          <li class="p-name">Connor McDowall</li><li><a class="u-email" href="mailto:connormcdowall@gmail.com">connormcdowall@gmail.com</a></li></ul>
+      </div>
+
+      <div class="footer-col footer-col-2"><ul class="social-media-list"><li><a href="https://github.com/CMCD1996"><svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#github"></use></svg> <span class="username">CMCD1996</span></a></li><li><a href="https://www.linkedin.com/in/connormcdowall"><svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#linkedin"></use></svg> <span class="username">connormcdowall</span></a></li></ul>
+</div>
+
+      <div class="footer-col footer-col-3">
+        <p>Portfolio</p>
+      </div>
+    </div>
+
+  </div>
+
+</footer>
+</body>
+
+</html>
