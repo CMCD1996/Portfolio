@@ -18,7 +18,7 @@ I reconfigured a neural network to use a hedge portfolio loss function to maximi
 
 Analysis tested the reconfigured model's ability to generate statistically and economically significant results, outperformance from standard configurations, and alignment with a portfolio manager's mandate. Hypothetically,
 
-1. **arg max $$f(x) = $$ arg min $$-f(x)$$**
+1. **arg max f(x) = arg min -f(x)**
 2. A hedge portfolio loss function will not outperform standard minimisation functions given fundamental theory behind prediction.
 
 ### **Data**
