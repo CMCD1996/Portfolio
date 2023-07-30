@@ -21,7 +21,7 @@ Analysis tested the reconfigured model's ability to generate statistically and e
 1. arg max $$f(x) = $$ arg min $$-f(x)$$
 2. A hedge portfolio loss function will not outperform standard minimisation functions.
 
-### Data
+### **Data**
 
 I use a dataset published by [Jensen et al. (2021)](https://github.com/bkelly-lab/ReplicationCrisis) published a global factor dataset using [CRSP](https://crsp.org) and [Compustat](https://www.spglobal.com/marketintelligence/en/?product=compustat-research-insight) by S&P Global. The dataset is comprised of individual firm-year observations across countries with a 1-month holding period factor for each characteristic. Factors calculated as follows:
 
@@ -31,31 +31,29 @@ I use a dataset published by [Jensen et al. (2021)](https://github.com/bkelly-la
 
 Effectively, each factor is the contribution the characteristic would make to excess returns to a portfolio if included in a long-short zero net investment strategy.
 
-### Model Architecture
+### **Model Architecture**
 
 |![](assets/images/academia/nn-configuration.png)|
 An input, ouput, and multiple hidden layers contribute to standard deep neutral network topography. I configured a deep neutral network with an input layer, output layer, three dense hidden layers, & one dropout hidden layer to mitigate overfitting.|
 
-### Loss Function
+### **Loss Function**
 
 The main loss function is a non-convex function seeking to maximise hedge portfolio returns with weights mapping using a monotinically non-increasing ranking function.
 
 Tensorflow's inbuilt mean square error loss function and a custom mean square error loss function to validate tensorflow's automatic differientiation capabilities.
 
-### Outcomes
+### **Outcomes**
 
 Both the mathematical formulation and computational implementation of model architecture, are sound.
 However, data limitations and lack of computing resources rendered outcomes inclusive at the time of analysis.
 
-### Resources
+### **Resources**
 
 - [Tensorflow](https://www.tensorflow.org/)
 - [Google Cloud Platform](https://cloud.google.com)
 - [Neptune.ai](https://neptune.ai)
 - [Classes and Modules]({{ site.url }}/downloads/cmcd398-finance-honours-code-listing.pdf)
 - [Code Repository](https://github.com/CMCD1996/finance-honours)
-
-### Mathematics
 
 ## **Engineering (Honours) Dissertation: Global Optimisation Carbon Pricing Initiative (GOCPI)- A Scalable Energy Systems Modelling Tool**
 
