@@ -12,22 +12,24 @@ Please click any of the graphics to review project material and reports.
 
 [![Project Outline](/assets/images/finance-honours.png)]({{ site.url }}/downloads/cmcd398-research-essay.pdf)
 
-Traditional data science models minimise a loss function calculating the difference between realised observations & predicted outcomes. Portfolio managers seek to maximise excess returns from trading strategies while diversifying idiosyncratic risk. One trading strategy portfolio managers deploy is trading long-short hedge portfolios.
+Data science models tend to minimise a loss function calculating the difference between realised observations & predicted outcomes. Portfolio managers seek to use trading strategies to maximise excess returns while diversifying idiosyncratic risk. A long-short hedge portfolio is one of these strategies.
 
 I reconfigured a neural network to use a hedge portfolio loss function to maximise excess returns of one month lead long-short hedge portfolios.
 
-Analysis tested the reconfigured model's ability to generate statistically and economically significant results, outperforming standard configurations while aligning with a portfolio manager's main objectives.
+Analysis tested the reconfigured model's ability to generate statistically and economically significant results, outperformance from standard configurations, and alignment with a portfolio manager's mandate. Hypothetically,
+
+1. arg max $$f(x) = $$ arg min $$-f(x)$$
+2. A hedge portfolio loss function will not outperform standard minimisation functions.
 
 ### Data
 
-[Jensen et al. (2021)](https://github.com/bkelly-lab/ReplicationCrisis) published a global factor dataset using [CRSP](https://crsp.org) and [Compustat](https://www.spglobal.com/marketintelligence/en/?product=compustat-research-insight) by S&P Global. The dataset is comprised of individual firm-year observations across countries with a 1-month holding period factor for each characteristic. ON a high level:
+I use a dataset published by [Jensen et al. (2021)](https://github.com/bkelly-lab/ReplicationCrisis) published a global factor dataset using [CRSP](https://crsp.org) and [Compustat](https://www.spglobal.com/marketintelligence/en/?product=compustat-research-insight) by S&P Global. The dataset is comprised of individual firm-year observations across countries with a 1-month holding period factor for each characteristic. Factors calculated as follows:
 
 1. For each country and month, stocks are sorted into terciles for each characteristic.
-2. Factors are defined by high-tercile returns minus low-tercile returns to align with a zero cost investment strategy. Each factors alpha calculated by an OLS regression on a constant and region's market return.
+2. Factors are defined by high-tercile returns minus low-tercile returns to align with a zero cost investment strategy. Each factors' alpha is calculated using an Ordinary least squares (OLS) regression on a constant and region's market return.
 3. Factors are clustered by signing factors and equally weighting returns of a factors within a specific cluster.
 
 Effectively, each factor is the contribution the characteristic would make to excess returns to a portfolio if included in a long-short zero net investment strategy.
-I leverage this dataset, forming Long-short portfolios between the top and bottom terciles assuming zero-cost investment strategies.
 
 ### Model Architecture
 
@@ -37,9 +39,7 @@ The main loss function is a non-convex function seeking to maximise hedge portfo
 
 A total of three loss functions:
 
-1. Tensorflow's inbuilt mean square error loss function.
-2. A custom mean square error loss function to validate tensorflow's automatic
-3.
+Tensorflow's inbuilt mean square error loss function and a custom mean square error loss function to validate tensorflow's automatic differientiation capabilities.
 
 ### Outcomes
 
