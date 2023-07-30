@@ -33,7 +33,7 @@ Effectively, each factor is the contribution the characteristic would make to ex
 
 ### **Model Architecture**
 
-An input, ouput, and multiple hidden layers contribute to standard deep neutral network topography. I configured a deep neutral network with an input layer, output layer, three dense hidden layers, & one dropout hidden layer to mitigate overfitting.
+|![](assets/images/academia/nn-configuration.png)|An input, ouput, and multiple hidden layers contribute to standard deep neutral network topography. I configured a deep neutral network with an input layer, output layer, three dense hidden layers, & one dropout hidden layer to mitigate overfitting.|
 
 ### **Loss Function**
 
