@@ -33,11 +33,12 @@ Effectively, each factor is the contribution the characteristic would make to ex
 
 ### Model Architecture
 
+|![](assets/images/academia/nn-configuration.png)|
+An input, ouput, and multiple hidden layers contribute to standard deep neutral network topography. I configured a deep neutral network with an input layer, output layer, three dense hidden layers, & one dropout hidden layer to mitigate overfitting.|
+
 ### Loss Function
 
 The main loss function is a non-convex function seeking to maximise hedge portfolio returns with weights mapping using a monotinically non-increasing ranking function.
-
-A total of three loss functions:
 
 Tensorflow's inbuilt mean square error loss function and a custom mean square error loss function to validate tensorflow's automatic differientiation capabilities.
 
@@ -58,7 +59,7 @@ However, data limitations and lack of computing resources rendered outcomes incl
 
 ## **Engineering (Honours) Dissertation: Global Optimisation Carbon Pricing Initiative (GOCPI)- A Scalable Energy Systems Modelling Tool**
 
-My research project explored the development of an open-source energy modelling tool for users to design their own energy systems. The model intends to inform policy and investment in sustainable technology. The model is built using Python, Excel, GNU Mathprog and IBM Watson Machine Learning services.
+My research project explored developing an open-source energy modelling tool for users to design their own energy systems. The model intends to inform policy and investment in sustainable technology. The model is built using Python, Excel, GNU Mathprog and IBM Watson Machine Learning services.
 
 [![Project Outline](/assets/images/engineering-honours.png)]({{ site.url }}/downloads/gocpi.pdf)
 
