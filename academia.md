@@ -8,7 +8,7 @@ I completed a range of assignments and research projects during University. This
 
 Please click any of the graphics to review project material and reports.
 
-## **Finance (Honours) Dissertation: Direct Hedge Portfolio Excess Return Maximisation using Deep Neural Networks**
+## **Finance (Honours): Direct Hedge Portfolio Excess Return Maximisation using Deep Neural Networks**
 
 [![Project Outline](/assets/images/finance-honours.png)]({{ site.url }}/downloads/cmcd398-research-essay.pdf)
 
