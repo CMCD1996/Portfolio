@@ -8,24 +8,24 @@ I completed a range of assignments and research projects during University. This
 
 Please click any of the graphics to review project material and reports.
 
-## **Finance (Honours): Direct Hedge Portfolio Excess Return Maximisation using Deep Neural Networks**
+## **Finance (Honours): Maximimisating Long-Short Portfolio Excess Returns using Deep Neural Networks**
 
 [![Project Outline](/assets/images/finance-honours.png)]({{ site.url }}/downloads/cmcd398-research-essay.pdf)
 
 ### **Theory & Hypotheses**
 
-AI models optimise a loss function by iteratively fine tuning model parameters to minimise the difference between actual observations & predicted outcomes. Portfolio managers seek to maximise excess returns while diversifying idiosyncratic risk by using trading strategies e.g., Trading long-short equity hedge portfolios.
+Machine learning models optimise a loss function by iteratively fine tuning model parameters to minimise the difference between actual observations & predicted outcomes. Portfolio managers seek to maximise excess returns while diversifying idiosyncratic risk by using trading strategies e.g., Trading long-short equity hedge portfolios.
 
 I reconfigured a neural network to directly use a hedge portfolio loss function to maximise excess returns of one month lead long-short hedge portfolios.
 
 Analysis tested the reconfigured model's ability to generate statistically and economically significant results, outperform standard configurations, and align with a portfolio manager's mandate. Hypothetically,
 
-1. It is possible to reconfigure a neural network from maximisation problems given: Argmax $$f(x)$$ = Argmin $$-f(x)$$.
+1. It is possible to reconfigure a neural network from maximisation problems given: **Argmax $$f(x)$$ = Argmin $$-f(x)$$**.
 2. A hedge portfolio loss function will not outperform standard minimisation functions given the fundamental theory behind these models.
 
 ### **Data**
 
-I used a global factor dataset published by [Jensen et al. (2021)](https://github.com/bkelly-lab/ReplicationCrisis) using [CRSP](https://crsp.org) and [Compustat](https://www.spglobal.com/marketintelligence/en/?product=compustat-research-insight) by S&P Global. The dataset includes individual firm-year observations across countries with a 1-month holding period factor for each characteristic e.g., book-to-market ratio. A factor represents a characteristic's contribution to a portfolio's excess returns to if included in a long-short zero net investment strategy calculated by:
+I used a global factor dataset published by [Jensen et al. (2021)](https://github.com/bkelly-lab/ReplicationCrisis) using [CRSP](https://crsp.org) and [Compustat](https://www.spglobal.com/marketintelligence/en/?product=compustat-research-insight) by S&P Global. The dataset is comprised of individual firm-year observations across countries with a 1-month holding period factor for each characteristic e.g., book-to-market ratio. A factor represents a characteristic's contribution to a portfolio's excess returns to if included in a long-short zero net investment strategy calculated by:
 
 1. Sorting stocks into terciles for each characteristic for each country and month;
 2. Defining factors by high-tercile returns minus low-tercile returns to align with a zero cost investment strategy, calculating each factors' alpha using an Ordinary least squares (OLS) regression on a constant and region's market return;
@@ -39,14 +39,72 @@ An input, ouput, and multiple hidden layers contribute to standard deep neutral 
 
 ### **Loss Function**
 
-The main loss function is a non-convex function seeking to maximise hedge portfolio returns with weights mapping using a monotinically non-increasing ranking function.
+The hedge loss function is a non-convex function, weighted proportionally to one month lead excess returns, using a monotonically non-increasing ranking function. Note: I use $$\|\|$$ to represent rather than a single bar in expression given limitations in markdown syntax.
 
-Tensorflow's inbuilt mean square error loss function and a custom mean square error loss function to validate tensorflow's automatic differientiation capabilities.
+Firstly, I define a standard monotonical ranking function as:
+
+$$R(y_{i,t})$$
+
+Secondly, I mathematically express long (L) and short (S) portfolios where L is set of long positions, S is a set of short positions, $$y_{i,t}$$ is the excess return for a given asset (i) in a month (t) with u and v lower and upper bounds on excess returns, respectively.
+
+$$L=\{ y_{i,t} \| R(y_{i,t})\leq u\}$$
+
+$$S = \{ y_{i,t} \| R(y_{i,t})\geq v\}$$
+
+$$0 < u \leq \|y\|$$
+
+$$0 < v \leq \|y\|$$
+
+$$u < v$$
+
+Next, I define a hedge portfolio:
+
+$$H_{t} = \frac{1}{\|L\|}\sum_{i\epsilon L} y_{(i,t)} - \frac{1}{\|S\|}\sum_{i\epsilon S} y_{(i,t)}$$
+
+There are permutations to ranking functions & hedge portfolios. I use a monotonical non-increasing ranking function proportionally weighted to one month lead excess returns as follows:
+
+$$R(\hat{y})= W$$
+
+$$W:=\frac{\hat{y}}{\vec{\textbf{1}} \hat{y}}$$
+
+$$\hat{y}=X^{T} \hat{\theta}$$
+
+$$f_{\hat{\theta}}(X) = (\frac{X^{T} \hat{\theta}}{\vec{\textbf{1}}X^{T} \hat{\theta}})^\top X^{T} \hat{\theta}$$
+
+W is a vector of weights, $$\hat{y}$$ is a vector of predicted outcomes, $$\hat{\theta}$$ is a matrix of estimate parameters in the neural network, and X is the global factor dataset.
+
+Stochastic gradient descent is one of the most common optimisation techniques applied to machine learning algorithmns. It is an iterative technique to train models. The algorithmn works as follows:
+
+1. Determines the partial derivatives your objective function with respect to each feature.
+2. Selects a random combination of parameters in feature space as an starting point.
+3. Updates partial derivative functions using aforementioned paraemeters.
+4. Calculates step size for each feature: **step size = gradient x learning rate**
+5. Calculates new parameters by: **new = old - step size**
+6. Repeats until locates a global or local minima in feature space.
+
+Finally, I express the monotonical non-increasing ranking function's partial derivative. Tensorflow will calculate this function using Keras Backend as the module has the ability to automatically differentiate novel functions:
+
+$$\frac{\partial f_{\hat{\theta}}(X)}{\partial \hat{\theta}} = \frac{\partial ((\frac{X^{T} \hat{\theta}}{\vec{\textbf{1}}X^{T} \hat{\theta}})^\top X^{T} \hat{\theta})}{\partial \hat{\theta}}$$
+
+$$\frac{\partial (f_{\hat{\theta}}(X))}{\partial \hat{\theta}} = \frac{1}{(\hat{\theta}^\top X \vec{1})} X X^\top \hat{\theta} +\frac{1}{\vec{1}X^\top \hat{\theta}} XX^\top \hat{\theta} -\frac{1}{(\hat{\theta}^\top X \vec{1})^{2}} \hat{\theta}^\top XX^\top \hat{\theta} X \vec{1}$$
+
+I compare the monotonic hedge portfolio function to two mean square error loss functions; Tensorflow's inbuilt function and a custom mean square error loss function. The purpose to compare performance of hedge portfolio function and validate tensorflow's Keras Backend function in programming custom objective functions.
+
+In summary:
+
+| Expression                    | MSE                                                                                                                                                   | HP                                                                                                                                                                                                                                                                                         |
+| ----------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Loss Function                 | $$f_{\hat{\theta}}(y, X)= \frac{\vec{1}}{\vec{1}^{T}\vec{1}} (\textbf{y} - X^{T}\hat{\theta})^{\circ 2}$$                                             | $$f_{\hat{\theta}}(X)= (\frac{X^{T} \hat{\theta}}{\vec{\textbf{1}}X^{T} \hat{\theta}})^\top X^{T} \hat{\theta}$$                                                                                                                                                                           |
+| Objective                     | $$\text{argmin}_{\hat{\theta}}: (f_{\hat{\theta}}(y, X))$$                                                                                            | $$\text{argmin}_{\hat{\theta}}:(f_{\hat{\theta}}(X))$$                                                                                                                                                                                                                                     |
+| Partial Differential Equation | $$\frac{\partial f_{\hat{\theta}}(y, X)}{ \partial \hat{\theta}} = \frac{\vec{1}}{\vec{1}^{T}\vec{1}} (-2(\textbf{y}-X^{T} \hat{\theta})^{\circ 1})$$ | $$\frac{\partial (f_{\hat{\theta}}(X))}{\partial \hat{\theta}}  = \frac{1}{(\hat{\theta}^\top X \vec{1})} X X^\top \hat{\theta} +\frac{1}{\vec{1}X^\top \hat{\theta}} XX^\top \hat{\theta} -\frac{1}{(\hat{\theta}^\top X \vec{1})^{2}} \hat{\theta}^\top XX^\top \hat{\theta} X \vec{1}$$ |
+
+### **Programming**
+
+TBC
 
 ### **Outcomes**
 
-Both the mathematical formulation and computational implementation of model architecture, are sound.
-However, data limitations and lack of computing resources rendered outcomes inclusive at the time of analysis.
+TBC
 
 ### **Resources**
 
@@ -104,10 +162,11 @@ Equations:
 
 ## **Transhipment Project**
 
-I led a team of three in designing and building a series of models to inform transhipment operations. This project is modelled either using optimisation, conceptual and simulation models. The optimisation model is a linear optimisation model, written in AMPL, to model fruit produce flows from producers to packhouses to markets. The model minimises packaging and transportation costs across 10 different demand forecasts. The conceptual and simulation models are alternatives to this optimisation model. The objective function driving the optimisation model follows.
+I led a team of three designing and building a series of models to inform transhipment operations. This project is modelled either using optimisation, conceptual and simulation models. The optimisation model is a linear optimisation model, written in AMPL, to model fruit produce flows from producers to packhouses to markets. The model minimises packaging and transportation costs across 10 different demand forecasts. The conceptual and simulation models are alternatives to this optimisation model. The objective function driving the optimisation model follows.
 
-$$ \text{Min }\sum*{i} \sum*{j} \sum*{p} \text{Cost}*{ij} \times \text{Flow}_{ijp} $$
-$$ + \sum_{m} \sum*{h} \text{numperiods} \times \text{packcost}*{m} \times \text{built}\_{mh}$$
+$$ \sum\_{i} \sum\_{j} \sum\_{p} C\_{(i,j)} F\_{(i,j,p)} + \sum\_{m} \sum\_{h} N PC\_{m} B\_{(m,h)} $$
+
+Where C is the cost to transport product between an origin (i) & destination (j) packhouse, F (Flow) is the number of product units to ship between origin and destination in a period (p), N is number of periods, PC is packing cost for a packing machine (m), and B is the build costs for a pack machine in a packhouse (h).
 
 [![Transhipment Project](/assets/images/transhipment.png)]({{ site.url }}/downloads/tranship.pdf)
 
@@ -196,3 +255,6 @@ This assignment replicates the methodology implemented by Li et al. (2021), acce
 I conducted various forms of technical analysis to inform empirical assignments. Methods include Fama-MacBeth regressions, co-integration testing and Bollinger Band trading strategies.
 
 [![Technical Analysis](/assets/images/academia/technical-analysis.png)]({{ site.url }}/downloads/cmcd398-technical-analysis.pdf)
+
+$$
+$$
