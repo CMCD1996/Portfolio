@@ -8,7 +8,7 @@ I completed a range of assignments and research projects during University. This
 
 Please click any of the graphics to review project material and reports.
 
-## **Finance (Honours): Maximimisating Long-Short Portfolio Excess Returns using Deep Neural Networks**
+## **Finance (Honours): Long-Short Hedge Portfolios & Deep Neural Networks**
 
 [![Project Outline](/assets/images/finance-honours.png)]({{ site.url }}/downloads/cmcd398-research-essay.pdf)
 
