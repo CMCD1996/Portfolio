@@ -133,7 +133,7 @@ config=TeX-AMS-MML_HTMLorMML"></script>
 
 \[\frac{\partial (f_{\hat{\theta}}(X))}{\partial \hat{\theta}} = \frac{1}{(\hat{\theta}^\top X \vec{1})} X X^\top \hat{\theta} +\frac{1}{\vec{1}X^\top \hat{\theta}} XX^\top \hat{\theta} -\frac{1}{(\hat{\theta}^\top X \vec{1})^{2}} \hat{\theta}^\top XX^\top \hat{\theta} X \vec{1}\]
 
-<p>I compare the monotonic hedge portfolio function to two mean square error loss functions; Tensorflow’s inbuilt function and a custom mean square error loss function. The purpose to compare performance of hedge portfolio function and validate tensorflow’s Keras Backend function in programming custom objective functions.</p>
+<p>I compare the monotonic hedge portfolio function to two mean squared error loss functions;Tensorflow’s inbuilt function and a custom mean square error loss function. The purpose to compare performance of hedge portfolio function and validate tensorflow’s Keras Backend module in programming custom objective functions.</p>
 
 <p>In summary:</p>
 
@@ -141,24 +141,46 @@ config=TeX-AMS-MML_HTMLorMML"></script>
   <thead>
     <tr>
       <th>Expression</th>
-      <th>MSE</th>
-      <th>HP</th>
+      <th>Function</th>
     </tr>
   </thead>
   <tbody>
     <tr>
+      <td> </td>
+      <td><strong>Mean Squared Error</strong></td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
       <td>Loss Function</td>
       <td>\(f_{\hat{\theta}}(y, X)= \frac{\vec{1}}{\vec{1}^{T}\vec{1}} (\textbf{y} - X^{T}\hat{\theta})^{\circ 2}\)</td>
-      <td>\(f_{\hat{\theta}}(X)= (\frac{X^{T} \hat{\theta}}{\vec{\textbf{1}}X^{T} \hat{\theta}})^\top X^{T} \hat{\theta}\)</td>
     </tr>
     <tr>
       <td>Objective</td>
       <td>\(\text{argmin}_{\hat{\theta}}: (f_{\hat{\theta}}(y, X))\)</td>
-      <td>\(\text{argmin}_{\hat{\theta}}:(f_{\hat{\theta}}(X))\)</td>
     </tr>
     <tr>
       <td>Partial Differential Equation</td>
       <td>\(\frac{\partial f_{\hat{\theta}}(y, X)}{ \partial \hat{\theta}} = \frac{\vec{1}}{\vec{1}^{T}\vec{1}} (-2(\textbf{y}-X^{T} \hat{\theta})^{\circ 1})\)</td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <td> </td>
+      <td><strong>Hedge Portfolio</strong></td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <td>Loss Function</td>
+      <td>\(f_{\hat{\theta}}(X)= (\frac{X^{T} \hat{\theta}}{\vec{\textbf{1}}X^{T} \hat{\theta}})^\top X^{T} \hat{\theta}\)</td>
+    </tr>
+    <tr>
+      <td>Objective</td>
+      <td>\(\text{argmax}_{\hat{\theta}}:(f_{\hat{\theta}}(X))\)</td>
+    </tr>
+    <tr>
+      <td>Partial Differential Equation</td>
       <td>\(\frac{\partial (f_{\hat{\theta}}(X))}{\partial \hat{\theta}}  = \frac{1}{(\hat{\theta}^\top X \vec{1})} X X^\top \hat{\theta} +\frac{1}{\vec{1}X^\top \hat{\theta}} XX^\top \hat{\theta} -\frac{1}{(\hat{\theta}^\top X \vec{1})^{2}} \hat{\theta}^\top XX^\top \hat{\theta} X \vec{1}\)</td>
     </tr>
   </tbody>
