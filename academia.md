@@ -196,9 +196,9 @@ Both hypotheses have proven true.
 - [Classes and Modules]({{ site.url }}/downloads/cmcd398-finance-honours-code-listing.pdf)
 - [Code Repository](https://github.com/CMCD1996/finance-honours)
 
-## **Engineering (Honours) Dissertation: Global Optimisation Carbon Pricing Initiative (GOCPI)- A Scalable Energy Systems Modelling Tool**
+## **Engineering (Honours): Energy System Build & Design**
 
-My research project explored developing an open-source energy modelling tool for users to design their own energy systems. The model intends to inform policy and investment in sustainable technology. The model is built using Python, Excel, GNU Mathprog and IBM Watson Machine Learning services.
+My research project explored developing an open-source energy modelling tool for users to design custom energy systems. The model intends to inform policy and investment in sustainable technology. The model uses Python, Excel, GNU Mathprog and IBM Watson Machine Learning services.
 
 [![Project Outline](/assets/images/engineering-honours.png)]({{ site.url }}/downloads/gocpi.pdf)
 
@@ -216,9 +216,9 @@ My research project explored developing an open-source energy modelling tool for
 
 ## **Prototype Wind Turbine**
 
-I lead a four person team tasked to designed, built, and tested a wind turbine to operate at 140 rpm. Blade profile design was simulated using MATLAB and Xfoil to optimise profile aerodynamics. Optimal profiles were modelled in Dassault Systemes Solidworks and laser cut from sheets of Perspex.
+I led a four-person team tasked to design, build, and test a wind turbine at 140 rpm. Simulation tested Blade profile design using MATLAB and Xfoil to optimize profile aerodynamics. Our team modelled optimal blade profiles in Dassault Systemes Solidworks, laser cut the design from sheets of Perspex and wrapped six blades fastened onto a hub and spoke mechanism connected to a frame in a wind tunnel.
 
-Blade profile aerodynamics were optimised through the maximisation of the power coefficient ($$C_p = \frac{P_E}{P_T}$$) The equations related to blade profile design are displayed below.
+The optimal blade profile design maximized the power coefficient ($$C_p = \frac{P_E}{P_T}$$) underpinning blade aerodynamics. The mathematical equations related to optimizing blade aerodynamics follow:
 
 Equations:
 
@@ -244,11 +244,11 @@ Equations:
 
 ## **Transhipment Project**
 
-I led a team of three designing and building a series of models to inform transhipment operations. This project is modelled either using optimisation, conceptual and simulation models. The optimisation model is a linear optimisation model, written in AMPL, to model fruit produce flows from producers to packhouses to markets. The model minimises packaging and transportation costs across 10 different demand forecasts. The conceptual and simulation models are alternatives to this optimisation model. The objective function driving the optimisation model follows.
+I led a team of three in designing and building a series of models to inform transhipment operations. This project is modelled either using optimization, conceptual or simulation models. The optimization model is a linear optimization model, written in AMPL, to model fruit produce flows from producers to packhouses to markets. The model minimizes packaging and transportation costs across ten different demand forecasts. The conceptual and simulation models are alternatives to this optimization model. The objective function driving the optimization model follows:
 
 $$ \sum\_{i} \sum\_{j} \sum\_{p} C\_{(i,j)} F\_{(i,j,p)} + \sum\_{m} \sum\_{h} N PC\_{m} B\_{(m,h)} $$
 
-Where C is the cost to transport product between an origin (i) & destination (j) packhouse, F (Flow) is the number of product units to ship between origin and destination in a period (p), N is number of periods, PC is packing cost for a packing machine (m), and B is the build costs for a pack machine in a packhouse (h).
+Where C is the cost to transport product between an origin (i) & destination (j) packhouse, F (Flow) is the number of product units to ship between origin and destination in a period (p), N is the number of periods, PC is packing cost for a packing machine (m), and B is the build costs for a packing machine in a packhouse (h).
 
 [![Transhipment Project](/assets/images/transhipment.png)]({{ site.url }}/downloads/tranship.pdf)
 
@@ -260,52 +260,29 @@ I represented the University of Auckland Case Programme, competing against 20 te
 
 ## **Programming**
 
-I completed several assignments to improve coding skills in Python, C++, MatLab, SQL, VBA, AMPL and Git.
-These assignments covered Eigen problems, Finite Differences, Non Linear Equations, Ordinary Differential Equations, Partial Differential Equations (PDE's) and Databases. The following examples include some of
+I completed assignments to improve coding skills in Python, C++, MatLab, SQL, VBA, AMPL and Git. These assignments covered Eigen problems, Finite Differences, Non Linear Equations, Ordinary Differential Equations, Partial Differential Equations (PDE's) and Databases.
 
-Application of finite difference approximations to track heat flow. This behaviour is modelled using the following PDE:
+one example is an application of finite difference approximations to track heat flow. I model this flow using the following PDE:
 
 $$\frac{\partial^{2}u }{\partial x^{2} } + \frac{\partial^{2}u }{\partial y^{2} } - \alpha \frac{\partial u }{\partial t } = 0 $$
-
-Python function to run the IBM ILOG CPLEX Optimisation locally:
-
-```python
-    def run_cplex_local(self, model_file):
-        """ This function runs cplex on the local device if the energy system
-            is of a small enough complexity
-        """
-        # Creates the model structure
-        model = cp.Cplex()
-        # Produces the results stream and log streams
-        output = model.set_results_stream(None)
-        output = model.set_log_stream(None)
-        # Write the energy system model to Cplex
-        model.read(model_file)
-        # Solve the model using the version of Cplex installed on the local
-        # device (IBM ILOG CPLEX Optimisation Studio)
-        model.solve()
-        # Return the value of the objective function
-        objective_value = model.solution.get_objective_value()
-        return objective_value
-```
 
 [![Programming Assignments](/assets/images/programming.png)]({{ site.url }}/downloads/code.pdf)
 
 ## **Design**
 
-I completed several design projects. One was to design, model and render a household item in PTC Creo. I chose a Gillette fusion proglide razor. The second was an interface (team of five) to create user-defined catapult designs and three dimensional Solidworks models from user designs (Individually). The user interface includes animations programmed in VBA and API's to manipulate the 3D model.
+I completed several design projects. One was designing, modelling, and rendering a household item in PTC Creo. I chose a Gillette fusion proglide razor. The second was an interface (team of five) to create user-defined catapult designs and three-dimensional Solidworks models from user designs (Individually). The user interface includes animations programmed in VBA and APIs to manipulate the 3D model.
 
 [![Design Project](/assets/images/design.png)]({{ site.url }}/downloads/design.pdf)
 
 ## **Optimisation**
 
-I completed several assignments to develop skills to solve optimisation skills. I covered dynamic programming, heuristics, decision making under uncertainty and set partitioning. Some examples follow.
+I completed several assignments to develop skills to solve optimisation skills. I covered dynamic programming, heuristics, decision making under uncertainty and set partitioning. Some examples follow:
 
-The use of dynamic programming to evaluate whether to reject an applicant or hire the applicant and stop interviewing:
+First, using dynamic programming to evaluate whether to reject an applicant or hire the applicant and stop interviewing:
 
 $$\hat{V}_{N} = \int_{0}^{\hat{V}_{N+1}} \hat{V}_{N+1} f(r)dr + \int_{\hat{V}_{N+1}}^{\infty} rf(r)dr$$
 
-The calculation of expected profit from a manufacturing process. Mean hitting times are calculated by considering the probability the product will reach a different state from another state on another process iteration. One transition probability matrix and five separate states were considered (unfinished, poor, good, scrap and average):
+Second, calculating expected profit from a manufacturing process. Mean hitting times are calculated by considering the probability the product will reach a different state from another state on another process iteration. One transition probability matrix and five separate states were considered (unfinished, poor, good, scrap and average):
 
 $$M_{ij} = 1 + \sum_{k=1}^{n} P_{ik} \times M_{kj} \text{ where } i \neq j$$
 
@@ -313,15 +290,13 @@ $$M_{ij} = 1 + \sum_{k=1}^{n} P_{ik} \times M_{kj} \text{ where } i \neq j$$
 
 ## **Corporate Governance**
 
-I completed several assignments addressing corporate governance-related theories and applications.
+I completed assignments addressing corporate governance-related theories and applications.
 
 [![Corporate Governance](/assets/images/academia/corporate-governance.png)]({{ site.url }}/downloads/cmcd398-corporate-governance.pdf)
 
 ## **Literature Review & Proposals**
 
-My literature review informs the subsequent research proposal, grounded in prior research, exploring applications of data science to private equity.
-The intention is to inform investment due diligence.
-However, the required time to implement the proposal exceeds the time allocated to the BCOM(Honours) research essay given the proposal's complexity.
+My literature review explores data science applications in private equity, intending to inform investment due diligence.
 
 [![Literature Reviews & Proposals](/assets/images/lit-review.png)]({{ site.url }}/downloads/cmcd398-lit-review-research-proposal.pdf)
 
@@ -334,9 +309,6 @@ This assignment replicates the methodology implemented by Li et al. (2021), acce
 
 ## **Technical Analysis**
 
-I conducted various forms of technical analysis to inform empirical assignments. Methods include Fama-MacBeth regressions, co-integration testing and Bollinger Band trading strategies.
+I conducted technical analysis to inform empirical assignments. Methods include Fama-MacBeth regressions, co-integration testing, and Bollinger Band trading strategies.
 
 [![Technical Analysis](/assets/images/academia/technical-analysis.png)]({{ site.url }}/downloads/cmcd398-technical-analysis.pdf)
-
-$$
-$$
