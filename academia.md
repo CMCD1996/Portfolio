@@ -18,8 +18,8 @@ I reconfigured a neural network to directly use a hedge portfolio loss function 
 
 The analysis tested the reconfigured model's ability to generate statistically and economically significant results, outperform standard configurations, and align with a portfolio manager's mandate. Hypothetically,
 
-1. It is possible to reconfigure a neural network from maximisation problems given: **Argmax $$f(x)$$ = Argmin $$-f(x)$$**.
-2. Given the fundamental theory behind these models, A hedge portfolio loss function will not outperform standard minimisation functions.
+1. Can you reconfigure a neural network from maximisation objectives given: **Argmax $$f(x)$$ = Argmin $$-f(x)$$**?
+2. Given the fundamental theory behind these models, A hedge portfolio loss function will not outperform standard minimisation functions?
 
 ### **Data**
 
