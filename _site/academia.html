@@ -36,40 +36,34 @@ config=TeX-AMS-MML_HTMLorMML"></script>
 </header>
 <main class="page-content" aria-label="Content">
       <div class="wrapper">
-        <p>I completed a range of assignments and research projects during University. This pages explains major projects and access to my assignments.</p>
-
-<p>Please click any of the graphics to review project material and reports.</p>
-
-<h2 id="finance-honours-long-short-hedge-portfolios--deep-neural-networks"><strong>Finance (Honours): Long-Short Hedge Portfolios &amp; Deep Neural Networks</strong></h2>
-
-<p><a href="http://localhost:4000/downloads/cmcd398-research-essay.pdf"><img src="/assets/images/finance-honours.png" alt="Project Outline" /></a></p>
+        <p><img src="/assets/images/finance-honours.png" alt="Project Outline" /></p>
 
 <h3 id="theory--hypotheses"><strong>Theory &amp; Hypotheses</strong></h3>
 
-<p>Machine learning models optimise a loss function by iteratively fine tuning model parameters to minimise the difference between actual observations &amp; predicted outcomes. Portfolio managers seek to maximise excess returns while diversifying idiosyncratic risk by using trading strategies e.g., Trading long-short equity hedge portfolios.</p>
+<p>Machine learning models optimise a loss function by iteratively finetuning model parameters to minimise the difference between actual observations &amp; predicted outcomes. Portfolio managers seek to maximise excess returns while diversifying idiosyncratic risk with trading strategies, e.g., Trading long-short equity hedge portfolios.</p>
 
-<p>I reconfigured a neural network to directly use a hedge portfolio loss function to maximise excess returns of one month lead long-short hedge portfolios.</p>
+<p>I reconfigured a neural network to directly use a hedge portfolio loss function to maximise excess returns of one-month lead long-short hedge portfolios.</p>
 
-<p>Analysis tested the reconfigured model’s ability to generate statistically and economically significant results, outperform standard configurations, and align with a portfolio manager’s mandate. Hypothetically,</p>
+<p>The analysis tested the reconfigured model’s ability to generate statistically and economically significant results, outperform standard configurations, and align with a portfolio manager’s mandate. Hypothetically,</p>
 
 <ol>
-  <li>It is possible to reconfigure a neural network from maximisation problems given: <strong>Argmax \(f(x)\) = Argmin \(-f(x)\)</strong>.</li>
-  <li>A hedge portfolio loss function will not outperform standard minimisation functions given the fundamental theory behind these models.</li>
+  <li>Can you reconfigure a neural network from maximisation objectives given: <strong>Argmax \(f(x)\) = Argmin \(-f(x)\)</strong>?</li>
+  <li>Given the fundamental theory behind these models, A hedge portfolio loss function will not outperform standard minimisation functions?</li>
 </ol>
 
 <h3 id="data"><strong>Data</strong></h3>
 
-<p>I used a global factor dataset published by <a href="https://github.com/bkelly-lab/ReplicationCrisis">Jensen et al. (2021)</a> using <a href="https://crsp.org">CRSP</a> and <a href="https://www.spglobal.com/marketintelligence/en/?product=compustat-research-insight">Compustat</a> by S&amp;P Global. The dataset is comprised of individual firm-year observations across countries with a 1-month holding period factor for each characteristic e.g., book-to-market ratio. A factor represents a characteristic’s contribution to a portfolio’s excess returns to if included in a long-short zero net investment strategy calculated by:</p>
+<p>I used a global factor dataset published by <a href="https://github.com/bkelly-lab/ReplicationCrisis">Jensen et al. (2021)</a> using <a href="https://crsp.org">CRSP</a> and <a href="https://www.spglobal.com/marketintelligence/en/?product=compustat-research-insight">Compustat</a> from S&amp;P Global. The dataset includes individual firm-year observations across countries with a 1-month holding period factor for each characteristic, e.g., book-to-market ratio. A factor represents a characteristic’s contribution to a portfolio’s excess returns if included in a long-short zero net investment strategy calculated by:</p>
 
 <ol>
   <li>Sorting stocks into terciles for each characteristic for each country and month;</li>
-  <li>Defining factors by high-tercile returns minus low-tercile returns to align with a zero cost investment strategy, calculating each factors’ alpha using an Ordinary least squares (OLS) regression on a constant and region’s market return;</li>
-  <li>Clustering factors by signing factors and equally weighting returns of a factors within a specific cluster.</li>
+  <li>Defining factors by high-tercile returns minus low-tercile returns to align with a zero-cost investment strategy, calculating each factor’s alpha using an Ordinary least squares (OLS) regression on a constant and region’s market return;</li>
+  <li>Clustering factors by signing factors and equally weighting returns of factors within a specific cluster.</li>
 </ol>
 
 <h3 id="model-architecture"><strong>Model Architecture</strong></h3>
 
-<p>An input, ouput, and multiple hidden layers contribute to standard deep neutral network topography (left). I configured a deep neutral network with an input layer, output layer, three dense hidden layers, &amp; one dropout hidden layer to mitigate overfitting (right) using Google’s open-source machine learning platform <a href="https://www.tensorflow.org/">Tensorflow</a>.</p>
+<p>An input, output, and multiple hidden layers contribute to standard deep neutral network topography (left). Using Google’s <a href="https://www.tensorflow.org/">Tensorflow</a> open-source machine learning platform, I configured a deep neural network with an input layer, an output layer, three dense hidden layers, &amp; one dropout hidden layer to mitigate overfitting (right).</p>
 
 <table>
   <tbody>
@@ -88,7 +82,7 @@ config=TeX-AMS-MML_HTMLorMML"></script>
 
 \[R(y_{i,t})\]
 
-<p>Secondly, I mathematically express long (L) and short (S) portfolios where L is set of long positions, S is a set of short positions, \(y_{i,t}\) is the excess return for a given asset (i) in a month (t) with u and v lower and upper bounds on excess returns, respectively.</p>
+<p>Secondly, I mathematically express long (L) and short (S) portfolios where L is set of long positions, S is a set of short positions, \(y_{i,t}\) is the excess return for a given asset (i) in a month (t) with u and v lower and upper bounds on excess returns, respectively:</p>
 
 \[L=\{ y_{i,t} \| R(y_{i,t})\leq u\}\]
 
@@ -104,7 +98,7 @@ config=TeX-AMS-MML_HTMLorMML"></script>
 
 \[H_{t} = \frac{1}{\|L\|}\sum_{i\epsilon L} y_{(i,t)} - \frac{1}{\|S\|}\sum_{i\epsilon S} y_{(i,t)}\]
 
-<p>There are permutations to ranking functions &amp; hedge portfolios. I use a monotonical non-increasing ranking function proportionally weighted to one month lead excess returns as follows:</p>
+<p>The variation of hedge portfolio and ranking functions permeate. I use a monotonical non-increasing ranking function proportionally weighted to one month lead excess returns as follows:</p>
 
 \[R(\hat{y})= W\]
 
@@ -114,26 +108,26 @@ config=TeX-AMS-MML_HTMLorMML"></script>
 
 \[f_{\hat{\theta}}(X) = (\frac{X^{T} \hat{\theta}}{\vec{\textbf{1}}X^{T} \hat{\theta}})^\top X^{T} \hat{\theta}\]
 
-<p>W is a vector of weights, \(\hat{y}\) is a vector of predicted outcomes, \(\hat{\theta}\) is a matrix of estimate parameters in the neural network, and X is the global factor dataset.</p>
+<p>W is a vector of weights, \(\hat{y}\) is a vector of predicted outcomes, \(\hat{\theta}\) is a matrix of estimated parameters in the neural network, and X is the global factor dataset.</p>
 
-<p>Stochastic gradient descent is one of the most common optimisation techniques applied to machine learning algorithmns. It is an iterative technique to train models. The algorithmn works as follows:</p>
+<p>Stochastic gradient descent is one of the most common optimisation techniques applied to machine learning algorithms. It is an iterative technique to train models. The algorithm works as follows:</p>
 
 <ol>
-  <li>Determines the partial derivatives your objective function with respect to each feature.</li>
-  <li>Selects a random combination of parameters in feature space as an starting point.</li>
-  <li>Updates partial derivative functions using aforementioned paraemeters.</li>
+  <li>Determines the partial derivatives of your objective function with respect to each feature.</li>
+  <li>Selects a random combination of parameters in the feature space as a starting point.</li>
+  <li>Updates partial derivative functions using the parameters above.</li>
   <li>Calculates step size for each feature: <strong>step size = gradient x learning rate</strong></li>
   <li>Calculates new parameters by: <strong>new = old - step size</strong></li>
-  <li>Repeats until locates a global or local minima in feature space.</li>
+  <li>Repeats until it locates global or local minima in feature space.</li>
 </ol>
 
-<p>Finally, I express the monotonical non-increasing ranking function’s partial derivative. Tensorflow will calculate this function using Keras Backend as the module has the ability to automatically differentiate novel functions:</p>
+<p>Finally, I express the monotonical non-increasing ranking function’s partial derivative. Tensorflow will calculate this function using Keras Backend as the module can automatically differentiate novel functions:</p>
 
 \[\frac{\partial f_{\hat{\theta}}(X)}{\partial \hat{\theta}} = \frac{\partial ((\frac{X^{T} \hat{\theta}}{\vec{\textbf{1}}X^{T} \hat{\theta}})^\top X^{T} \hat{\theta})}{\partial \hat{\theta}}\]
 
 \[\frac{\partial (f_{\hat{\theta}}(X))}{\partial \hat{\theta}} = \frac{1}{(\hat{\theta}^\top X \vec{1})} X X^\top \hat{\theta} +\frac{1}{\vec{1}X^\top \hat{\theta}} XX^\top \hat{\theta} -\frac{1}{(\hat{\theta}^\top X \vec{1})^{2}} \hat{\theta}^\top XX^\top \hat{\theta} X \vec{1}\]
 
-<p>I compare the monotonic hedge portfolio function to two mean squared error loss functions;Tensorflow’s inbuilt function and a custom mean square error loss function. The purpose to compare performance of hedge portfolio function and validate tensorflow’s Keras Backend module in programming custom objective functions.</p>
+<p>I compare the monotonic hedge portfolio function to two mean squared error loss functions; Tensorflow’s inbuilt function and a custom mean square error loss function. This comparison aims to test the performance of the hedge portfolio function and validate TensorFlow’s Keras Backend module in programming custom objective functions.</p>
 
 <p>In summary:</p>
 
@@ -186,13 +180,99 @@ config=TeX-AMS-MML_HTMLorMML"></script>
   </tbody>
 </table>
 
-<h3 id="programming"><strong>Programming</strong></h3>
+<h3 id="infrastucture--programming"><strong>Infrastucture &amp; Programming</strong></h3>
 
-<p>TBC</p>
+<p>I used <a href="https://cloud.google.com/?hl=en">Google’s Cloud Platform</a> to manage datasets, train, validate, and test models. Cryptographic network protocols in the form of secure shells established remove connections from a local machine to the virtual machine to execute commands.</p>
+
+<ol>
+  <li>Set up a virtual machine on Google Cloud’s Compute Engine. The instance was a n1-standard-8 machine with an Intel Broadwell Central Processing Unit (CPU) and a NVIDIA Tesla K80 Graphics Processing Unit (GPU).</li>
+  <li>Set up Google Cloud Storage buckets to store and manage large datasets.</li>
+  <li>Programmed a set of functions to implement:
+    <ol>
+      <li>Set controls to monitor CPU &amp; GPU memory usage, reconfigure GPU memory usage, and set the number of GPUs if required.</li>
+      <li>Partition process feature set into a training, testing, and validation subsets on the virtual machine.</li>
+      <li>Calculate risk-adjusted performance measures and fama-french factor pricing models to compare functions.</li>
+      <li>Create feature lists and convert data frames into TensorFlow datasets.</li>
+      <li>Create normalisation layers and encode numerical and categorical features in the feature set.</li>
+      <li>Build a user-defined neural network using a generalised framework.</li>
+      <li>Create and model learning curves using <a href="https://neptune.ai">neptune.ai</a>, an MLOps stack component for experiment tracking to log, organise, compare, register, and share all machine learning model metadata.</li>
+      <li>Make predictions using the trained, tested, and validated model.</li>
+      <li>Create classes defining mean squared error &amp; hedge portfolio loss functions.</li>
+    </ol>
+  </li>
+</ol>
+
+<p>The hedge portfolio loss function follows:</p>
+
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="k">class</span> <span class="nc">custom_hp</span><span class="p">(</span><span class="n">tf</span><span class="p">.</span><span class="n">keras</span><span class="p">.</span><span class="n">losses</span><span class="p">.</span><span class="n">Loss</span><span class="p">):</span>
+<span class="s">"""Custom Hedge Portfolio Function Class
+
+        Args:
+            tf (env): Tensorflow keras losses environment
+        """</span>
+
+        <span class="k">def</span> <span class="nf">__init__</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="n">extra_tensor</span><span class="o">=</span><span class="bp">None</span><span class="p">,</span> <span class="n">reduction</span><span class="o">=</span><span class="n">tf</span><span class="p">.</span><span class="n">keras</span><span class="p">.</span><span class="n">losses</span><span class="p">.</span><span class="n">Reduction</span><span class="p">.</span><span class="n">AUTO</span><span class="p">,</span> <span class="n">name</span><span class="o">=</span><span class="s">'custom_hp'</span><span class="p">):</span>
+            <span class="s">"""Initialisation of custom hedge portfolio function
+
+            Args:
+                extra_tensor (tensor, optional): Original tensor format. Defaults to None.
+                reduction (red, optional): Reduction. Defaults to tf.keras.losses.Reduction.AUTO.
+                name (str, optional): name of function. Defaults to 'custom_hp'.
+            """</span>
+            <span class="nb">super</span><span class="p">().</span><span class="n">__init__</span><span class="p">(</span><span class="n">reduction</span><span class="o">=</span><span class="n">reduction</span><span class="p">,</span> <span class="n">name</span><span class="o">=</span><span class="n">name</span><span class="p">)</span>
+            <span class="bp">self</span><span class="p">.</span><span class="n">extra_tensor</span> <span class="o">=</span> <span class="n">extra_tensor</span>
+
+        <span class="k">def</span> <span class="nf">call</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="n">y_true</span><span class="p">,</span> <span class="n">y_pred</span><span class="p">):</span>
+            <span class="s">"""Call for hp loss function
+
+            Args:
+                y_true (tf): Tensor of realisations
+                y_pred (tf): Tensor of predictions
+
+            Returns:
+                : Loss
+            """</span>
+            <span class="n">extra_tensor</span> <span class="o">=</span> <span class="bp">self</span><span class="p">.</span><span class="n">extra_tensor</span>
+            <span class="c1"># Calculates sum over vector tensors
+</span>            <span class="n">y_true_sum</span> <span class="o">=</span> <span class="n">K</span><span class="p">.</span><span class="nb">sum</span><span class="p">(</span><span class="n">y_true</span><span class="p">)</span>
+            <span class="n">y_pred_sum</span> <span class="o">=</span> <span class="n">K</span><span class="p">.</span><span class="nb">sum</span><span class="p">(</span><span class="n">y_pred</span><span class="p">)</span>
+            <span class="c1">#
+</span>            <span class="n">y_true_weights</span> <span class="o">=</span> <span class="p">(</span><span class="n">y_true</span><span class="o">/</span><span class="n">y_true_sum</span><span class="p">)</span>
+            <span class="n">y_pred_weights</span> <span class="o">=</span> <span class="p">(</span><span class="n">y_pred</span><span class="o">/</span><span class="n">y_pred_sum</span><span class="p">)</span>
+            <span class="c1"># Transpose the weights
+</span>            <span class="n">y_true_transposed</span> <span class="o">=</span> <span class="n">K</span><span class="p">.</span><span class="n">transpose</span><span class="p">(</span><span class="n">y_true_weights</span><span class="p">)</span>
+            <span class="n">y_pred_transposed</span> <span class="o">=</span> <span class="n">K</span><span class="p">.</span><span class="n">transpose</span><span class="p">(</span><span class="n">y_pred_weights</span><span class="p">)</span>
+            <span class="c1"># Multiply by the weights
+</span>            <span class="n">y_true_loss</span> <span class="o">=</span> <span class="n">K</span><span class="p">.</span><span class="n">dot</span><span class="p">(</span><span class="n">y_true_transposed</span><span class="p">,</span> <span class="n">y_true</span><span class="p">)</span>
+            <span class="n">y_pred_loss</span> <span class="o">=</span> <span class="n">K</span><span class="p">.</span><span class="n">dot</span><span class="p">(</span><span class="n">y_pred_transposed</span><span class="p">,</span> <span class="n">y_pred</span><span class="p">)</span>
+            <span class="n">loss</span> <span class="o">=</span> <span class="o">-</span><span class="mi">1</span><span class="o">*</span><span class="p">(</span><span class="n">y_pred_loss</span><span class="p">)</span>
+            <span class="k">return</span> <span class="n">loss</span>
+
+</code></pre></div></div>
 
 <h3 id="outcomes"><strong>Outcomes</strong></h3>
 
-<p>TBC</p>
+<p>There were a handful of contributions:</p>
+
+<ol>
+  <li>It is feasible to reconfigure neural networks for maximisation and use custom loss functions with the TensorFlow Keras module. However, the economic significance still needs to be answered.</li>
+  <li>The factor portfolio dataset is suitable for this analysis, given its size and quality.</li>
+</ol>
+
+<p>However, a few limitations persist:</p>
+
+<ol>
+  <li>Only one neural network configuration is considered. Simulating different architectures would improve analysis.</li>
+  <li>Does not compare against other optimisation techniques, e.g., reinforcement learning, dynamic programming etc.</li>
+  <li>The dataset required condensing, given its size and cost to use the entire set.</li>
+</ol>
+
+<p>Both hypotheses have proven true.</p>
+
+<ol>
+  <li>Can you reconfigure a neural network from maximisation objectives given: <strong>Argmax \(f(x)\) = Argmin \(-f(x)\)</strong>? <strong>Yes</strong></li>
+  <li>Given the fundamental theory behind these models, A hedge portfolio loss function will not outperform standard minimisation functions? <strong>Yes</strong></li>
+</ol>
 
 <h3 id="resources"><strong>Resources</strong></h3>
 
@@ -204,15 +284,14 @@ config=TeX-AMS-MML_HTMLorMML"></script>
   <li><a href="https://github.com/CMCD1996/finance-honours">Code Repository</a></li>
 </ul>
 
-<h2 id="engineering-honours-dissertation-global-optimisation-carbon-pricing-initiative-gocpi--a-scalable-energy-systems-modelling-tool"><strong>Engineering (Honours) Dissertation: Global Optimisation Carbon Pricing Initiative (GOCPI)- A Scalable Energy Systems Modelling Tool</strong></h2>
+<p><img src="/assets/images/engineering-honours.png" alt="Project Outline" /></p>
 
-<p>My research project explored developing an open-source energy modelling tool for users to design their own energy systems. The model intends to inform policy and investment in sustainable technology. The model is built using Python, Excel, GNU Mathprog and IBM Watson Machine Learning services.</p>
+<p>My research project explored developing an open-source energy modelling tool for users to design custom energy systems. The model intends to inform policy and investment in sustainable technology. The model uses Python, Excel, GNU Mathprog and IBM Watson Machine Learning services.</p>
 
-<p><a href="http://localhost:4000/downloads/gocpi.pdf"><img src="/assets/images/engineering-honours.png" alt="Project Outline" /></a></p>
-
-<h3 id="gocpi-information-references-and-required-software">GOCPI Information, References and Required Software</h3>
+<h3 id="resources-1"><strong>Resources</strong></h3>
 
 <ul>
+  <li><a href="http://localhost:4000/downloads/gocpi.pdf">Honours Submission</a></li>
   <li><a href="http://www.osemosys.org/">OseMOSYS</a></li>
   <li><a href="https://iea-etsap.org/index.php/etsap-tools/model-generators/times">TIMES (Reference)</a></li>
   <li><a href="https://www.ibm.com/academic/home">IBM Academic Initiative</a></li>
@@ -224,11 +303,11 @@ config=TeX-AMS-MML_HTMLorMML"></script>
   <li><a href="https://github.com/OSeMOSYS/OSeMOSYS">OseMOSY GitHub Repository</a></li>
 </ul>
 
-<h2 id="prototype-wind-turbine"><strong>Prototype Wind Turbine</strong></h2>
+<p><img src="/assets/images/wind-turbine.png" alt="Wind Turbine Project" /></p>
 
-<p>I lead a four person team tasked to designed, built, and tested a wind turbine to operate at 140 rpm. Blade profile design was simulated using MATLAB and Xfoil to optimise profile aerodynamics. Optimal profiles were modelled in Dassault Systemes Solidworks and laser cut from sheets of Perspex.</p>
+<p>I led a four-person team tasked to design, build, and test a wind turbine at 140 rpm. Simulation tested Blade profile design using MATLAB and Xfoil to optimize profile aerodynamics. Our team modelled optimal blade profiles in Dassault Systemes Solidworks, laser cut the design from sheets of Perspex and wrapped six blades fastened onto a hub and spoke mechanism connected to a frame in a wind tunnel. Click <a href="http://localhost:4000/downloads/turbine.pdf">here</a> to view submission.</p>
 
-<p>Blade profile aerodynamics were optimised through the maximisation of the power coefficient (\(C_p = \frac{P_E}{P_T}\)) The equations related to blade profile design are displayed below.</p>
+<p>The optimal blade profile design maximized the power coefficient (\(C_p = \frac{P_E}{P_T}\)) underpinning blade aerodynamics. The mathematical equations related to optimizing blade aerodynamics follow:</p>
 
 <p>Equations:</p>
 
@@ -286,7 +365,7 @@ config=TeX-AMS-MML_HTMLorMML"></script>
     </tr>
     <tr>
       <td style="text-align: center">Incremental Torque</td>
-      <td style="text-align: center">\(\Delta Q_{i,i+1} = \int_{r_{i + 1}}^{r_{i}}P_Trdr\)</td>
+      <td style="text-align: center">\(\Delta Q_{i,i+1} = \int_{r_{i}}^{r_{i+1}}P_Trdr\)</td>
     </tr>
     <tr>
       <td style="text-align: center">Extracted Power</td>
@@ -303,104 +382,58 @@ config=TeX-AMS-MML_HTMLorMML"></script>
   </tbody>
 </table>
 
-<p><a href="http://localhost:4000/downloads/turbine.pdf"><img src="/assets/images/wind-turbine.png" alt="Wind Turbine Project" /></a></p>
+<p><img src="/assets/images/transhipment.png" alt="Transhipment Project" /></p>
 
-<h2 id="transhipment-project"><strong>Transhipment Project</strong></h2>
-
-<p>I led a team of three designing and building a series of models to inform transhipment operations. This project is modelled either using optimisation, conceptual and simulation models. The optimisation model is a linear optimisation model, written in AMPL, to model fruit produce flows from producers to packhouses to markets. The model minimises packaging and transportation costs across 10 different demand forecasts. The conceptual and simulation models are alternatives to this optimisation model. The objective function driving the optimisation model follows.</p>
+<p>I led a team of three in designing and building a series of models to inform transhipment operations. This project is modelled either using optimization, conceptual or simulation models. The optimization model is a linear optimization model, written in AMPL, to model fruit produce flows from producers to packhouses to markets. The model minimizes packaging and transportation costs across ten different demand forecasts. The conceptual and simulation models are alternatives to this optimization model. The objective function driving the optimization model follows:</p>
 
 \[\sum\_{i} \sum\_{j} \sum\_{p} C\_{(i,j)} F\_{(i,j,p)} + \sum\_{m} \sum\_{h} N PC\_{m} B\_{(m,h)}\]
 
-<p>Where C is the cost to transport product between an origin (i) &amp; destination (j) packhouse, F (Flow) is the number of product units to ship between origin and destination in a period (p), N is number of periods, PC is packing cost for a packing machine (m), and B is the build costs for a pack machine in a packhouse (h).</p>
+<p>Where C is the cost to transport product between an origin (i) &amp; destination (j) packhouse, F (Flow) is the number of product units to ship between origin and destination in a period (p), N is the number of periods, PC is packing cost for a packing machine (m), and B is the build costs for a packing machine in a packhouse (h). Click <a href="http://localhost:4000/downloads/tranship.pdf">here</a> to view submission.</p>
 
-<p><a href="http://localhost:4000/downloads/tranship.pdf"><img src="/assets/images/transhipment.png" alt="Transhipment Project" /></a></p>
+<p><img src="/assets/images/cibcc.png" alt="CIBCC Competition" /></p>
 
-<h2 id="chulalongkorn-international-business-case-competition-2019"><strong>Chulalongkorn International Business Case Competition (2019)</strong></h2>
+<p>I represented the University of Auckland Case Programme, competing against 20 teams worldwide to develop and present strategies for Line Mobile and Sea Thailand at the Chulalongkorn International Business Case Competition (CIBCC) in Koh Samui, Thailand. Our team presented our analysis on Sea Limited, placing 3rd in the competition. Click <a href="http://localhost:4000/downloads/cibcc.pdf">here</a> to view submission.</p>
 
-<p>I represented the University of Auckland Case Programme, competing against 20 teams worldwide to develop and present strategies for Line Mobile and Sea Thailand at the Chulalongkorn International Business Case Competition (CIBCC) in Koh Samui, Thailand. Our team presented our analysis on Sea Limited, placing 3rd in the competition.</p>
+<p><img src="/assets/images/programming.png" alt="Programming Assignments" /></p>
 
-<p><a href="http://localhost:4000/downloads/cibcc.pdf"><img src="/assets/images/cibcc.png" alt="CIBCC Competition" /></a></p>
+<p>I completed assignments to improve coding skills in Python, C++, MatLab, SQL, VBA, AMPL and Git. These assignments covered Eigen problems, Finite Differences, Non Linear Equations, Ordinary Differential Equations, Partial Differential Equations (PDE’s) and Databases. Click <a href="http://localhost:4000/downloads/code.pdf">here</a> to view submission.</p>
 
-<h2 id="programming-1"><strong>Programming</strong></h2>
-
-<p>I completed several assignments to improve coding skills in Python, C++, MatLab, SQL, VBA, AMPL and Git.
-These assignments covered Eigen problems, Finite Differences, Non Linear Equations, Ordinary Differential Equations, Partial Differential Equations (PDE’s) and Databases. The following examples include some of</p>
-
-<p>Application of finite difference approximations to track heat flow. This behaviour is modelled using the following PDE:</p>
+<p>One example is an application of finite difference approximations to track heat flow. I model this flow using the following PDE:</p>
 
 \[\frac{\partial^{2}u }{\partial x^{2} } + \frac{\partial^{2}u }{\partial y^{2} } - \alpha \frac{\partial u }{\partial t } = 0\]
 
-<p>Python function to run the IBM ILOG CPLEX Optimisation locally:</p>
+<p><img src="/assets/images/design.png" alt="Design Project" /></p>
 
-<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code>    <span class="k">def</span> <span class="nf">run_cplex_local</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="n">model_file</span><span class="p">):</span>
-        <span class="s">""" This function runs cplex on the local device if the energy system
-            is of a small enough complexity
-        """</span>
-        <span class="c1"># Creates the model structure
-</span>        <span class="n">model</span> <span class="o">=</span> <span class="n">cp</span><span class="p">.</span><span class="n">Cplex</span><span class="p">()</span>
-        <span class="c1"># Produces the results stream and log streams
-</span>        <span class="n">output</span> <span class="o">=</span> <span class="n">model</span><span class="p">.</span><span class="n">set_results_stream</span><span class="p">(</span><span class="bp">None</span><span class="p">)</span>
-        <span class="n">output</span> <span class="o">=</span> <span class="n">model</span><span class="p">.</span><span class="n">set_log_stream</span><span class="p">(</span><span class="bp">None</span><span class="p">)</span>
-        <span class="c1"># Write the energy system model to Cplex
-</span>        <span class="n">model</span><span class="p">.</span><span class="n">read</span><span class="p">(</span><span class="n">model_file</span><span class="p">)</span>
-        <span class="c1"># Solve the model using the version of Cplex installed on the local
-</span>        <span class="c1"># device (IBM ILOG CPLEX Optimisation Studio)
-</span>        <span class="n">model</span><span class="p">.</span><span class="n">solve</span><span class="p">()</span>
-        <span class="c1"># Return the value of the objective function
-</span>        <span class="n">objective_value</span> <span class="o">=</span> <span class="n">model</span><span class="p">.</span><span class="n">solution</span><span class="p">.</span><span class="n">get_objective_value</span><span class="p">()</span>
-        <span class="k">return</span> <span class="n">objective_value</span>
-</code></pre></div></div>
+<p>I completed several design projects. One was designing, modelling, and rendering a household item in PTC Creo. I chose a Gillette fusion proglide razor. The second was an interface (team of five) to create user-defined catapult designs and three-dimensional Solidworks models from user designs (Individually). The user interface includes animations programmed in VBA and APIs to manipulate the 3D model. Click <a href="http://localhost:4000/downloads/design.pdf">here</a> to view submission.</p>
 
-<p><a href="http://localhost:4000/downloads/code.pdf"><img src="/assets/images/programming.png" alt="Programming Assignments" /></a></p>
+<p><img src="/assets/images/optimisation.png" alt="Optimisation Assignments" /></p>
 
-<h2 id="design"><strong>Design</strong></h2>
+<p>I completed several assignments to develop skills to solve optimisation skills. I covered dynamic programming, heuristics, decision making under uncertainty and set partitioning. Click <a href="http://localhost:4000/downloads/optimisation.pdf">here</a> to view submission. Some examples follow:</p>
 
-<p>I completed several design projects. One was to design, model and render a household item in PTC Creo. I chose a Gillette fusion proglide razor. The second was an interface (team of five) to create user-defined catapult designs and three dimensional Solidworks models from user designs (Individually). The user interface includes animations programmed in VBA and API’s to manipulate the 3D model.</p>
-
-<p><a href="http://localhost:4000/downloads/design.pdf"><img src="/assets/images/design.png" alt="Design Project" /></a></p>
-
-<h2 id="optimisation"><strong>Optimisation</strong></h2>
-
-<p>I completed several assignments to develop skills to solve optimisation skills. I covered dynamic programming, heuristics, decision making under uncertainty and set partitioning. Some examples follow.</p>
-
-<p>The use of dynamic programming to evaluate whether to reject an applicant or hire the applicant and stop interviewing:</p>
+<p>First, using dynamic programming to evaluate whether to reject an applicant or hire the applicant and stop interviewing:</p>
 
 \[\hat{V}_{N} = \int_{0}^{\hat{V}_{N+1}} \hat{V}_{N+1} f(r)dr + \int_{\hat{V}_{N+1}}^{\infty} rf(r)dr\]
 
-<p>The calculation of expected profit from a manufacturing process. Mean hitting times are calculated by considering the probability the product will reach a different state from another state on another process iteration. One transition probability matrix and five separate states were considered (unfinished, poor, good, scrap and average):</p>
+<p>Second, calculating expected profit from a manufacturing process. Mean hitting times are calculated by considering the probability the product will reach a different state from another state on another process iteration. One transition probability matrix and five separate states were considered (unfinished, poor, good, scrap and average):</p>
 
 \[M_{ij} = 1 + \sum_{k=1}^{n} P_{ik} \times M_{kj} \text{ where } i \neq j\]
 
-<p><a href="http://localhost:4000/downloads/optimisation.pdf"><img src="/assets/images/optimisation.png" alt="Optimisation Assignments" /></a></p>
+<p><img src="/assets/images/academia/corporate-governance.png" alt="Corporate Governance" /></p>
 
-<h2 id="corporate-governance"><strong>Corporate Governance</strong></h2>
+<p>I completed assignments addressing corporate governance-related theories and applications. Click <a href="http://localhost:4000/downloads/cmcd398-corporate-governance.pdf">here</a> to view submission.</p>
 
-<p>I completed several assignments addressing corporate governance-related theories and applications.</p>
+<p><img src="/assets/images/lit-review.png" alt="Literature Reviews &amp; Proposals" /></p>
 
-<p><a href="http://localhost:4000/downloads/cmcd398-corporate-governance.pdf"><img src="/assets/images/academia/corporate-governance.png" alt="Corporate Governance" /></a></p>
+<p>My literature review explores data science applications in private equity, intending to inform investment due diligence. Click <a href="http://localhost:4000/downloads/cmcd398-lit-review-research-proposal.pdf">here</a> to view submission.</p>
 
-<h2 id="literature-review--proposals"><strong>Literature Review &amp; Proposals</strong></h2>
-
-<p>My literature review informs the subsequent research proposal, grounded in prior research, exploring applications of data science to private equity.
-The intention is to inform investment due diligence.
-However, the required time to implement the proposal exceeds the time allocated to the BCOM(Honours) research essay given the proposal’s complexity.</p>
-
-<p><a href="http://localhost:4000/downloads/cmcd398-lit-review-research-proposal.pdf"><img src="/assets/images/lit-review.png" alt="Literature Reviews &amp; Proposals" /></a></p>
-
-<h2 id="machine-learning--corporate-culture"><strong>Machine Learning &amp; Corporate Culture</strong></h2>
+<p><img src="/assets/images/ML-CC.png" alt="Machine Learning &amp; Corporate Culture" /></p>
 
 <p>I implemented Stanford’s Core Natural Language Processing Algorithm to ascertain measures for corporate culture across NZX/ASX listed companies.
-This assignment replicates the methodology implemented by Li et al. (2021), accessible on <a href="https://github.com/MS20190155/Measuring-Corporate-Culture-Using-Machine-Learning">Github</a>.</p>
+This assignment replicates the methodology implemented by Li et al. (2021), accessible on <a href="https://github.com/MS20190155/Measuring-Corporate-Culture-Using-Machine-Learning">Github</a>. Click <a href="http://localhost:4000/downloads/cmcd398-ml-corporate-culture.pdf">here</a> to view submission.</p>
 
-<p><a href="http://localhost:4000/downloads/cmcd398-ml-corporate-culture.pdf"><img src="/assets/images/ML-CC.png" alt="Machine Learning &amp; Corporate Culture" /></a></p>
+<p><img src="/assets/images/academia/technical-analysis.png" alt="Technical Analysis" /></p>
 
-<h2 id="technical-analysis"><strong>Technical Analysis</strong></h2>
-
-<p>I conducted various forms of technical analysis to inform empirical assignments. Methods include Fama-MacBeth regressions, co-integration testing and Bollinger Band trading strategies.</p>
-
-<p><a href="http://localhost:4000/downloads/cmcd398-technical-analysis.pdf"><img src="/assets/images/academia/technical-analysis.png" alt="Technical Analysis" /></a></p>
-
-\[\]
+<p>I conducted technical analysis to inform empirical assignments. Methods include Fama-MacBeth regressions, co-integration testing, and Bollinger Band trading strategies. Click <a href="http://localhost:4000/downloads/cmcd398-technical-analysis.pdf">here</a> to view submission.</p>
 
       </div>
     </main><footer class="site-footer h-card">
