@@ -4,13 +4,11 @@ title: Academia
 driveId: 1rW4om3FqDZl6quL-0PVW-l-c71CBFPBF/preview
 ---
 
-Academia exp
-
-Please click any of the graphics to review project material and reports.
+Academia explains my research outcomes
 
 ## **Finance (Honours): Long-Short Hedge Portfolios & Deep Neural Networks**
 
-[![Project Outline](/assets/images/finance-honours.png)]({{ site.url }}/downloads/cmcd398-research-essay.pdf)
+[![Project Outline](/assets/images/finance-honours.png)]
 
 ### **Theory & Hypotheses**
 
@@ -173,6 +171,22 @@ class custom_hp(tf.keras.losses.Loss):
 ```
 
 ### **Outcomes**
+
+There were a handful of contributions:
+
+1. It is feasible to reconfigure neural networks for maximisation and use custom loss functions with the TensorFlow Keras module. However, the economic significance still needs to be answered.
+2. The factor portfolio dataset is suitable for this analysis, given its size and quality.
+
+However, a few limitations persist:
+
+1. Only one neural network configuration is considered. Simulating different architectures would improve analysis.
+2. Does not compare against other optimisation techniques, e.g., reinforcement learning, dynamic programming etc.
+3. The dataset required condensing, given its size and cost to use the entire set.
+
+Both hypotheses have proven true.
+
+1. Can you reconfigure a neural network from maximisation objectives given: **Argmax $$f(x)$$ = Argmin $$-f(x)$$**? **Yes**
+2. Given the fundamental theory behind these models, A hedge portfolio loss function will not outperform standard minimisation functions? **Yes**
 
 ### **Resources**
 
