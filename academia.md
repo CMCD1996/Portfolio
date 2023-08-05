@@ -4,7 +4,7 @@ title: Academia
 driveId: 1rW4om3FqDZl6quL-0PVW-l-c71CBFPBF/preview
 ---
 
-I completed a range of assignments and research projects during University. This pages explains major projects and access to my assignments.
+Academia exp
 
 Please click any of the graphics to review project material and reports.
 
@@ -14,26 +14,26 @@ Please click any of the graphics to review project material and reports.
 
 ### **Theory & Hypotheses**
 
-Machine learning models optimise a loss function by iteratively fine tuning model parameters to minimise the difference between actual observations & predicted outcomes. Portfolio managers seek to maximise excess returns while diversifying idiosyncratic risk by using trading strategies e.g., Trading long-short equity hedge portfolios.
+Machine learning models optimise a loss function by iteratively finetuning model parameters to minimise the difference between actual observations & predicted outcomes. Portfolio managers seek to maximise excess returns while diversifying idiosyncratic risk with trading strategies, e.g., Trading long-short equity hedge portfolios.
 
-I reconfigured a neural network to directly use a hedge portfolio loss function to maximise excess returns of one month lead long-short hedge portfolios.
+I reconfigured a neural network to directly use a hedge portfolio loss function to maximise excess returns of one-month lead long-short hedge portfolios.
 
-Analysis tested the reconfigured model's ability to generate statistically and economically significant results, outperform standard configurations, and align with a portfolio manager's mandate. Hypothetically,
+The analysis tested the reconfigured model's ability to generate statistically and economically significant results, outperform standard configurations, and align with a portfolio manager's mandate. Hypothetically,
 
 1. It is possible to reconfigure a neural network from maximisation problems given: **Argmax $$f(x)$$ = Argmin $$-f(x)$$**.
-2. A hedge portfolio loss function will not outperform standard minimisation functions given the fundamental theory behind these models.
+2. Given the fundamental theory behind these models, A hedge portfolio loss function will not outperform standard minimisation functions.
 
 ### **Data**
 
-I used a global factor dataset published by [Jensen et al. (2021)](https://github.com/bkelly-lab/ReplicationCrisis) using [CRSP](https://crsp.org) and [Compustat](https://www.spglobal.com/marketintelligence/en/?product=compustat-research-insight) by S&P Global. The dataset is comprised of individual firm-year observations across countries with a 1-month holding period factor for each characteristic e.g., book-to-market ratio. A factor represents a characteristic's contribution to a portfolio's excess returns to if included in a long-short zero net investment strategy calculated by:
+I used a global factor dataset published by [Jensen et al. (2021)](https://github.com/bkelly-lab/ReplicationCrisis) using [CRSP](https://crsp.org) and [Compustat](https://www.spglobal.com/marketintelligence/en/?product=compustat-research-insight) from S&P Global. The dataset includes individual firm-year observations across countries with a 1-month holding period factor for each characteristic, e.g., book-to-market ratio. A factor represents a characteristic's contribution to a portfolio's excess returns if included in a long-short zero net investment strategy calculated by:
 
 1. Sorting stocks into terciles for each characteristic for each country and month;
-2. Defining factors by high-tercile returns minus low-tercile returns to align with a zero cost investment strategy, calculating each factors' alpha using an Ordinary least squares (OLS) regression on a constant and region's market return;
-3. Clustering factors by signing factors and equally weighting returns of a factors within a specific cluster.
+2. Defining factors by high-tercile returns minus low-tercile returns to align with a zero-cost investment strategy, calculating each factor's alpha using an Ordinary least squares (OLS) regression on a constant and region's market return;
+3. Clustering factors by signing factors and equally weighting returns of factors within a specific cluster.
 
 ### **Model Architecture**
 
-An input, ouput, and multiple hidden layers contribute to standard deep neutral network topography (left). I configured a deep neutral network with an input layer, output layer, three dense hidden layers, & one dropout hidden layer to mitigate overfitting (right) using Google's open-source machine learning platform [Tensorflow](https://www.tensorflow.org/).
+An input, output, and multiple hidden layers contribute to standard deep neutral network topography (left). Using Google's [Tensorflow](https://www.tensorflow.org/) open-source machine learning platform, I configured a deep neural network with an input layer, an output layer, three dense hidden layers, & one dropout hidden layer to mitigate overfitting (right).
 
 | ![](assets/images/academia/neural-network.png) | ![](assets/images/academia/nn-configuration.png) |
 
@@ -45,7 +45,7 @@ Firstly, I define a standard monotonical ranking function as:
 
 $$R(y_{i,t})$$
 
-Secondly, I mathematically express long (L) and short (S) portfolios where L is set of long positions, S is a set of short positions, $$y_{i,t}$$ is the excess return for a given asset (i) in a month (t) with u and v lower and upper bounds on excess returns, respectively.
+Secondly, I mathematically express long (L) and short (S) portfolios where L is set of long positions, S is a set of short positions, $$y_{i,t}$$ is the excess return for a given asset (i) in a month (t) with u and v lower and upper bounds on excess returns, respectively:
 
 $$L=\{ y_{i,t} \| R(y_{i,t})\leq u\}$$
 
@@ -61,7 +61,7 @@ Next, I define a hedge portfolio:
 
 $$H_{t} = \frac{1}{\|L\|}\sum_{i\epsilon L} y_{(i,t)} - \frac{1}{\|S\|}\sum_{i\epsilon S} y_{(i,t)}$$
 
-There are permutations to ranking functions & hedge portfolios. I use a monotonical non-increasing ranking function proportionally weighted to one month lead excess returns as follows:
+The variation of hedge portfolio and ranking functions permeate. I use a monotonical non-increasing ranking function proportionally weighted to one month lead excess returns as follows:
 
 $$R(\hat{y})= W$$
 
@@ -71,24 +71,24 @@ $$\hat{y}=X^{T} \hat{\theta}$$
 
 $$f_{\hat{\theta}}(X) = (\frac{X^{T} \hat{\theta}}{\vec{\textbf{1}}X^{T} \hat{\theta}})^\top X^{T} \hat{\theta}$$
 
-W is a vector of weights, $$\hat{y}$$ is a vector of predicted outcomes, $$\hat{\theta}$$ is a matrix of estimate parameters in the neural network, and X is the global factor dataset.
+W is a vector of weights, $$\hat{y}$$ is a vector of predicted outcomes, $$\hat{\theta}$$ is a matrix of estimated parameters in the neural network, and X is the global factor dataset.
 
-Stochastic gradient descent is one of the most common optimisation techniques applied to machine learning algorithmns. It is an iterative technique to train models. The algorithmn works as follows:
+Stochastic gradient descent is one of the most common optimisation techniques applied to machine learning algorithms. It is an iterative technique to train models. The algorithm works as follows:
 
-1. Determines the partial derivatives your objective function with respect to each feature.
-2. Selects a random combination of parameters in feature space as an starting point.
-3. Updates partial derivative functions using aforementioned paraemeters.
+1. Determines the partial derivatives of your objective function with respect to each feature.
+2. Selects a random combination of parameters in the feature space as a starting point.
+3. Updates partial derivative functions using the parameters above.
 4. Calculates step size for each feature: **step size = gradient x learning rate**
 5. Calculates new parameters by: **new = old - step size**
-6. Repeats until locates a global or local minima in feature space.
+6. Repeats until it locates global or local minima in feature space.
 
-Finally, I express the monotonical non-increasing ranking function's partial derivative. Tensorflow will calculate this function using Keras Backend as the module has the ability to automatically differentiate novel functions:
+Finally, I express the monotonical non-increasing ranking function's partial derivative. Tensorflow will calculate this function using Keras Backend as the module can automatically differentiate novel functions:
 
 $$\frac{\partial f_{\hat{\theta}}(X)}{\partial \hat{\theta}} = \frac{\partial ((\frac{X^{T} \hat{\theta}}{\vec{\textbf{1}}X^{T} \hat{\theta}})^\top X^{T} \hat{\theta})}{\partial \hat{\theta}}$$
 
 $$\frac{\partial (f_{\hat{\theta}}(X))}{\partial \hat{\theta}} = \frac{1}{(\hat{\theta}^\top X \vec{1})} X X^\top \hat{\theta} +\frac{1}{\vec{1}X^\top \hat{\theta}} XX^\top \hat{\theta} -\frac{1}{(\hat{\theta}^\top X \vec{1})^{2}} \hat{\theta}^\top XX^\top \hat{\theta} X \vec{1}$$
 
-I compare the monotonic hedge portfolio function to two mean squared error loss functions;Tensorflow's inbuilt function and a custom mean square error loss function. The purpose to compare performance of hedge portfolio function and validate tensorflow's Keras Backend module in programming custom objective functions.
+I compare the monotonic hedge portfolio function to two mean squared error loss functions; Tensorflow's inbuilt function and a custom mean square error loss function. This comparison aims to test the performance of the hedge portfolio function and validate TensorFlow's Keras Backend module in programming custom objective functions.
 
 In summary:
 
@@ -106,13 +106,73 @@ In summary:
 | Objective                     | $$\text{argmax}_{\hat{\theta}}:(f_{\hat{\theta}}(X))$$                                                                                                                                                                                                                                     |
 | Partial Differential Equation | $$\frac{\partial (f_{\hat{\theta}}(X))}{\partial \hat{\theta}}  = \frac{1}{(\hat{\theta}^\top X \vec{1})} X X^\top \hat{\theta} +\frac{1}{\vec{1}X^\top \hat{\theta}} XX^\top \hat{\theta} -\frac{1}{(\hat{\theta}^\top X \vec{1})^{2}} \hat{\theta}^\top XX^\top \hat{\theta} X \vec{1}$$ |
 
-### **Programming**
+### **Infrastucture & Programming**
 
-TBC
+I used [Google's Cloud Platform](https://cloud.google.com/?hl=en) to manage datasets, train, validate, and test models. Cryptographic network protocols in the form of secure shells established remove connections from a local machine to the virtual machine to execute commands.
+
+1. Set up a virtual machine on Google Cloud's Compute Engine. The instance was a n1-standard-8 machine with an Intel Broadwell Central Processing Unit (CPU) and a NVIDIA Tesla K80 Graphics Processing Unit (GPU).
+2. Set up Google Cloud Storage buckets to store and manage large datasets.
+3. Programmed a set of functions to implement:
+   1. Set controls to monitor CPU & GPU memory usage, reconfigure GPU memory usage, and set the number of GPUs if required.
+   2. Partition process feature set into a training, testing, and validation subsets on the virtual machine.
+   3. Calculate risk-adjusted performance measures and fama-french factor pricing models to compare functions.
+   4. Create feature lists and convert data frames into TensorFlow datasets.
+   5. Create normalisation layers and encode numerical and categorical features in the feature set.
+   6. Build a user-defined neural network using a generalised framework.
+   7. Create and model learning curves using [neptune.ai](https://neptune.ai), an MLOps stack component for experiment tracking to log, organise, compare, register, and share all machine learning model metadata.
+   8. Make predictions using the trained, tested, and validated model.
+   9. Create classes defining mean squared error & hedge portfolio loss functions.
+
+The hedge portfolio loss function follows:
+
+```python
+class custom_hp(tf.keras.losses.Loss):
+"""Custom Hedge Portfolio Function Class
+
+        Args:
+            tf (env): Tensorflow keras losses environment
+        """
+
+        def __init__(self, extra_tensor=None, reduction=tf.keras.losses.Reduction.AUTO, name='custom_hp'):
+            """Initialisation of custom hedge portfolio function
+
+            Args:
+                extra_tensor (tensor, optional): Original tensor format. Defaults to None.
+                reduction (red, optional): Reduction. Defaults to tf.keras.losses.Reduction.AUTO.
+                name (str, optional): name of function. Defaults to 'custom_hp'.
+            """
+            super().__init__(reduction=reduction, name=name)
+            self.extra_tensor = extra_tensor
+
+        def call(self, y_true, y_pred):
+            """Call for hp loss function
+
+            Args:
+                y_true (tf): Tensor of realisations
+                y_pred (tf): Tensor of predictions
+
+            Returns:
+                : Loss
+            """
+            extra_tensor = self.extra_tensor
+            # Calculates sum over vector tensors
+            y_true_sum = K.sum(y_true)
+            y_pred_sum = K.sum(y_pred)
+            #
+            y_true_weights = (y_true/y_true_sum)
+            y_pred_weights = (y_pred/y_pred_sum)
+            # Transpose the weights
+            y_true_transposed = K.transpose(y_true_weights)
+            y_pred_transposed = K.transpose(y_pred_weights)
+            # Multiply by the weights
+            y_true_loss = K.dot(y_true_transposed, y_true)
+            y_pred_loss = K.dot(y_pred_transposed, y_pred)
+            loss = -1*(y_pred_loss)
+            return loss
+
+```
 
 ### **Outcomes**
-
-TBC
 
 ### **Resources**
 
@@ -161,7 +221,7 @@ Equations:
 |        Blade Solidarity         |                         $$ \sigma^{'} = \frac{Bc}{2 \pi r}$$                         |
 |     Axial Induction Factor      |             $$a = \frac{\sigma^{'} C_n}{4Fsin^{2}(\Phi)+\sigma^{'}C_n}$$             |
 |         Tangential Load         |                 $$\frac{1}{2}\rho \frac{V_{u}^{2}}{sin^{2}(\Phi)}$$                  |
-|       Incremental Torque        |                $$\Delta Q_{i,i+1} = \int_{r_{i + 1}}^{r_{i}}P_Trdr$$                 |
+|       Incremental Torque        |                 $$\Delta Q_{i,i+1} = \int_{r_{i}}^{r_{i+1}}P_Trdr$$                  |
 |         Extracted Power         |                                  $$P_E = Q \Sigma$$                                  |
 |         Power Available         |                        $$\frac{1}{2}\rho \pi R^2 V_{u}^{3}$$                         |
 |       Power Co-efficient        |                              $$C_P = \frac{P_E}{P_T}$$                               |
