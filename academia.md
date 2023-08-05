@@ -8,7 +8,7 @@ Academia explains my research outcomes
 
 ## **Finance (Honours): Long-Short Hedge Portfolios & Deep Neural Networks**
 
-[![Project Outline](/assets/images/finance-honours.png)]
+[Project Outline](/assets/images/finance-honours.png)
 
 ### **Theory & Hypotheses**
 
@@ -198,9 +198,9 @@ Both hypotheses have proven true.
 
 ## **Engineering (Honours): Energy System Build & Design**
 
-My research project explored developing an open-source energy modelling tool for users to design custom energy systems. The model intends to inform policy and investment in sustainable technology. The model uses Python, Excel, GNU Mathprog and IBM Watson Machine Learning services.
-
 [![Project Outline](/assets/images/engineering-honours.png)]({{ site.url }}/downloads/gocpi.pdf)
+
+My research project explored developing an open-source energy modelling tool for users to design custom energy systems. The model intends to inform policy and investment in sustainable technology. The model uses Python, Excel, GNU Mathprog and IBM Watson Machine Learning services.
 
 ### GOCPI Information, References and Required Software
 
@@ -215,6 +215,8 @@ My research project explored developing an open-source energy modelling tool for
 - [OseMOSY GitHub Repository](https://github.com/OSeMOSYS/OSeMOSYS)
 
 ## **Prototype Wind Turbine**
+
+[![Wind Turbine Project](/assets/images/wind-turbine.png)]({{ site.url }}/downloads/turbine.pdf)
 
 I led a four-person team tasked to design, build, and test a wind turbine at 140 rpm. Simulation tested Blade profile design using MATLAB and Xfoil to optimize profile aerodynamics. Our team modelled optimal blade profiles in Dassault Systemes Solidworks, laser cut the design from sheets of Perspex and wrapped six blades fastened onto a hub and spoke mechanism connected to a frame in a wind tunnel.
 
@@ -240,9 +242,9 @@ Equations:
 |         Power Available         |                        $$\frac{1}{2}\rho \pi R^2 V_{u}^{3}$$                         |
 |       Power Co-efficient        |                              $$C_P = \frac{P_E}{P_T}$$                               |
 
-[![Wind Turbine Project](/assets/images/wind-turbine.png)]({{ site.url }}/downloads/turbine.pdf)
-
 ## **Transhipment Project**
+
+[![Transhipment Project](/assets/images/transhipment.png)]({{ site.url }}/downloads/tranship.pdf)
 
 I led a team of three in designing and building a series of models to inform transhipment operations. This project is modelled either using optimization, conceptual or simulation models. The optimization model is a linear optimization model, written in AMPL, to model fruit produce flows from producers to packhouses to markets. The model minimizes packaging and transportation costs across ten different demand forecasts. The conceptual and simulation models are alternatives to this optimization model. The objective function driving the optimization model follows:
 
@@ -250,15 +252,15 @@ $$ \sum\_{i} \sum\_{j} \sum\_{p} C\_{(i,j)} F\_{(i,j,p)} + \sum\_{m} \sum\_{h} N
 
 Where C is the cost to transport product between an origin (i) & destination (j) packhouse, F (Flow) is the number of product units to ship between origin and destination in a period (p), N is the number of periods, PC is packing cost for a packing machine (m), and B is the build costs for a packing machine in a packhouse (h).
 
-[![Transhipment Project](/assets/images/transhipment.png)]({{ site.url }}/downloads/tranship.pdf)
-
 ## **Chulalongkorn International Business Case Competition (2019)**
-
-I represented the University of Auckland Case Programme, competing against 20 teams worldwide to develop and present strategies for Line Mobile and Sea Thailand at the Chulalongkorn International Business Case Competition (CIBCC) in Koh Samui, Thailand. Our team presented our analysis on Sea Limited, placing 3rd in the competition.
 
 [![CIBCC Competition](/assets/images/cibcc.png)]({{ site.url }}/downloads/cibcc.pdf)
 
+I represented the University of Auckland Case Programme, competing against 20 teams worldwide to develop and present strategies for Line Mobile and Sea Thailand at the Chulalongkorn International Business Case Competition (CIBCC) in Koh Samui, Thailand. Our team presented our analysis on Sea Limited, placing 3rd in the competition.
+
 ## **Programming**
+
+[![Programming Assignments](/assets/images/programming.png)]({{ site.url }}/downloads/code.pdf)
 
 I completed assignments to improve coding skills in Python, C++, MatLab, SQL, VBA, AMPL and Git. These assignments covered Eigen problems, Finite Differences, Non Linear Equations, Ordinary Differential Equations, Partial Differential Equations (PDE's) and Databases.
 
@@ -266,15 +268,15 @@ one example is an application of finite difference approximations to track heat 
 
 $$\frac{\partial^{2}u }{\partial x^{2} } + \frac{\partial^{2}u }{\partial y^{2} } - \alpha \frac{\partial u }{\partial t } = 0 $$
 
-[![Programming Assignments](/assets/images/programming.png)]({{ site.url }}/downloads/code.pdf)
-
 ## **Design**
-
-I completed several design projects. One was designing, modelling, and rendering a household item in PTC Creo. I chose a Gillette fusion proglide razor. The second was an interface (team of five) to create user-defined catapult designs and three-dimensional Solidworks models from user designs (Individually). The user interface includes animations programmed in VBA and APIs to manipulate the 3D model.
 
 [![Design Project](/assets/images/design.png)]({{ site.url }}/downloads/design.pdf)
 
+I completed several design projects. One was designing, modelling, and rendering a household item in PTC Creo. I chose a Gillette fusion proglide razor. The second was an interface (team of five) to create user-defined catapult designs and three-dimensional Solidworks models from user designs (Individually). The user interface includes animations programmed in VBA and APIs to manipulate the 3D model.
+
 ## **Optimisation**
+
+[![Optimisation Assignments](/assets/images/optimisation.png)]({{ site.url }}/downloads/optimisation.pdf)
 
 I completed several assignments to develop skills to solve optimisation skills. I covered dynamic programming, heuristics, decision making under uncertainty and set partitioning. Some examples follow:
 
@@ -286,29 +288,27 @@ Second, calculating expected profit from a manufacturing process. Mean hitting t
 
 $$M_{ij} = 1 + \sum_{k=1}^{n} P_{ik} \times M_{kj} \text{ where } i \neq j$$
 
-[![Optimisation Assignments](/assets/images/optimisation.png)]({{ site.url }}/downloads/optimisation.pdf)
-
 ## **Corporate Governance**
-
-I completed assignments addressing corporate governance-related theories and applications.
 
 [![Corporate Governance](/assets/images/academia/corporate-governance.png)]({{ site.url }}/downloads/cmcd398-corporate-governance.pdf)
 
-## **Literature Review & Proposals**
+I completed assignments addressing corporate governance-related theories and applications.
 
-My literature review explores data science applications in private equity, intending to inform investment due diligence.
+## **Literature Review & Proposals**
 
 [![Literature Reviews & Proposals](/assets/images/lit-review.png)]({{ site.url }}/downloads/cmcd398-lit-review-research-proposal.pdf)
 
+My literature review explores data science applications in private equity, intending to inform investment due diligence.
+
 ## **Machine Learning & Corporate Culture**
+
+[![Machine Learning & Corporate Culture](/assets/images/ML-CC.png)]({{ site.url }}/downloads/cmcd398-ml-corporate-culture.pdf)
 
 I implemented Stanford's Core Natural Language Processing Algorithm to ascertain measures for corporate culture across NZX/ASX listed companies.
 This assignment replicates the methodology implemented by Li et al. (2021), accessible on [Github](https://github.com/MS20190155/Measuring-Corporate-Culture-Using-Machine-Learning).
 
-[![Machine Learning & Corporate Culture](/assets/images/ML-CC.png)]({{ site.url }}/downloads/cmcd398-ml-corporate-culture.pdf)
-
 ## **Technical Analysis**
 
-I conducted technical analysis to inform empirical assignments. Methods include Fama-MacBeth regressions, co-integration testing, and Bollinger Band trading strategies.
-
 [![Technical Analysis](/assets/images/academia/technical-analysis.png)]({{ site.url }}/downloads/cmcd398-technical-analysis.pdf)
+
+I conducted technical analysis to inform empirical assignments. Methods include Fama-MacBeth regressions, co-integration testing, and Bollinger Band trading strategies.
