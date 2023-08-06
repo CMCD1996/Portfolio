@@ -3,16 +3,12 @@ layout: default
 title: Literature
 ---
 
-I outline what I am current reading, my favourite books, and books completed from January 2021 onwards. A set of statistics and KPIs summarise my reading with books categorized by genre. Books re-read are not relisted but included in reading statistics.
-
-## **Currently Reading**
+### **Currently Reading**
 
 1. [Cutting for Stone by Abraham Verghese (688pg)](https://www.amazon.com.au/Cutting-Stone-Abraham-Verghese/dp/0375714367)
 2. [SuperFreakonomics: Global Cooling, Patriotic Prostitutes, and Why Suicide Bombers Should Buy Life Insurance by by Steven D. Levitt and Stephen J. Dubner (320pg)](https://www.amazon.com/SuperFreakonomics-Cooling-Patriotic-Prostitutes-Insurance/dp/0060889586)
 
-## **Favourites**
-
-Favourite reads, evolving over time.
+### **Favourites**
 
 1. [Grit: The Power of Passion and Perseverance by Angela Duckworth (352pg)](https://www.amazon.com/Grit-Passion-Perseverance-Angela-Duckworth/dp/1501111108)
 2. [To Kill a Mockingbird by Harper Lee (384pg)](https://www.amazon.com/Kill-Mockingbird-Harper-Lee/dp/0446310786)
@@ -21,7 +17,7 @@ Favourite reads, evolving over time.
 5. [Bad Blood: Secrets and Lies in a Silicon Valley Startup by John Carreyrou (352pg)](https://www.amazon.com/Bad-Blood-Secrets-Silicon-Startup/dp/152473165X)
 6. [Being Mortal by Atul Gawande (282pg)](https://www.amazon.com/Being-Mortal-Illness-Medicine-Matters/dp/1250081246)
 
-## **Upcoming Reading**
+### **Upcoming Reading**
 
 1. [Why Nations Fail: The Origins of Power, Prosperity and Poverty by Daron Acemoglu and James A. Robinson (556pg)](https://www.amazon.com/Why-Nations-Fail-Origins-Prosperity-ebook/dp/B007HLIUN4)
 2. [Chip War: The Fight for the World's Most Critical Technology by Chris Miller (464pg)](https://www.amazon.com.au/Chip-War-Worlds-Critical-Technology/dp/1982172002)
@@ -40,11 +36,11 @@ Favourite reads, evolving over time.
 3. [Steve Jobs by Walter Isaacson (656pg) ](https://www.amazon.com/Steve-Jobs-Walter-Isaacson/dp/1451648537)
 4. [Belonging: The Science of Creating Connection and Bridging Divides by Geoffrey L. Cohen (448pg)](https://www.amazon.com/Belonging-Science-Creating-Connection-Bridging/dp/1324006188)
 
-## **Completed**
+### **Completed**
 
-Books read from January 2021 onwards.
+I list books finished from January 2021 onwards, categorized by genre. Books re-read are not relisted but considered in reading statistics compared to KPIs.
 
-### **Biographies & Memoirs**
+**Biographies & Memoirs**
 
 1. [The Power Broker: Robert Moses & The Fall of New York by Robert A. Caro (1344pg)](https://www.amazon.com/Power-Broker-Robert-Moses-Fall/dp/0394720245)
 2. [Becoming by Michelle Obama (448pg)](https://www.amazon.com/Becoming-Michelle-Obama/dp/1524763136)
@@ -55,7 +51,7 @@ Books read from January 2021 onwards.
 7. [The Ride of a Lifetime: Lessons Learned from 15 Years as CEO of the Walt Disney Company by Robert Iger (272pg)](https://www.amazon.com/Ride-Lifetime-Lessons-Learned-Company/dp/0399592091)
 8. [What It Takes: Lessons in the Pursuit of Excellence by Stephen A. Schwarzman (384pg)](https://www.amazon.com/What-Takes-Lessons-Pursuit-Excellence/dp/1501158147)
 
-### **Business & Money**
+**Business & Money**
 
 1. [Deep Work: Rules for Focused Success in a Distracted World by Cal Newport (304pg)](https://www.amazon.com/Deep-Work-Focused-Success-Distracted/dp/1455586692)
 2. [Principles for Dealing with the Changing World Order: Why Nations Succeed and Fail by Ray Dalio (576pg)](https://www.amazon.com/Changing-World-Order-Nations-Succeed/dp/1982160276)
@@ -73,7 +69,7 @@ Books read from January 2021 onwards.
 14. [Freakonomics by Steven D. Levitt and Stephen J. Dubner (336pg)](https://www.amazon.com.au/Freakonomics-Stephen-J-Dubner/dp/0060731338)
 15. [Big Debt Crises by Ray Dalio (300 pg)](https://www.amazon.com/Big-Debt-Crises-Ray-Dalio/dp/1732689806)
 
-### **Fiction**
+**Fiction**
 
 1. [The Seven Moons of Maali Almeida by Shehan Karunatilaka (400pg)](https://www.amazon.com/Seven-Moons-Maali-Almeida/dp/132406482X/)
 2. [The Great Gatby by F. Scott Fitzgerlad (180pg)](https://www.amazon.com/Great-Gatsby-F-Scott-Fitzgerald/dp/0743273567)
@@ -85,7 +81,7 @@ Books read from January 2021 onwards.
 8. [The God Boy by Ian Cross (180pg)](https://www.amazon.com/God-Boy-Ian-Cross/dp/0140018115)
 9. [To Kill a Mockingbird by Harper Lee (384pg)](https://www.amazon.com/Kill-Mockingbird-Harper-Lee/dp/0446310786)
 
-### **History**
+**History**
 
 1. [How Asia Works by Joe Studwell (400pg)](https://www.amazon.com/How-Asia-Works-Joe-Studwell/dp/0802121322)
 2. [Lords of Finance: The Bankers Who Broke the World by Liaquat Ahamed (576pg)](https://www.amazon.com/Lords-Finance-Bankers-Broke-World/dp/0143116800)
@@ -93,14 +89,14 @@ Books read from January 2021 onwards.
 4. [Capital in the 21st Century by Thomas Piketty (816 pg)](https://www.amazon.com/Capital-Twenty-First-Century-Thomas-Piketty/dp/0674979850)
 5. [Wild Swans: Three Daughters of China by Jung Chang (538pg)](https://www.amazon.com/Wild-Swans-Three-Daughters-China/dp/0743246985)
 
-### **Medicine**
+**Medicine**
 
 1. [When Breathe Becomes Air by Paul Kalanithi (228pg)](https://www.amazon.com/When-Breath-Becomes-Paul-Kalanithi/dp/081298840X)
 2. [Better: A Surgeon's Notes on Performance by Atul Gawande (288pg)](https://www.amazon.com/Better-Surgeons-Performance-Atul-Gawande/dp/0312427654)
 3. [Complications: A Surgeon's Notes on an Imperfect Science by Atul Gawande (269pg)](https://www.amazon.com/Complications-Surgeons-Notes-Imperfect-Science/dp/0312421702)
 4. [Being Mortal by Atul Gawande (282pg)](https://www.amazon.com/Being-Mortal-Illness-Medicine-Matters/dp/1250081246)
 
-### **Lifestyle**
+**Lifestyle**
 
 1. [Ikigai: The Japanese Secret to a Long and Happy Life by Héctor García and Francesc Miralles (208pg)](https://www.amazon.com/Ikigai-Japanese-Secret-Long-Happy/dp/0143130722)
 2. [Grit: The Power of Passion and Perseverance by Angela Duckworth (352pg)](https://www.amazon.com/Grit-Passion-Perseverance-Angela-Duckworth/dp/1501111108)
@@ -109,7 +105,7 @@ Books read from January 2021 onwards.
 5. [Humor, Seriously: Why Humor Is a Secret Weapon in Business and Life by Jennifer Aaker and Naomi Bagdonas (pg 272)](https://www.amazon.com/Humor-Seriously-Secret-Business-harness/dp/0593135288)
 6. [What Happened to You?: Conversations on Trauma, Resilience, and Healing by Oprah Winfrey & Bruce D. Perry (304pg)](https://www.amazon.com/What-Happened-You-Understanding-Resilience/dp/1250223180)
 
-### **Politics & Social Science**
+**Politics & Social Science**
 
 1. [Of Boys and Men: Why the Modern Male Is Struggling, Why It Matters, and What to Do about It by Richard Reeves (256pg)](https://www.amazon.com/Boys-Men-Modern-Struggling-Matters/dp/0815739877)
 2. [Invisible Women: Data Bias in a World Designed for Men by Caroline Criado Perez (272pg)](https://www.amazon.com/Invisible-Women-Data-World-Designed/dp/1419729071)
@@ -123,7 +119,7 @@ Books read from January 2021 onwards.
 
 ### **KPIs & Statistics**
 
-Key reading statistics and key performance indicators. **Last update: 28/05/23**
+Last update: 28/05/23
 
 | Statistics     | Total | 2021 | 2022 | 2023 |  KPI  |
 | :------------- | :---: | :--: | :--: | :--: | :---: |

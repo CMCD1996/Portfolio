@@ -3,9 +3,9 @@ layout: default
 title: Projects
 ---
 
-![Data Analysis](assets/images/data-analysis.png)
-
 ![Cooking](assets/images/food.png)
+
+I spent the 2020/2021 summer practising my cooking skills, preparing the following meals.
 
 |![Roast Leg of Lamb in a Red Wine Jus](/assets/images/projects/food/leg-o-lamb.jpg)|![Slow Cooked Lamb Shanks in a Red Wine Jus](/assets/images/projects/food/lamb-shanks.jpg)|
 |![Roast Pork](/assets/images/projects/food/roast-pork.jpg)|![Pork Spare Ribs with Homemade Ribs Sauce](/assets/images/projects/food/spare-ribs.jpg)|
