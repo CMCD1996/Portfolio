@@ -12,12 +12,13 @@
 # theme: minima
 # plugins:
 #   - jekyll-timeago
-
+github_username: CMCD1996
+instagram_username: connormcdowall
+linkedin_username: connormcdowall
 title: Connor McDowall
 email: connormcdowall@gmail.com
-github_username: CMCD1996
 description: Portfolio
-linkedin_username: connormcdowall
+
 collections:
   protected:
 
