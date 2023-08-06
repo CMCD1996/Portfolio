@@ -3,67 +3,48 @@ layout: default
 title: Community
 ---
 
-This page describes my contributions to the community.
+![Kupe](/assets/images/kupe.png)
 
-## **Kupe Leadership Scholarship (2021)**
+|![](/assets/images/gallery/kupe-3.jpg) | ![](/assets/images/gallery/kupe-4.jpg)|
+|![](/assets/images/gallery/kupe-5.png) | ![](/assets/images/gallery/kupe-7.png)|
 
-[![Kupe](/assets/images/kupe.png)]({{ site.url }}/downloads/wip.pdf)
+![Annual Report](assets/images/uaic-logo.png)
 
-![](/assets/images/gallery/kupe-3.png)
+In 2020, I led the University of Auckland Investment Club (UAIC) as Co-President with [David Saul](https://www.linkedin.com/in/davidrjsaul/). We introduced several new initiatives while running several of UAIC's legacy offerings. I lead Competition, Investment Committee, Women Engagement Initiative, and Treasurer portfolios while managing sponsorship negotiations and external relationships. David worked in Bulletin, Marketing, Education and Social portfolios while overseeing the implementation of organisational changes.
 
-## **University of Auckland Investment Club (2020)**
+### **Achievements**
 
-In 2020, I led the University of Auckland Investment Club (UAIC) as Co President with [David Saul](https://www.linkedin.com/in/davidrjsaul/). We introduced several new initiatives while running several of UAIC's legacy offerings. I lead Competition, Investment Committee, Women Engagement Initiative, Treasurer portfolios while managing sponsorship negotiations and external relationships. David managed Bulletin, Marketing, Education and Social portfolios while managing the implementation of organisational changes.
+1. Increased general membership by 30%.
+2. Increased female general membership by 58%.
+3. Published 14 bulletin editions (approximately 20 pages each), a series of opinion articles on finance-related topics.
+4. Approved brokerage to create a fully functional Investment Fund. Additionally, we invested in four ASX/NZX equities.
+5. Created the Women Engagement Initiative with a Mentoring Programme and two-part speaker series.
+6. Continued to run the Citi Global Markets Challenge.
+7. Created three new competitions: Jarden Stock Pitch Competition, Global From Day One Venture Capital Competition, and UBS New Zealand Investment Banking Competition.
+8. Hosted seven education events annually to educate members on investing, ESG, Social Innovation from an Investor'sInvestor'sve, Qualitative Analysis and Valuation.
+9. Rebranded the club and built efficient marketing channels.
+10. Passed a brand new 14-page constitution to meet legal requirements and introduce new initiatives which incorporated three UNSDGs to inform events (Good Health and Wellbeing, Gender Equality and Quality Education).
 
-### **Summary of Achievements**
+![Annual Report](/assets/images/ar.png)
 
-- Increased general membership by 30%.
-- Increased female general membership by 58%.
-- Published 14 editions of the bulletin (approximately 20 pages each), a series opinion articles on finance-related topics.
-- Approved brokerage to create a fully functional Investment Fund. Additionally, we invested in four ASX/NZX equities.
-- Created the Women Engagement Initiative, complete with a Mentoring Programme and two-part speaker series.
-- Continued to run the Citi Global Markets Challenge.
-- Created the Jarden Stock Pitch Competition in partnership with Jarden to upskill members on valuing equities.
-- Created the Global From Day One Venture Capital Competition in partnership with Global From Day One to give students exposure to New Zealand’s Venture Capital and Technology ecosystems.
-- Created the UBS New Zealand Investment Banking Competition in partnership with UBS New Zealand to analyse the strategic rationale, offer context, synergies and performance of M&A transactions.
-- Hosted seven education events across the year to educate members on topics such as investing, ESG, Social Innovation from an Investor’s perspective, Qualitative Analysis and Valuation.
-- Rebranded the club and built efficient marketing channels.
-- Passed a brand new 14 page constitution to meet legal requirements and introduce new initiatives:
-  - Incorporated three UNSDGs to inform events (Good Health and Wellbeing, Gender Equality and Quality Education).
-  - Created an advisory board to oversee long term vision, management structure, industry relationships and investor relations of UAIC. The board is currently under construction.
+I created an annual report intending to document our team's achievements and provide our successors a benchmark for future years. Click [here]({{ site.url }}/downloads/uaic-annual-report-2020.pdf) to view competition.
 
-### **UAIC 2020 Annual Report**
+### **Competitions**
 
-I created an annual report with the intention to both document the achievements of our team and provide our successors a benchmark for future years. **Click the image below to view the annual report**.
+![Stock Pitch](/assets/images/jsp.png)
 
-[![Annual Report](/assets/images/ar.png)]({{ site.url }}/downloads/uaic-annual-report-2020.pdf)
+I upgraded UAIC's annual Stock Pitch competition in partnership with Jarden. Click [here]({{ site.url }}/downloads/stock-pitch-competition.pdf) to view competition.
 
-### **Jarden Stock Pitch Competition**
+![Venture Capital](/assets/images/VC.png)
 
-I upgraded UAIC's annual Stock Pitch competition in partnership with Jarden. Competing teams prepared qualitative and
-quantitative analysis on an NZX/ASX listed equity to support a buy recommendation. **Click the image below to view the competition pack**.
+I created a Venture Capital competition in partnership with Global From Day One, a technology-based venture capital fund that invests in New Zealand hardware, software and deep technology startups. The competition had competitors follow their investment thesis to allocate $15m across three New Zealand startups with qualitative analysis supporting portfolio allocation. Click [here]({{ site.url }}/downloads/venture-capital-competition.pdf) to view competition.
 
-[![Stock Pitch](/assets/images/jsp.png)]({{ site.url }}/downloads/stock-pitch-competition.pdf)
+![Investment Banking](/assets/images/IB.png)
 
-### **Global From Day One Venture Capital Competition**
+I created an Investment Banking competition in partnership with UBS New Zealand. The competition has competing teams assess two large, influential transactions involving strategies. Teams assess the strategic rationale, offer context, synergies and performance of both transactions., and present to a panel of judges who ask finance-related questions. Click [here]({{ site.url }}/downloads/investment-banking-competition.pdf) to view competition.
 
-I created a Venture Capital competition in partnership with Global From Day One, a technology-based venture capital fund who invest in New Zealand hardware, software and deep technology startups. The competition had competitors follow their investment thesis to allocate $15m across three New Zealand startups. Their portfolio allocation was supported by qualitative analysis. **Click the image below to view the competition pack**.
+### **Engagement**
 
-[![Venture Capital](/assets/images/VC.png)]({{ site.url }}/downloads/venture-capital-competition.pdf)
+![Women Engagement](/assets/images/wei.png)
 
-### **UBS New Zealand Investment Banking Competition**
-
-I created an Investment Banking competition in partnership with UBS New Zealand. The competition has competing teams assess two transactions which are large, influential and involve strategics. Teams assess the strategic rationale, offer context, synergies and performance of both transactions. Their analysis is presented to a panel of judges with competitors asked finance-related questions. **Click the image below for competition pack**.
-
-[![Investment Banking](/assets/images/IB.png)]({{ site.url }}/downloads/investment-banking-competition.pdf)
-
-### **Women Engagement Initiative**
-
-I started the University of Auckland's Women Engagement Initiative to break down barriers discouraging women from considering careers in finance. This initiative includes a Mentoring Programme where 15 industry mentors were paired with 15 mentees. We facilitated a two-part speaker series focusing on careers in finance, challenges in the workplace and the future of finance with an emphasis on financial technology. **Click the image below to view the engagement pack**.
-
-[![Women Engagement](/assets/images/wei.png)]({{ site.url }}/downloads/women-engagement-initiative.pdf)
-
-## **Case Frameworks**
-
-I prepared this resource to help applicants prepare for case interviews. **Click the image below to review the resource**.
-[![Case Framework](/assets/images/case-frameworks.png)]({{ site.url }}/downloads/case-frameworks.pdf)
+I started the University of Auckland's Women Engagement Initiative to break down barriers discouraging women from considering careers in finance. This initiative includes a Mentoring Programme with 15 industry mentor-mentee pairings. We facilitated a two-part speaker series focusing on careers in finance, challenges in the workplace and the future of finance, emphasising financial technology. Click [here]({{ site.url }}/downloads/women-engagement-initiative.pdf) to view engagement pack.
