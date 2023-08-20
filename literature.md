@@ -5,8 +5,7 @@ title: Literature
 
 ### **Currently Reading**
 
-1. [Cutting for Stone by Abraham Verghese (688pg)](https://www.amazon.com.au/Cutting-Stone-Abraham-Verghese/dp/0375714367)
-2. [SuperFreakonomics: Global Cooling, Patriotic Prostitutes, and Why Suicide Bombers Should Buy Life Insurance by by Steven D. Levitt and Stephen J. Dubner (320pg)](https://www.amazon.com/SuperFreakonomics-Cooling-Patriotic-Prostitutes-Insurance/dp/0060889586)
+1. [SuperFreakonomics: Global Cooling, Patriotic Prostitutes, and Why Suicide Bombers Should Buy Life Insurance by by Steven D. Levitt and Stephen J. Dubner (320pg)](https://www.amazon.com/SuperFreakonomics-Cooling-Patriotic-Prostitutes-Insurance/dp/0060889586)
 
 ### **Favourites**
 
@@ -80,6 +79,7 @@ I list books finished from January 2021 onwards, categorized by genre. Books re-
 7. [1984 by George Orwell (328pg)](https://www.amazon.com/1984-Signet-Classics-George-Orwell/dp/0451524934)
 8. [The God Boy by Ian Cross (180pg)](https://www.amazon.com/God-Boy-Ian-Cross/dp/0140018115)
 9. [To Kill a Mockingbird by Harper Lee (384pg)](https://www.amazon.com/Kill-Mockingbird-Harper-Lee/dp/0446310786)
+10. [Cutting for Stone by Abraham Verghese (688pg)](https://www.amazon.com.au/Cutting-Stone-Abraham-Verghese/dp/0375714367)
 
 **History**
 
