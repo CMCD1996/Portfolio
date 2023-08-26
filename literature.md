@@ -5,7 +5,7 @@ title: Literature
 
 ### **Currently Reading**
 
-1. [SuperFreakonomics: Global Cooling, Patriotic Prostitutes, and Why Suicide Bombers Should Buy Life Insurance by by Steven D. Levitt and Stephen J. Dubner (320pg)](https://www.amazon.com/SuperFreakonomics-Cooling-Patriotic-Prostitutes-Insurance/dp/0060889586)
+1. [The Good Life: Lessons from the World's Longest Scientific Study of Happiness by by Robert Waldinger M.D. and Marc Schulz Ph.D (352pg)](https://www.amazon.com/Good-Life-Lessons-Scientific-Happiness/dp/198216669X)
 
 ### **Favourites**
 
@@ -67,6 +67,7 @@ I list books finished from January 2021 onwards, categorized by genre. Books re-
 13. [The World For Sale: Money, Power, and the Traders Who Barter the Earth's Resources by Javier Blas and Jack Farchy (416pg)](https://www.amazon.com/World-Sale-Javier-Blas/dp/0190078952)
 14. [Freakonomics by Steven D. Levitt and Stephen J. Dubner (336pg)](https://www.amazon.com.au/Freakonomics-Stephen-J-Dubner/dp/0060731338)
 15. [Big Debt Crises by Ray Dalio (300 pg)](https://www.amazon.com/Big-Debt-Crises-Ray-Dalio/dp/1732689806)
+16. [SuperFreakonomics: Global Cooling, Patriotic Prostitutes, and Why Suicide Bombers Should Buy Life Insurance by by Steven D. Levitt and Stephen J. Dubner (320pg)](https://www.amazon.com/SuperFreakonomics-Cooling-Patriotic-Prostitutes-Insurance/dp/0060889586)
 
 **Fiction**
 
@@ -119,13 +120,13 @@ I list books finished from January 2021 onwards, categorized by genre. Books re-
 
 ### **KPIs & Statistics**
 
-Last update: 28/05/23
+Last update: 26/08/23
 
 | Statistics     | Total | 2021 | 2022 | 2023 |  KPI  |
 | :------------- | :---: | :--: | :--: | :--: | :---: |
-| # Days         |  877  | 365  | 365  | 147  |  365  |
-| # Books        |  53   |  22  |  19  |  12  |  25   |
-| # Pages        | 20420 | 7386 | 8171 | 4863 | 10000 |
-| # Pages / Book |  385  | 336  | 430  | 405  |  400  |
+| # Days         |  877  | 365  | 365  | 237  |  365  |
+| # Books        |  53   |  22  |  19  |  19  |  25   |
+| # Pages        | 20420 | 7386 | 8171 | 7765 | 10000 |
+| # Pages / Book |  385  | 336  | 430  | 409  |  400  |
 | # Pages / Day  |  23   |  20  |  22  |  33  |  27   |
-| # Weeks / Book | 2.36  | 2.37 | 2.74 | 1.75 | 2.09  |
+| # Weeks / Book | 2.36  | 2.37 | 2.74 | 1.78 | 2.09  |
