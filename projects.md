@@ -3,6 +3,12 @@ layout: default
 title: Projects
 ---
 
+![Finance/Economics](assets/images/projects/finance-economics.png)
+
+### 3D MOdelling of US Market Yield Curves
+
+TBC
+
 ![Cooking](assets/images/food.png)
 
 I spent the 2020/2021 summer practising my cooking skills, preparing the following meals.
