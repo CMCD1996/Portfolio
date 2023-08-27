@@ -6,6 +6,7 @@ title: Literature
 ### **Currently Reading**
 
 1. [The Good Life: Lessons from the World's Longest Scientific Study of Happiness by by Robert Waldinger M.D. and Marc Schulz Ph.D (352pg)](https://www.amazon.com/Good-Life-Lessons-Scientific-Happiness/dp/198216669X)
+2. [Why Nations Fail: The Origins of Power, Prosperity and Poverty by Daron Acemoglu and James A. Robinson (556pg)](https://www.amazon.com/Why-Nations-Fail-Origins-Prosperity-ebook/dp/B007HLIUN4)
 
 ### **Favourites**
 
@@ -18,7 +19,6 @@ title: Literature
 
 ### **Upcoming Reading**
 
-1. [Why Nations Fail: The Origins of Power, Prosperity and Poverty by Daron Acemoglu and James A. Robinson (556pg)](https://www.amazon.com/Why-Nations-Fail-Origins-Prosperity-ebook/dp/B007HLIUN4)
 2. [Chip War: The Fight for the World's Most Critical Technology by Chris Miller (464pg)](https://www.amazon.com.au/Chip-War-Worlds-Critical-Technology/dp/1982172002)
 
 ### **Recommendations from Friends, Family, & Mentors**
