@@ -13,11 +13,21 @@ Modeling yield curves helps gauge investor sentiment to risk. Interest rates on 
 
 The United States of America Department of the Treasury issue securities (bills, notes, and bonds) at various constant maturities to finance US federal. These are some of the safest investments available to investors given their backing by both faith and credit of the US Government. Treasury securities are highly liquid, traded in both primary and secondary markets, proxying for investor sentiment on a daily basis.
 
-Yield curves are typically modeled at a point in time to gauge investor sentiment on a given day. By extension, modeling yield curves over time informs how overall investor sentiment evolves during economic cycles. Hypothetically, sharp changes or dislocations in a three dimensional model ((x,y,z)= (maturites, time, yields)) would show the extent to which market news was unexpected, quantifiable by measuring the stress or strain on the three dimensional plane.
+Yield curves are typically modeled at a point in time to gauge investor sentiment on a given day. By extension, modeling yield curves over time informs how overall investor sentiment changes during economic cycles. Hypothetically, sharp changes or dislocations in three dimensional space ((x,y,z)= (maturites, time, yields)) would show the extent to which market news was unexpected, quantifiable by measurement of stress or strain on the modeled surface.
+
+The Federal Reserve of Bank of St Louis publish daily market yields on US Treasury securities across constant maturities, quoted on an investment basis, via their online economic research plaform [FRED](https://fred.stlouisfed.org).
 
 **Analysis**
+I followed the below process to process, model, and visualise yield curves across time:
 
-**Result**
+1. TBC
+2. TBC
+3. TBC
+
+**Outcomes**
+I model yield curves to August 24th 2023 over 30, 100, & 365 days.
+
+TBC
 
 ![Cooking](assets/images/food.png)
 
