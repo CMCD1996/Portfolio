@@ -7,7 +7,17 @@ title: Projects
 
 ### **3D Modelling of US Market Yields**
 
-TBC
+**Introduction**
+
+Modeling yield curves helps gauge investor sentiment to risk. Interest rates on bonds with shorter maturities are usually lower than longer maturities as investors assume less risk in the short-term. However, macro-economic and geopolitical uncertainty can reverse this sentiment and invert the yield curve, an unsual but reliable predictor of an impending recession.
+
+The United States of America Department of the Treasury issue securities (bills, notes, and bonds) at various constant maturities to finance US federal. These are some of the safest investments available to investors given their backing by both faith and credit of the US Government. Treasury securities are highly liquid, traded in both primary and secondary markets, proxying for investor sentiment on a daily basis.
+
+Yield curves are typically modeled at a point in time to gauge investor sentiment on a given day. By extension, modeling yield curves over time informs how overall investor sentiment evolves during economic cycles. Hypothetically, sharp changes or dislocations in a three dimensional model ((x,y,z)= (maturites, time, yields)) would show the extent to which market news was unexpected, quantifiable by measuring the stress or strain on the three dimensional plane.
+
+**Analysis**
+
+**Result**
 
 ![Cooking](assets/images/food.png)
 
