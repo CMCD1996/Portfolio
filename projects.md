@@ -5,7 +5,7 @@ title: Projects
 
 ![Finance/Economics](assets/images/projects/finance-economics.png)
 
-### 3D MOdelling of US Market Yield Curves
+### **3D Modelling of US Market Yields**
 
 TBC
 
