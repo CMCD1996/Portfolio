@@ -29,6 +29,8 @@ I model yield curves to August 24th 2023 over 30, 100, & 365 days.
 
 TBC
 
+**Improvements**
+
 ![Cooking](assets/images/food.png)
 
 I spent the 2020/2021 summer practising my cooking skills, preparing the following meals.
