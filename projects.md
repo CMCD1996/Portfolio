@@ -18,7 +18,7 @@ Yield curves are typically modelled at a point in time to gauge investor sentime
 The Federal Reserve of Bank of St Louis publishes daily market yields on US Treasury securities across constant maturities, quoted on an investment basis, via their online economic research platform [FRED](https://fred.stlouisfed.org).
 
 **Analysis**
-I followed the below process to process, model, and visualise yield curves across time:
+I followed the below process to prepare, model, and visualise daily yield curves:
 
 1. TBC
 2. TBC
