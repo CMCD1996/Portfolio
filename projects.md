@@ -9,13 +9,13 @@ title: Projects
 
 **Introduction**
 
-Modeling yield curves helps gauge investor sentiment to risk. Interest rates on bonds with shorter maturities are usually lower than longer maturities as investors assume less risk in the short-term. However, macro-economic and geopolitical uncertainty can reverse this sentiment and invert the yield curve, an unsual but reliable predictor of an impending recession.
+Modelling yield curves help gauge investor sentiment to risk. Interest rates on bonds with shorter maturities are usually lower than longer maturities as investors assume less risk in the short term. However, macroeconomic and geopolitical uncertainty can reverse this sentiment and invert the yield curve, an unusual but reliable predictor of an impending recession.
 
-The United States of America Department of the Treasury issue securities (bills, notes, and bonds) at various constant maturities to finance US federal. These are some of the safest investments available to investors given their backing by both faith and credit of the US Government. Treasury securities are highly liquid, traded in both primary and secondary markets, proxying for investor sentiment on a daily basis.
+The United States of America Department of the Treasury issues securities (bills, notes, and bonds) at various constant maturities to finance US federal. These are some of the safest investments available to investors, given their backing by both faith and credit of the US Government. Treasury securities are highly liquid, traded in primary and secondary markets, proxying for investor sentiment daily.
 
-Yield curves are typically modeled at a point in time to gauge investor sentiment on a given day. By extension, modeling yield curves over time informs how overall investor sentiment changes during economic cycles. Hypothetically, sharp changes or dislocations in three dimensional space ((x,y,z)= (maturites, time, yields)) would show the extent to which market news was unexpected, quantifiable by measurement of stress or strain on the modeled surface.
+Yield curves are typically modelled at a point in time to gauge investor sentiment on a given day. By extension, modelling yield curves over time informs how overall investor sentiment changes during economic cycles. Hypothetically, sharp changes or dislocations in three-dimensional space ((x,y,z)= (maturities, time, yields)) would show the extent to which market news was unexpected, quantifiable by measurement of stress or strain on the modelled surface.
 
-The Federal Reserve of Bank of St Louis publish daily market yields on US Treasury securities across constant maturities, quoted on an investment basis, via their online economic research plaform [FRED](https://fred.stlouisfed.org).
+The Federal Reserve of Bank of St Louis publishes daily market yields on US Treasury securities across constant maturities, quoted on an investment basis, via their online economic research platform [FRED](https://fred.stlouisfed.org).
 
 **Analysis**
 I followed the below process to process, model, and visualise yield curves across time:
@@ -27,7 +27,8 @@ I followed the below process to process, model, and visualise yield curves acros
 **Outcomes**
 I model yield curves to August 24th 2023 over 30, 100, & 365 days.
 
-TBC
+![t-30](assets/images/projects/macroeconomic modelling/yield-curve-t-30-24-aug-23.png)
+|![t-100](assets/images/projects/macroeconomic modelling/yield-curve-t-100-24-aug-23.png)|![t-365](assets/images/projects/macroeconomic modelling/yield-curve-t-365-24-aug-23.png)|
 
 **Improvements**
 
