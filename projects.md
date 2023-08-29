@@ -20,9 +20,9 @@ The Federal Reserve of Bank of St Louis publishes daily market yields on US Trea
 **Analysis**
 I followed the below process to prepare, model, and visualise daily yield curves:
 
-1. TBC
-2. TBC
-3. TBC
+1. Downloaded market yields for 3 month, 6 month, 1 year, 2 year, 5 year, and 10 years US Treasury securities up until 24th August 2023 from [FRED](https://fred.stlouisfed.org).
+2. Market Replace missing values by forward filling last reported value.
+3.
 
 **Outcomes**
 I model yield curves to August 24th 2023 over 30, 100, & 365 days.
