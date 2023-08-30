@@ -21,14 +21,16 @@ The Federal Reserve of Bank of St Louis publishes daily market yields on US Trea
 I followed the below process to prepare, model, and visualise daily yield curves:
 
 1. Downloaded market yields for 3 month, 6 month, 1 year, 2 year, 5 year, and 10 years US Treasury securities up until 24th August 2023 from [FRED](https://fred.stlouisfed.org).
-2. Market Replace missing values by forward filling last reported value.
-3.
+2. Market yields are not reported every day. Missing values are removed, taken a subset of the data by number of reported days to observe; 30, 100, and 365 days.
+3. Modeling yield curves requires estimating new data points in between each point in the discrete set of
+4. TBC
 
 **Outcomes**
 I model yield curves to August 24th 2023 over 30, 100, & 365 days.
 
-![t-30](assets/images/projects/macroeconomic modelling/yield-curve-t-30-24-aug-23.png)
-|![t-100](assets/images/projects/macroeconomic modelling/yield-curve-t-100-24-aug-23.png)|![t-365](assets/images/projects/macroeconomic modelling/yield-curve-t-365-24-aug-23.png)|
+![](assets/images/projects/macroeconomic modelling/yield-curve-t-30-24-aug-23.png)
+
+| ![](assets/images/projects/macroeconomic modelling/yield-curve-t-100-24-aug-23.png) | ![](assets/images/projects/macroeconomic modelling/yield-curve-t-365-24-aug-23.png) |
 
 **Improvements**
 
