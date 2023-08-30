@@ -18,6 +18,7 @@ Yield curves are typically modelled at a point in time to gauge investor sentime
 The Federal Reserve of Bank of St Louis publishes daily market yields on US Treasury securities across constant maturities, quoted on an investment basis, via their online economic research platform [FRED](https://fred.stlouisfed.org).
 
 **Analysis**
+
 I followed the below process to prepare, model, and visualise daily yield curves:
 
 1. Downloaded market yields for 3 month, 6 month, 1 year, 2 year, 5 year, and 10 years US Treasury securities up until 24th August 2023 from [FRED](https://fred.stlouisfed.org).
@@ -26,12 +27,13 @@ I followed the below process to prepare, model, and visualise daily yield curves
 4. TBC
 
 **Outcomes**
+
 I model yield curves to August 24th 2023 over 30, 100, & 365 days.
 
-| ![](assets/images/projects/yc-t-30-24-aug-23.png) | ![](assets/images/projects/yc-t-30-24-aug-23.png) |
-| Yield curve over 30 days to 24th August 2023 | Yield curve over 100 days to 24th August 2023 |
+| ![](assets/images/projects/yc-covid.png) | ![](assets/images/projects/yc-t-30-24-aug-23.png) |
+| Figure 1: 30 observations between February 1st 2020 to April 1st 2020 | Figure 2: 30 observations to August 24th 2023 |
 | ![](assets/images/projects/yc-t-100-24-aug-23.png) | ![](assets/images/projects/yc-t-365-24-aug-23.png) |
-| Yield curve over 30 days to 24th August 2023 | Yield curve over 100 days to 24th August 2023 |
+| Figure 3: 100 observations to August 24th 2023 | Figure 4: 365 observations to August 24th 2023 |
 
 **Improvements**
 
