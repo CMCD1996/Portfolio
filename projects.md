@@ -19,16 +19,16 @@ The Federal Reserve of Bank of St Louis publishes daily market yields on US Trea
 
 **Analysis**
 
-I followed the below process to prepare, model, and visualise daily yield curves:
+I implement the below method to prepare, model, and visualise yield curves of a daily basis:
 
 1. Downloaded market yields for 3 month, 6 month, 1 year, 2 year, 5 year, and 10 years US Treasury securities up until 24th August 2023 from [FRED](https://fred.stlouisfed.org).
-2. Market yields are not reported every day. Missing values are removed, taken a subset of the data by number of reported days to observe; 30, 100, and 365 days.
-3. Modeling yield curves requires estimating new data points in between each point in the discrete set of
+2. Market yields are not reported every day. Dates with missing values are removed, reducing data to a subset constrained by a user-specfied number of observations. I select 30 observations between February 1st 2020 to April 1st 2020 (COVID), and 30, 100, and 365 latest observations to August 24th 2023.
+3. [FRED](https://fred.stlouisfed.org) provide a discrete set of market yields each day. Model yield curve requires estimating new yields between each value in the discrete set. I use numerical analysis (interpolation), to fitting a polynomial with a general expression $$AX^3 + BX^2 + CX + D$$ to estimate new yields between each reported market yield.
 4. TBC
 
 **Outcomes**
 
-I model yield curves to August 24th 2023 over 30, 100, & 365 days.
+I model yield curves over to August 24th 2023 over 30, 100, & 365 days.
 
 | ![](assets/images/projects/yc-covid.png) | ![](assets/images/projects/yc-t-30-24-aug-23.png) |
 | Figure 1: 30 observations between February 1st 2020 to April 1st 2020 | Figure 2: 30 observations to August 24th 2023 |
