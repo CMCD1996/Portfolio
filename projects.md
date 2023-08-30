@@ -28,9 +28,10 @@ I followed the below process to prepare, model, and visualise daily yield curves
 **Outcomes**
 I model yield curves to August 24th 2023 over 30, 100, & 365 days.
 
-![](assets/images/projects/macroeconomic modelling/yield-curve-t-30-24-aug-23.png)
-
-| ![](assets/images/projects/macroeconomic modelling/yield-curve-t-100-24-aug-23.png) | ![](assets/images/projects/macroeconomic modelling/yield-curve-t-365-24-aug-23.png) |
+| ![](assets/images/projects/yc-t-30-24-aug-23.png) | ![](assets/images/projects/yc-t-30-24-aug-23.png) |
+| Yield curve over 30 days to 24th August 2023 | Yield curve over 100 days to 24th August 2023 |
+| ![](assets/images/projects/yc-t-100-24-aug-23.png) | ![](assets/images/projects/yc-t-365-24-aug-23.png) |
+| Yield curve over 30 days to 24th August 2023 | Yield curve over 100 days to 24th August 2023 |
 
 **Improvements**
 
