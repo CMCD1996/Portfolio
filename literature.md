@@ -19,7 +19,7 @@ title: Literature
 
 ### **Upcoming Reading**
 
-2. [Chip War: The Fight for the World's Most Critical Technology by Chris Miller (464pg)](https://www.amazon.com.au/Chip-War-Worlds-Critical-Technology/dp/1982172002)
+1. [Chip War: The Fight for the World's Most Critical Technology by Chris Miller (464pg)](https://www.amazon.com.au/Chip-War-Worlds-Critical-Technology/dp/1982172002)
 
 ### **Recommendations from Friends, Family, & Mentors**
 

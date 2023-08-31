@@ -31,11 +31,11 @@ I prepared, modeled, and visualised yield curves as follows:
 I model yield curves over the start of COVID and for 30, 100, & 365 days up to to August 24th 2023.
 
 | ![](assets/images/projects/yc-covid.png) | ![](assets/images/projects/yc-t-30-24-aug-23.png) |
-| **Figure 1:** 30 observations between February 1st 2020 to April 1st 2020 (COVID) | **Figure 2:** 30 observations to August 24th 2023 |
+| **Figure 1:** 30 observations between February 1st 2020 to April 1st 2020 (COVID) | **Figure 2:** 30 observations to Aug 24th 2023 |
 | ![](assets/images/projects/yc-t-100-24-aug-23.png) | ![](assets/images/projects/yc-t-365-24-aug-23.png) |
-| **Figure 3:** 100 observations to August 24th 2023 | **Figure 4:** 365 observations to August 24th 2023 |
+| **Figure 3:** 100 observations to Aug 24th 2023 | **Figure 4:** 365 observations to Aug 24th 2023 |
 
-Figure 1 shows the most interesting observations given the visceral feelings of unease uncertainty which accompanied the early onset of the pandemic.
+Figure 1 shows the most interesting observations given the uncertainty in the early onset of the pandemic.
 
 **Improvements**
 
