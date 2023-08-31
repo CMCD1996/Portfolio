@@ -11,20 +11,20 @@ title: Projects
 
 Modelling yield curves help gauge investor sentiment to risk. Interest rates on bonds with shorter maturities are usually lower than longer maturities as investors assume less risk in the short term. However, macroeconomic and geopolitical uncertainty can reverse this sentiment and invert the yield curve, an unusual but reliable predictor of an impending recession.
 
-The United States of America Department of the Treasury issues securities (bills, notes, and bonds) at various constant maturities to finance US federal. These are some of the safest investments available to investors, given their backing by both faith and credit of the US Government. Treasury securities are highly liquid, traded in primary and secondary markets, proxying for investor sentiment daily.
+The United States of America Department of the Treasury issues securities (bills, notes, and bonds) at various constant maturities to finance US Federal operations. These are some of the safest investments available to investors, given their backing by both faith and credit of the US Government. Treasury securities are highly liquid, traded in primary and secondary markets, proxying for investor sentiment daily.
 
-Yield curves are typically modelled at a point in time to gauge investor sentiment on a given day. By extension, modelling yield curves over time informs how overall investor sentiment changes during economic cycles. Hypothetically, sharp changes or dislocations in three-dimensional space ((x,y,z)= (maturities, time, yields)) would show the extent to which market news was unexpected, quantifiable by measurement of stress or strain on the modelled surface.
+Yield curves are typically modelled at a point in time to gauge investor sentiment on a given day. By extension, modelling yield curves over time informs how investor sentiment changes throughout economic cycles. Hypothetically, sharp changes or dislocations in three-dimensional space ((x,y,z) = (maturities, time, yields)) would show the extent to which market news was unexpected, quantifiable by measurement of stress or strain on the modelled surface.
 
 The Federal Reserve of Bank of St Louis publishes daily market yields on US Treasury securities across constant maturities, quoted on an investment basis, via their online economic research platform [FRED](https://fred.stlouisfed.org).
 
 **Analysis**
 
-I prepare, model, and visualise yield curves as follows:
+I prepared, modeled, and visualised yield curves as follows:
 
-1. Downloaded market yields for 3 month, 6 month, 1 year, 2 year, 5 year, and 10 years US Treasury securities up until 24th August 2023 from [FRED](https://fred.stlouisfed.org).
-2. Market yields are not reported every day. Dates with missing values are removed, reducing data to a subset constrained by a user-specfied number of observations. I select 30 observations between February 1st 2020 to April 1st 2020 (COVID), and 30, 100, and 365 latest observations to August 24th 2023.
-3. [FRED](https://fred.stlouisfed.org) provide a discrete set of market yields each day. Modeling yield curve requires estimating new yields between each discrete market yield. I use numerical analysis (interpolation) to fit a polynomial of general expression $$AX^3 + BX^2 + CX + D$$, estimating yields between reported market yield.
-4. TBC
+1. Downloaded market yields for 3 month, 6 month, 1 year, 2 year, 5 year, and 10 years US Treasury securities up until 24th August 2023 from [FRED](https://fred.stlouisfed.org). Maturity, date, and market yield correspond to x, y, and z cartesian coordinates in the model, respectively.
+2. Market yields are not reported every day. Dates with missing values are removed, reducing the data to a subset constrained by a user-specfied number of observations. I select 30 observations between February 1st 2020 to April 1st 2020 (COVID), and 30, 100, and 365 latest observations to August 24th 2023.
+3. The set of US Treasury securities is discrete given a small number of maturities. I used interpolation, a form of numerical analysis, to estimate market yields between each maturity. Numerical analysis is a branch of mathematics that solves continuous problems using numeric approximation. I fitted a polynomial of general form $$AX^3 + BX^2 + CX + D$$ as the dynamism of market pricing renders exact solutions impossible.
+4. Visualised estimated market yields (z), observations (y), and maturities (x) as point clouds (see outcomes). A point cloud is a discrete set of points in three dimensional space with points referenced by cartesian co-ordinates (x,y,z). Integrated heatmaps show how market yields change for each maturity with sharp colour gradients displaying both yield to compensate risk between maturities, and change in expected risk by changes in yield, on and between yield curves, respectively.
 
 **Outcomes**
 
@@ -34,6 +34,8 @@ I model yield curves over the start of COVID and for 30, 100, & 365 days up to t
 | **Figure 1:** 30 observations between February 1st 2020 to April 1st 2020 (COVID) | **Figure 2:** 30 observations to August 24th 2023 |
 | ![](assets/images/projects/yc-t-100-24-aug-23.png) | ![](assets/images/projects/yc-t-365-24-aug-23.png) |
 | **Figure 3:** 100 observations to August 24th 2023 | **Figure 4:** 365 observations to August 24th 2023 |
+
+Figure 1 shows the most interesting observations given the visceral feelings of unease uncertainty which accompanied the early onset of the pandemic.
 
 **Improvements**
 
