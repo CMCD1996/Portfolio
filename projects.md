@@ -19,21 +19,21 @@ The Federal Reserve of Bank of St Louis publishes daily market yields on US Trea
 
 **Analysis**
 
-I implement the below method to prepare, model, and visualise yield curves of a daily basis:
+I prepare, model, and visualise yield curves as follows:
 
 1. Downloaded market yields for 3 month, 6 month, 1 year, 2 year, 5 year, and 10 years US Treasury securities up until 24th August 2023 from [FRED](https://fred.stlouisfed.org).
 2. Market yields are not reported every day. Dates with missing values are removed, reducing data to a subset constrained by a user-specfied number of observations. I select 30 observations between February 1st 2020 to April 1st 2020 (COVID), and 30, 100, and 365 latest observations to August 24th 2023.
-3. [FRED](https://fred.stlouisfed.org) provide a discrete set of market yields each day. Model yield curve requires estimating new yields between each value in the discrete set. I use numerical analysis (interpolation), to fitting a polynomial with a general expression $$AX^3 + BX^2 + CX + D$$ to estimate new yields between each reported market yield.
+3. [FRED](https://fred.stlouisfed.org) provide a discrete set of market yields each day. Modeling yield curve requires estimating new yields between each discrete market yield. I use numerical analysis (interpolation) to fit a polynomial of general expression $$AX^3 + BX^2 + CX + D$$, estimating yields between reported market yield.
 4. TBC
 
 **Outcomes**
 
-I model yield curves over to August 24th 2023 over 30, 100, & 365 days.
+I model yield curves over the start of COVID and for 30, 100, & 365 days up to to August 24th 2023.
 
 | ![](assets/images/projects/yc-covid.png) | ![](assets/images/projects/yc-t-30-24-aug-23.png) |
-| Figure 1: 30 observations between February 1st 2020 to April 1st 2020 | Figure 2: 30 observations to August 24th 2023 |
+| **Figure 1:** 30 observations between February 1st 2020 to April 1st 2020 (COVID) | **Figure 2:** 30 observations to August 24th 2023 |
 | ![](assets/images/projects/yc-t-100-24-aug-23.png) | ![](assets/images/projects/yc-t-365-24-aug-23.png) |
-| Figure 3: 100 observations to August 24th 2023 | Figure 4: 365 observations to August 24th 2023 |
+| **Figure 3:** 100 observations to August 24th 2023 | **Figure 4:** 365 observations to August 24th 2023 |
 
 **Improvements**
 
