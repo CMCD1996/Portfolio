@@ -5,8 +5,8 @@ title: Literature
 
 ### **Currently Reading**
 
-1. [The Good Life: Lessons from the World's Longest Scientific Study of Happiness by by Robert Waldinger M.D. and Marc Schulz Ph.D (352pg)](https://www.amazon.com/Good-Life-Lessons-Scientific-Happiness/dp/198216669X)
-2. [Why Nations Fail: The Origins of Power, Prosperity and Poverty by Daron Acemoglu and James A. Robinson (556pg)](https://www.amazon.com/Why-Nations-Fail-Origins-Prosperity-ebook/dp/B007HLIUN4)
+1. [Why Nations Fail: The Origins of Power, Prosperity and Poverty by Daron Acemoglu and James A. Robinson (556pg)](https://www.amazon.com/Why-Nations-Fail-Origins-Prosperity-ebook/dp/B007HLIUN4)
+2. [Thinking, Fast and Slow by Daniel Kahneman (499pg)](https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555)
 
 ### **Favourites**
 
@@ -105,28 +105,41 @@ I list books finished from January 2021 onwards, categorized by genre. Books re-
 4. [The How of Happiness: A New Approach to Getting the Life You Want by Sonja Lyubomirsky (384pg)](https://www.amazon.com/How-Happiness-Approach-Getting-Life/dp/0143114956)
 5. [Humor, Seriously: Why Humor Is a Secret Weapon in Business and Life by Jennifer Aaker and Naomi Bagdonas (pg 272)](https://www.amazon.com/Humor-Seriously-Secret-Business-harness/dp/0593135288)
 6. [What Happened to You?: Conversations on Trauma, Resilience, and Healing by Oprah Winfrey & Bruce D. Perry (304pg)](https://www.amazon.com/What-Happened-You-Understanding-Resilience/dp/1250223180)
+7. [Attached: The New Science of Adult Attachment and How It Can Help You Find, and Keep, Love by Amir Levine & Rachel Heller (304pg)](https://www.amazon.com/Attached-Science-Adult-Attachment-YouFind/dp/1585429139)
+8. [The Good Life: Lessons from the World's Longest Scientific Study of Happiness by by Robert Waldinger M.D. and Marc Schulz Ph.D (352pg)](https://www.amazon.com/Good-Life-Lessons-Scientific-Happiness/dp/198216669X)
 
 **Politics & Social Science**
 
 1. [Of Boys and Men: Why the Modern Male Is Struggling, Why It Matters, and What to Do about It by Richard Reeves (256pg)](https://www.amazon.com/Boys-Men-Modern-Struggling-Matters/dp/0815739877)
 2. [Invisible Women: Data Bias in a World Designed for Men by Caroline Criado Perez (272pg)](https://www.amazon.com/Invisible-Women-Data-World-Designed/dp/1419729071)
 3. [Secrets of the Sprakkar: Iceland's Extraordinary Women and How They Are Changing the World by Eliza Reid (288pg)](https://www.amazon.com/Secrets-Sprakkar-Icelands-Extraordinary-Changing/dp/1728242169)
-4. [Attached: The New Science of Adult Attachment and How It Can Help You Find, and Keep, Love by Amir Levine & Rachel Heller (304pg)](https://www.amazon.com/Attached-Science-Adult-Attachment-YouFind/dp/1585429139)
-5. [Split the Pie: A Radical New Way to Negotiate by Barry Nalebuff (304pg)](https://www.amazon.com/Split-Pie-Radical-New-Negotiate/dp/0063135485)
-6. [Outliers: The Story of Success by Malcolm Gladwell (336pg)](https://www.amazon.com/Outliers-Story-Success-Malcolm-Gladwell/dp/0316017930)
-7. [Invisible Women: Data Bias in a World Designed for Men by Caroline Criado Perez (272pg)](https://www.amazon.com/Invisible-Women-Data-World-Designed/dp/1419729071)
-8. [Psychopolitics: Neoliberalism and New Technologies of Power by Byung-Chul Han (96pg)](https://www.amazon.com/Psychopolitics-Neoliberalism-New-Technologies-Power/dp/1784785776)
-9. [Blink: The Power of Thinking Without Thinking by Malcolm Gladwell (296pg)](https://www.amazon.com/Blink-Power-Thinking-Without/dp/0316010669)
+4. [Split the Pie: A Radical New Way to Negotiate by Barry Nalebuff (304pg)](https://www.amazon.com/Split-Pie-Radical-New-Negotiate/dp/0063135485)
+5. [Outliers: The Story of Success by Malcolm Gladwell (336pg)](https://www.amazon.com/Outliers-Story-Success-Malcolm-Gladwell/dp/0316017930)
+6. [Invisible Women: Data Bias in a World Designed for Men by Caroline Criado Perez (272pg)](https://www.amazon.com/Invisible-Women-Data-World-Designed/dp/1419729071)
+7. [Psychopolitics: Neoliberalism and New Technologies of Power by Byung-Chul Han (96pg)](https://www.amazon.com/Psychopolitics-Neoliberalism-New-Technologies-Power/dp/1784785776)
+8. [Blink: The Power of Thinking Without Thinking by Malcolm Gladwell (296pg)](https://www.amazon.com/Blink-Power-Thinking-Without/dp/0316010669)
 
 ### **KPIs & Statistics**
 
-Last update: 26/08/23
+Last update: 05/09/23
 
 | Statistics     | Total | 2021 | 2022 | 2023 |  KPI  |
 | :------------- | :---: | :--: | :--: | :--: | :---: |
-| # Days         |  877  | 365  | 365  | 237  |  365  |
-| # Books        |  53   |  22  |  19  |  19  |  25   |
-| # Pages        | 20420 | 7386 | 8171 | 7765 | 10000 |
-| # Pages / Book |  385  | 336  | 430  | 409  |  400  |
-| # Pages / Day  |  23   |  20  |  22  |  33  |  27   |
-| # Weeks / Book | 2.36  | 2.37 | 2.74 | 1.78 | 2.09  |
+| # Days         |  977  | 365  | 365  | 247  |  365  |
+| # Books        |  61   |  22  |  19  |  20  |  25   |
+| # Pages        | 23674 | 7386 | 8171 | 8117 | 10000 |
+| # Pages / Book |  388  | 336  | 430  | 406  |  400  |
+| # Pages / Day  |  24   |  20  |  22  |  33  |  27   |
+| # Weeks / Book | 2.29  | 2.37 | 2.74 | 1.76 | 2.09  |
+
+| Categories                | Total | 2021 | 2022 | 2023 |
+| :------------------------ | :---: | :--: | :--: | :--: |
+| Biographies & Memoirs     |   8   |  1   |  3   |  4   |
+| Business & Money          |  16   |  6   |  5   |  5   |
+| Fiction                   |  10   |  8   |  1   |  1   |
+| History                   |   5   |  0   |  4   |  1   |
+| Medicine                  |   4   |  0   |  4   |  0   |
+| Lifestyle                 |   9   |  2   |  2   |  5   |
+| Politics & Social Science |   9   |  5   |  0   |  4   |
+
+Disclaimer: Page-related statistics use page counts published in Amazon listings. These may include acknowledgements, notes, and references. Subsequently, page-related statistics are approximations.
