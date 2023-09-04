@@ -29,12 +29,13 @@ I prepared, modeled, and visualised yield curves as follows:
 **Outcomes**
 
 I model yield curves over the start of COVID and for 30, 100, & 365 days up to to August 24th 2023.
+
 | ![](assets/images/projects/yc-covid.png) | ![](assets/images/projects/yc-t-30-24-aug-23.png) |
 | **Figure 1:** 30 observations between February 1st 2020 to April 1st 2020 (COVID) | **Figure 2:** 30 observations to Aug 24th 2023 |
 | ![](assets/images/projects/yc-t-100-24-aug-23.png) | ![](assets/images/projects/yc-t-365-24-aug-23.png) |
 | **Figure 3:** 100 observations to Aug 24th 2023 | **Figure 4:** 365 observations to Aug 24th 2023 |
 
-Figure 1 best highlights evolving investor sentiment given the visceral changes in the pandemic. US Treasury securities with longer-term maturities had higher yields with perceived higher risk in the short term than shorter-term maturities at the start of February. However, the world came to terms with the full extent of COVID around early March. The point cloud shows yields across all maturities plummeting and an eventual subtle inversion of the yield curve. I caveat interpolating yield curves leading to negative yield estimates at the low end of maturities, which does not reflect reality.
+Figure 1 best highlights evolving investor sentiment given the pandemic's viseral nature. US Treasury securities with longer-term maturities had higher yields with perceived higher risk in the short term than shorter-term maturities at the start of February. However, the world came to terms with the full extent of COVID around early March. The point cloud shows yields across all maturities plummeting and an eventual subtle inversion of the yield curve. I caveat interpolating yield curves leading to negative yield estimates at the low end of maturities, which does not reflect reality.
 
 ![Cooking](assets/images/food.png)
 
