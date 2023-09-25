@@ -37,6 +37,12 @@ I model yield curves over the start of COVID and for 30, 100, & 365 days up to t
 
 Figure 1 best highlights evolving investor sentiment, given the visceral anxieties associated with the pandemic. US Treasury securities with longer-term maturities had higher yields with perceived higher risk in the short term than shorter-term maturities at the start of February. The world came to terms with the full extent of COVID around early March. The point cloud shows yields across all maturities plummeting, leading to a subtle inversion of the yield curve. I caveat interpolating yield curves led to negative market yield estimates at the low end of maturities, inferring hypothetical negative yielding US Treasury securities.
 
+![Web Development](assets/images/projects/web-development.png)
+
+### **Portfolio Website**
+
+TBC
+
 ![Cooking](assets/images/food.png)
 
 I spent the 2020/2021 summer practising my cooking skills, preparing the following meals.
