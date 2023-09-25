@@ -5,8 +5,13 @@ title: Literature
 
 ### **Currently Reading**
 
-1. [Why Nations Fail: The Origins of Power, Prosperity and Poverty by Daron Acemoglu and James A. Robinson (556pg)](https://www.amazon.com/Why-Nations-Fail-Origins-Prosperity-ebook/dp/B007HLIUN4)
+1. [Steve Jobs by Walter Isaacson (656pg)](https://www.amazon.com/Steve-Jobs-Walter-Isaacson/dp/1451648537)
+
+### **Upcoming Reading**
+
+1. [Chip War: The Fight for the World's Most Critical Technology by Chris Miller (464pg)](https://www.amazon.com.au/Chip-War-Worlds-Critical-Technology/dp/1982172002)
 2. [Thinking, Fast and Slow by Daniel Kahneman (499pg)](https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555)
+3. [Elon Musk by Walter Isaacson (668pg)](https://www.amazon.com/Elon-Musk-Walter-Isaacson/dp/1982181281/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1695668184&sr=8-1)
 
 ### **Favourites**
 
@@ -16,10 +21,6 @@ title: Literature
 4. [Lords of Finance: The Bankers Who Broke the World by Liaquat Ahamed (576pg)](https://www.amazon.com/Lords-Finance-Bankers-Broke-World/dp/0143116800)
 5. [Bad Blood: Secrets and Lies in a Silicon Valley Startup by John Carreyrou (352pg)](https://www.amazon.com/Bad-Blood-Secrets-Silicon-Startup/dp/152473165X)
 6. [Being Mortal by Atul Gawande (282pg)](https://www.amazon.com/Being-Mortal-Illness-Medicine-Matters/dp/1250081246)
-
-### **Upcoming Reading**
-
-1. [Chip War: The Fight for the World's Most Critical Technology by Chris Miller (464pg)](https://www.amazon.com.au/Chip-War-Worlds-Critical-Technology/dp/1982172002)
 
 ### **Recommendations from Friends, Family, & Mentors**
 
@@ -89,6 +90,7 @@ I list books finished from January 2021 onwards, categorized by genre. Books re-
 3. [Asian Godfathers: Money & Power in Hong Kong & Southeast Asia by Joe Studwell (368pg)](https://www.amazon.com/Asian-Godfathers-Money-Power-Southeast/dp/0802143911)
 4. [Capital in the 21st Century by Thomas Piketty (816 pg)](https://www.amazon.com/Capital-Twenty-First-Century-Thomas-Piketty/dp/0674979850)
 5. [Wild Swans: Three Daughters of China by Jung Chang (538pg)](https://www.amazon.com/Wild-Swans-Three-Daughters-China/dp/0743246985)
+6. [Why Nations Fail: The Origins of Power, Prosperity and Poverty by Daron Acemoglu and James A. Robinson (556pg)](https://www.amazon.com/Why-Nations-Fail-Origins-Prosperity-ebook/dp/B007HLIUN4)
 
 **Medicine**
 
@@ -123,23 +125,23 @@ I list books finished from January 2021 onwards, categorized by genre. Books re-
 
 Last update: 05/09/23
 
-| Statistics     | Total | 2021 | 2022 | 2023 |  KPI  |
+| Statistics     |  KPI  | 2021 | 2022 | 2023 | Total |
 | :------------- | :---: | :--: | :--: | :--: | :---: |
-| # Days         |  977  | 365  | 365  | 247  |  365  |
-| # Books        |  61   |  22  |  19  |  20  |  25   |
-| # Pages        | 23674 | 7386 | 8171 | 8117 | 10000 |
-| # Pages / Book |  388  | 336  | 430  | 406  |  400  |
-| # Pages / Day  |  24   |  20  |  22  |  33  |  27   |
-| # Weeks / Book | 2.29  | 2.37 | 2.74 | 1.76 | 2.09  |
+| # Days         |  365  | 365  | 365  | 268  |  998  |
+| # Books        |  25   |  22  |  19  |  21  |  62   |
+| # Pages        | 10000 | 7386 | 8171 | 8673 | 24230 |
+| # Pages / Book |  400  | 336  | 430  | 413  |  391  |
+| # Pages / Day  |  27   |  20  |  22  |  32  |  24   |
+| # Weeks / Book | 2.09  | 2.37 | 2.74 | 1.82 | 2.30  |
 
-| Categories                | Total | 2021 | 2022 | 2023 |
-| :------------------------ | :---: | :--: | :--: | :--: |
-| Biographies & Memoirs     |   8   |  1   |  3   |  4   |
-| Business & Money          |  16   |  6   |  5   |  5   |
-| Fiction                   |  10   |  8   |  1   |  1   |
-| History                   |   5   |  0   |  4   |  1   |
-| Medicine                  |   4   |  0   |  4   |  0   |
-| Lifestyle                 |   9   |  2   |  2   |  5   |
-| Politics & Social Science |   9   |  5   |  0   |  4   |
+| Categories                | 2021 | 2022 | 2023 | Total |
+| :------------------------ | :--: | :--: | :--: | :---: |
+| Biographies & Memoirs     |  1   |  3   |  4   |   8   |
+| Business & Money          |  6   |  5   |  5   |  16   |
+| Fiction                   |  8   |  1   |  1   |  10   |
+| History                   |  0   |  4   |  1   |   6   |
+| Medicine                  |  0   |  4   |  0   |   4   |
+| Lifestyle                 |  2   |  2   |  5   |   9   |
+| Politics & Social Science |  5   |  0   |  4   |   9   |
 
 Disclaimer: Page-related statistics use page counts published in Amazon listings. These may include acknowledgements, notes, and references. Subsequently, page-related statistics are approximations.
