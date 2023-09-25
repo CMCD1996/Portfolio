@@ -27,7 +27,7 @@ In 2020, I led the University of Auckland Investment Club (UAIC) as Co-President
 
 ![Annual Report](/assets/images/ar.png)
 
-I created an annual report intending to document our team's achievements and provide our successors a benchmark for future years. Click [here]({{ site.url }}/downloads/uaic-annual-report-2020.pdf) to view competition.
+I created an annual report intending to document our team's achievements and provide our successors a benchmark for future years. Click [here]({{ site.url }}/downloads/uaic-annual-report-2020.pdf) to view report.
 
 ### **Competitions**
 
