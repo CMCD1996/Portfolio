@@ -41,9 +41,17 @@ Figure 1 best highlights evolving investor sentiment, given the visceral anxieti
 
 ### **Portfolio Website**
 
-TBC
+I developed this website using a combination of simple yet intuitive technologies. It is a simple, static blog-aware website using [Jeklyll](https://jekyllrb.com/docs/); a set of [Ruby](https://www.ruby-lang.org/en/) programs distributed via gems by package manager [RubyGems](https://rubygems.org).
 
-![Cooking](assets/images/food.png)
+RubyGems is the preferred package installer for Ruby, equivalent to PIP being the package manager for installing Python packages from the [Python Package Index (PyPI)](https://pypi.org). A GemFile lists the exact set of Ruby programs required to build the website with specified versions and constraints to avoid dependency issues. [Bundler](https://bundler.io) manages both development and staging phases in the software development cycle, executed using terminal commands.
+
+I host the development server locally when building new versions of the website. Markdown files describe content, both linking to assets e.g., images, documents etc., and referencing defined HTML & CSS templates. New builds leverage latests versions of [Markdown](https://www.markdownguide.org), [Liquid](https://shopify.github.io/liquid/), [HTML](https://en.wikipedia.org/wiki/HTML), and [CSS](https://en.wikipedia.org/wiki/CSS) files stored locally to generate deployment-ready websites. I leverage [Git](https://git-scm.com) and [GitHub](https://github.com) for distributed version control and software development, respectively.
+
+I deploy new builds to a production server using [GitHub pages](https://pages.github.com); a service hosted directly from a GitHub repository. Furthemore, I connect this website to a registered domain and implement basic cybersecurity measures to mitigate [DDoS](<https://www.cloudflare.com/learning/ddos/what-is-a-ddos-attack/#:~:text=A%20distributed%20denial%2Dof%2Dservice%20(DDoS)%20attack%20is,a%20flood%20of%20Internet%20traffic.>) risk using [Cloudflare](https://www.cloudflare.com).
+
+![Cuisine](assets/images/food.png)
+
+### **Cooking**
 
 I spent the 2020/2021 summer practising my cooking skills, preparing the following meals.
 
