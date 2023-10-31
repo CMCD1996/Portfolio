@@ -5,7 +5,7 @@ title: Literature
 
 ### **Currently Reading**
 
-1. [Steve Jobs by Walter Isaacson (656pg)](https://www.amazon.com/Steve-Jobs-Walter-Isaacson/dp/1451648537)
+1. [The Smartest Guys In The Room: The Amazing Rise and Scandalous Fall of Enron by Bethany McLean (440pg)](https://www.amazon.com.au/Smartest-Guys-Room-Amazing-Scandalous/dp/1591840538)
 
 ### **Upcoming Reading**
 
@@ -17,10 +17,11 @@ title: Literature
 
 1. [Grit: The Power of Passion and Perseverance by Angela Duckworth (352pg)](https://www.amazon.com/Grit-Passion-Perseverance-Angela-Duckworth/dp/1501111108)
 2. [To Kill a Mockingbird by Harper Lee (384pg)](https://www.amazon.com/Kill-Mockingbird-Harper-Lee/dp/0446310786)
-3. [Too Big to Fail: The Inside Story of How Wall Street and Washington Fought to Save the Financial System and Themselves by Andrew Ross Sorkin (640pg)](https://www.amazon.com/Too-Big-Fail-Washington-System/dp/0143118242)
-4. [Lords of Finance: The Bankers Who Broke the World by Liaquat Ahamed (576pg)](https://www.amazon.com/Lords-Finance-Bankers-Broke-World/dp/0143116800)
+3. [Being Mortal by Atul Gawande (282pg)](https://www.amazon.com/Being-Mortal-Illness-Medicine-Matters/dp/1250081246)
+4. [Steve Jobs by Walter Isaacson (656pg)](https://www.amazon.com/Steve-Jobs-Walter-Isaacson/dp/1451648537)
 5. [Bad Blood: Secrets and Lies in a Silicon Valley Startup by John Carreyrou (352pg)](https://www.amazon.com/Bad-Blood-Secrets-Silicon-Startup/dp/152473165X)
-6. [Being Mortal by Atul Gawande (282pg)](https://www.amazon.com/Being-Mortal-Illness-Medicine-Matters/dp/1250081246)
+6. [Too Big to Fail: The Inside Story of How Wall Street and Washington Fought to Save the Financial System and Themselves by Andrew Ross Sorkin (640pg)](https://www.amazon.com/Too-Big-Fail-Washington-System/dp/0143118242)
+7. [Lords of Finance: The Bankers Who Broke the World by Liaquat Ahamed (576pg)](https://www.amazon.com/Lords-Finance-Bankers-Broke-World/dp/0143116800)
 
 ### **Recommendations from Friends, Family, & Mentors**
 
