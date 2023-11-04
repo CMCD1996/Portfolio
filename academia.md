@@ -102,7 +102,7 @@ In summary:
 
 ### **Infrastucture & Programming**
 
-I used [Google's Cloud Platform](https://cloud.google.com/?hl=en) to manage datasets, train, validate, and test models. Cryptographic network protocols in the form of secure shells established remove connections from a local machine to the virtual machine to execute commands.
+I used [Google's Cloud Platform](https://cloud.google.com/?hl=en) to manage datasets and develop model. Cryptographic network protocols in the form of secure shells established remove connections from a local machine to the virtual machines to execute commands. Furthermore, I utilized [NVIDIA's](https://www.nvidia.com/en-us/) [CUDA toolkit](https://developer.nvidia.com/cuda-toolkit), a development environment for creating high performance GPU accelerated applications, to optimise GPU performance and provision for parallelization. [CUDA Python](https://developer.nvidia.com/cuda-python) granted access to the toolkit using Cython/Python wrappers for CUDA driver and runtime APIs, installable with [PIP](https://pypi.org/project/pip/).
 
 1. Set up a virtual machine on Google Cloud's Compute Engine. The instance was a n1-standard-8 machine with an Intel Broadwell Central Processing Unit (CPU) and a NVIDIA Tesla K80 Graphics Processing Unit (GPU).
 2. Set up Google Cloud Storage buckets to store and manage large datasets.
