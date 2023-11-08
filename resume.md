@@ -139,7 +139,7 @@ My resume includes personal details, employment history, leadership, service, ac
 
 # **Projects & skills**
 
-### **Deep Neural Networks & Asset Pricing**
+### **Deep Neural Networks & Long-Short Equity Investment Strategies**
 
 - Configured deep neural networks with finance-specific loss functions evaluating reconfigured algorithms ability to outperform standard configurations when predicting alpha in long-short equity trading strategies. This project leveraged open-resource framworks and cloud computing resources including Tensorflow, Google's Cloud Platform, NVIDIA's CUDA Toolkit, Neptune.ai's MLOps platform, & Git.
 
@@ -161,11 +161,12 @@ My resume includes personal details, employment history, leadership, service, ac
 
 ### **Programming**
 
-- Proficient in Python, MATLAB, VBA, AMPL, Jekyll, Git and GitHub.
+- Full professional proficiency in Python, SQL, MATLAB, Jekyll, VBA, AMPL & Git.
+- Limited working proficiency in Ruby, Ruby on Rails, C++, HTML CSS, Java, & Javascript.
 
 ### **Mathematical Modelling**
 
-- Modelled the qualitative behaviour of Ordinary Differential Equation (ODE) systems and used computational techniques to model solid mechanisms and fluid dynamics.
+- Full professional proficiency in ordinary & partial differential equation modelling, heuristics, numerical analysis, mathematical optimization, data science & engineering, symbolic programming, linear algebra, & tensor calculus.
 
 # **Extra-curriculars**
 
