@@ -7,8 +7,6 @@ title: CV
 
 My resume includes personal details, employment history, leadership, service, academic achievements, awards, projects, skills and extracurricular activities.
 
-You can review my extended resume below or download a two-page copy [here.]({{ site.url }}/downloads/resume.pdf)
-
 ## **Personal details**
 
 - Degree: Bachelor of Commerce (Honours, Finance) / Bachelor of Engineering (Honours, Engineering Science) Conjoint
@@ -35,21 +33,19 @@ You can review my extended resume below or download a two-page copy [here.]({{ s
 
 ## **Employment history**
 
+### **Family Office | Investment Analyst (2022 - Present)**
+
+- Multi-Strategy Single Family Office actively investing in venture capital, private equity, listed equities, and real estate.
+
 ### **Aurecon New Zealand | Consultant – Future Energy (2021)**
 
-- Conduct commercial and technical due diligence using geographic information systems, financial modelling, computer programming, and data science to inform renewable energy and infrastructure investment.
-
-### **Summer Career Break (2020 - 2021)**
-
-- Took a break over summer to support my family after a difficult year.
+- Conducted commercial and technical due diligence to inform renewable energy and infrastructure investments using geographic information systems, financial modelling, computer programming, and data science.
 
 ### **ExxonMobil Australia | Engineering Vacation Student - Upstream Commercial (2019-2020)**
 
 - Built an Excel-based optimisation model to forecast the production capabilities of ExxonMobil’s ~$3B (AUD) share of the Gippsland Basin Joint Venture assets. The model analyses the quantities of gas available for sale, informs ExxonMobil’s Victorian gas marketing strategy, and considers separate gas balancing agreements.
 
 - Built an Excel-based 3rd party storage optimisation model to optimise ExxonMobil’s sales strategy from an onshore storage facility. The model compares different sales strategies, informs how to maximise gas revenue, and ensures ExxonMobil meet their gas storage contractual obligations.
-
-- Discussed geopolitical strategies, the drilling of new wells in the Gippsland Basin and competitive pricing strategies in weekly team meetings.
 
 - Completed Heli-Sea, Onshore, Offshore, and Fire Fighting training.
 
@@ -143,9 +139,13 @@ You can review my extended resume below or download a two-page copy [here.]({{ s
 
 # **Projects & skills**
 
+### **Deep Neural Networks & Asset Pricing**
+
+- Configured deep neural networks with finance-specific loss functions evaluating reconfigured algorithms ability to outperform standard configurations when predicting alpha in long-short equity trading strategies. This project leveraged open-resource framworks and cloud computing resources including Tensorflow, Google's Cloud Platform, NVIDIA's CUDA Toolkit, Neptune.ai's MLOps platform, & Git.
+
 ### **Global Carbon Pricing Optimisation Model (2020 - 2021)**
 
-- Building a model to inform energy investments across user-defined geographies. The model intends to inform policy and investment in sustainable technologies. The model is built using Python, Excel, GNU Mathprog and IBM Watson Machine Learning services.
+- Built a model to inform energy investments across user-defined geographies. The model intended to inform policy and investment in sustainable technologies. The model is built using Python, Excel, and GNU Mathprog leveraging IBM Watson Machine Learning services.
 
 ### **Prototype Wind Turbine (2018)**
 
