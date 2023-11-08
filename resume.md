@@ -35,7 +35,7 @@ My resume includes personal details, employment history, leadership, service, ac
 
 ### **Family Office | Investment Analyst (2022 - Present)**
 
-- Multi-Strategy Single Family Office actively investing in venture capital, private equity, listed equities, and real estate.
+- Multi-Strategy Single Family Office actively investing in venture capital, private equity, listed markets, and real estate.
 
 ### **Aurecon New Zealand | Consultant – Future Energy (2021)**
 
