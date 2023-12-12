@@ -5,7 +5,7 @@ title: Literature
 
 ### **Currently Reading**
 
-1. [The Smartest Guys In The Room: The Amazing Rise and Scandalous Fall of Enron by Bethany McLean (440pg)](https://www.amazon.com.au/Smartest-Guys-Room-Amazing-Scandalous/dp/1591840538)
+1. [The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses by Eric Ries (304pg)](https://www.amazon.com.au/Lean-Startup-Eric-Ries/dp/0307887898)
 
 ### **Upcoming Reading**
 
@@ -70,6 +70,8 @@ I list books finished from January 2021 onwards, categorized by genre. Books re-
 14. [Freakonomics by Steven D. Levitt and Stephen J. Dubner (336pg)](https://www.amazon.com.au/Freakonomics-Stephen-J-Dubner/dp/0060731338)
 15. [Big Debt Crises by Ray Dalio (300 pg)](https://www.amazon.com/Big-Debt-Crises-Ray-Dalio/dp/1732689806)
 16. [SuperFreakonomics: Global Cooling, Patriotic Prostitutes, and Why Suicide Bombers Should Buy Life Insurance by by Steven D. Levitt and Stephen J. Dubner (320pg)](https://www.amazon.com/SuperFreakonomics-Cooling-Patriotic-Prostitutes-Insurance/dp/0060889586)
+17. [The Smartest Guys In The Room: The Amazing Rise and Scandalous Fall of Enron by Bethany McLean (440pg)](https://www.amazon.com.au/Smartest-Guys-Room-Amazing-Scandalous/dp/1591840538)
+18. [The AI-First Company: How to Compete and Win with Artificial Intelligence by Ash Fontana (304pg)](https://www.amazon.com/AI-First-Company-Compete-Artificial-Intelligence/dp/0593330315)
 
 **Fiction**
 
@@ -110,6 +112,7 @@ I list books finished from January 2021 onwards, categorized by genre. Books re-
 6. [What Happened to You?: Conversations on Trauma, Resilience, and Healing by Oprah Winfrey & Bruce D. Perry (304pg)](https://www.amazon.com/What-Happened-You-Understanding-Resilience/dp/1250223180)
 7. [Attached: The New Science of Adult Attachment and How It Can Help You Find, and Keep, Love by Amir Levine & Rachel Heller (304pg)](https://www.amazon.com/Attached-Science-Adult-Attachment-YouFind/dp/1585429139)
 8. [The Good Life: Lessons from the World's Longest Scientific Study of Happiness by by Robert Waldinger M.D. and Marc Schulz Ph.D (352pg)](https://www.amazon.com/Good-Life-Lessons-Scientific-Happiness/dp/198216669X)
+9. [Money and Love: An Intelligent Roadmap for Life's Biggest Decisions by Myra Strober and Abby Davisson (320pg)](https://www.amazon.com.au/Money-Love-Intelligent-Roadmap-Decisions/dp/0063117517)
 
 **Politics & Social Science**
 
@@ -124,25 +127,25 @@ I list books finished from January 2021 onwards, categorized by genre. Books re-
 
 ### **KPIs & Statistics**
 
-Last update: 05/09/23
+Last update: 13/12/23
 
 | Statistics     |  KPI  | 2021 | 2022 | 2023 | Total |
 | :------------- | :---: | :--: | :--: | :--: | :---: |
-| # Days         |  365  | 365  | 365  | 268  |  998  |
-| # Books        |  25   |  22  |  19  |  21  |  62   |
-| # Pages        | 10000 | 7386 | 8171 | 8673 | 24230 |
-| # Pages / Book |  400  | 336  | 430  | 413  |  391  |
-| # Pages / Day  |  27   |  20  |  22  |  32  |  24   |
-| # Weeks / Book | 2.09  | 2.37 | 2.74 | 1.82 | 2.30  |
+| # Days         |  365  | 365  | 365  | 346  | 1076  |
+| # Books        |  25   |  22  |  19  |  24  |  65   |
+| # Pages        | 10000 | 7386 | 8171 | 9721 | 25278 |
+| # Pages / Book |  400  | 336  | 430  | 405  |  389  |
+| # Pages / Day  |  27   |  20  |  22  |  28  |  23   |
+| # Weeks / Book | 2.09  | 2.37 | 2.74 | 2.06 | 2.36  |
 
 | Categories                | 2021 | 2022 | 2023 | Total |
 | :------------------------ | :--: | :--: | :--: | :---: |
 | Biographies & Memoirs     |  1   |  3   |  4   |   8   |
-| Business & Money          |  6   |  5   |  5   |  16   |
+| Business & Money          |  6   |  5   |  7   |  18   |
 | Fiction                   |  8   |  1   |  1   |  10   |
-| History                   |  0   |  4   |  1   |   6   |
+| History                   |  0   |  4   |  2   |   6   |
 | Medicine                  |  0   |  4   |  0   |   4   |
-| Lifestyle                 |  2   |  2   |  5   |   9   |
+| Lifestyle                 |  2   |  2   |  6   |  10   |
 | Politics & Social Science |  5   |  0   |  4   |   9   |
 
 Disclaimer: Page-related statistics use page counts published in Amazon listings. These may include acknowledgements, notes, and references. Subsequently, page-related statistics are approximations.
