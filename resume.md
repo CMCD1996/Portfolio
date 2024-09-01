@@ -9,9 +9,9 @@ My resume includes personal details, employment history, leadership, service, ac
 
 ## **Personal details**
 
-- Bachelor of Engineering (Honours, Engineering Science) | **GPA 8.17, First Class**
+- Bachelor of Engineering (Honours, Engineering Science); **GPA 8.17**, First Class
 
-- Bachelor of Commerce (Honours, Finance) | **GPA 8.25, First Class**
+- Bachelor of Commerce (Honours, Finance); **GPA 8.25**, First Class
 
 - University of Auckland (2015 - 2021)
 
@@ -27,7 +27,8 @@ My resume includes personal details, employment history, leadership, service, ac
 
 ## **Employment history**
 
-### **Zeil Technology Services Limited | Data Scientist (Full-Time, Jan 24 - Present)**
+### **Zeil Technology Services Limited | Data Scientist**
+Full-Time, Jan 24 - Present
 
 - Lead data pipeline and warehouse architecture. I manage our extract, load, and transform processes to transfer transactional data into new schemas for analysis conducive to marketing and commercial purposes using various technologies including PostgreSQL, DBT, Amazon Web Services, and Google Big Query.
 
@@ -49,11 +50,11 @@ My resume includes personal details, employment history, leadership, service, ac
 
 - Completed technical and commercial due diligence on residential and commercial real estate developments, including analyzing commercial leases, modelling development scenarios, forecasting project finances, and assuring home automation and electrical system quality.
 
-### **Aurecon New Zealand | Consultant – Future Energy (Part-Time, Sep 21 - Dec 21)**
+### **Aurecon New Zealand | Consultant - Future Energy (Part-Time, Sep 21 - Dec 21)**
 
 - Completed commercial and technical due diligence to inform renewable energy and infrastructure investment. I built financial models, developed Python scripts for analytical purposes, and used geographic information systems.
 
-### **ExxonMobil Australia | Engineering Vacation Student - Upstream Commercial (Internship, Nov 19 - Feb 20)**
+### **ExxonMobil Australia | Engineer - Upstream Commercial (Internship, Nov 19 - Feb 20)**
 
 - Built an Excel-based optimization model to forecast the production capabilities of ExxonMobil's ~$3B (AUD) share of the Gippsland Basin Joint Venture assets. The model analyzed the gas volumes available for sale, informed ExxonMobil's Victorian gas marketing strategy, and considered separate gas balancing agreements.
 
@@ -61,11 +62,11 @@ My resume includes personal details, employment history, leadership, service, ac
 
 - Completed Heli-Sea, Onshore, Offshore, and Fire Fighting training.
 
-### **Deloitte New Zealand | Management Consulting Analyst (Internship, Nov 18 - Feb 19)**
+### **Deloitte New Zealand | Analyst - Management Consulting (Internship, Nov 18 - Feb 19)**
 
 - Built Excel-based models and completed data analysis to monitor fixed asset schedules, assess financial performance from commercial real estate investments, and develop a new operating model to improve education equity for various public sector clients.
 
-### **Deloitte New Zealand | Corporate Finance Analyst (Internship, Nov 17 - Feb 18)**
+### **Deloitte New Zealand | Analyst - Corporate Finance (Internship, Nov 17 - Feb 18)**
 
 - Prepared two proposals valuing domestic and international education's impact on the Aotearoa New Zealand economy, developed an operating cost model to forecast construction costs for community housing providers, and assessed the financial risk of a critical supplier for a public sector client.
 
@@ -88,11 +89,11 @@ My resume includes personal details, employment history, leadership, service, ac
 - Co-led a team of 17 who ran investing and
 finance initiatives for 400 undergraduate students. I managed strategic partnerships, created three new competitions focusing on equity valuation, venture capital, and M&A strategy, created our Women Engagement Initiative, and oversaw the Investment Committee managing our NZD 25,000 investment fund.
 
-### **Student Representative | Dean's Executive Committee for the Faculty of Engineering (Jun 18 - Dec 19)**
+### **Student Representative | Dean's Executive Committee - Faculty of Engineering (Jun 18 - Dec 19)**
 
 - Represented the entire student body of approximately 4,000 undergraduate students on the Dean's Executive Committee. I actively contributed to our faculty's commercial and strategic interests, including our long-term strategy, capital expansion, innovation programs, and equity initiatives.
 
-### **Sir Colin Maiden Scholar | Dean's Leadership Program for the Faculty of Engineering (Jun 17 - Dec 17)**
+### **Sir Colin Maiden Scholar | Dean's Leadership Program - Faculty of Engineering (Jun 17 - Dec 17)**
 
 - Selected as one of 30 undergraduate engineering students for collective mentorship and leadership training from several of Aotearoa New Zealand's top engineering minds, exploring an engineer's role in society and responsibility in leading interdisciplinary teams to solve complex issues.
 
@@ -118,11 +119,11 @@ finance initiatives for 400 undergraduate students. I managed strategic partners
 
 - Recognized for outstanding innovation achievement as a Case Program team member, developing branding and growth strategies for Line Mobile and Sea Thailand. We placed third globally against 20 competitors at Chulalongkorn University's 2019 International Business Case Competition in Koh Samui, Thailand. I led our strategy implementation and financing.
 
-### **University of Auckland EY Business Student of the Year – Finalist (2020-21)**
+### **Finalist | University of Auckland EY Business Student of the Year (May 21)**
 
 - Recognised as one of the top seven University of Auckland Undergraduate Business School Students who display excellence in academic performance, communication skills, community service, extra-curricular activities, and knowledge of world issues.
 
-### **INFINZ Scholarship (Jun 19)**
+### **INFINZ Scholarship | INFINZ (Jun 19)**
 
 - Selected as one of twelve students across New Zealand to attend the INFINZ Conference and meet the INFINZ board.
 
@@ -170,7 +171,7 @@ finance initiatives for 400 undergraduate students. I managed strategic partners
 
 - Completed the Tauranga Half 2019, Ironman New Zealand 2019, Ironman 70.3 Sunshine Coast 2019, and Ironman 70.3 New Zealand 2022. In Ironman New Zealand 2019, I was among 30 in the 18-24 age group to complete 4km swim, 180km bike and 42km run.
 
-### **Senior Analyst | University of Auckland Investment Club Investment Committee (Jun 19 - Dec 19)**
+### **Senior Analyst | University of Auckland Investment Club (Jun 19 - Dec 19)**
 
 - Pitched stocks, valued equities and engaged in weekly discussions about companies, industries, and markets. I prepared investment analysis on, and invested in, Spark New Zealand (NZE: SPK) and Sea Limited (NYSE: SE).
 
