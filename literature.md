@@ -92,8 +92,7 @@ I list books finished from January 2021 onwards, categorized by genre. Books re-
 2. [Lords of Finance: The Bankers Who Broke the World by Liaquat Ahamed (576pg)](https://www.amazon.com/Lords-Finance-Bankers-Broke-World/dp/0143116800)
 3. [Asian Godfathers: Money & Power in Hong Kong & Southeast Asia by Joe Studwell (368pg)](https://www.amazon.com/Asian-Godfathers-Money-Power-Southeast/dp/0802143911)
 4. [Capital in the 21st Century by Thomas Piketty (816 pg)](https://www.amazon.com/Capital-Twenty-First-Century-Thomas-Piketty/dp/0674979850)
-5. [Wild Swans: Three Daughters of China by Jung Chang (538pg)](https://www.amazon.com/Wild-Swans-Three-Daughters-China/dp/0743246985)
-6. [Why Nations Fail: The Origins of Power, Prosperity and Poverty by Daron Acemoglu and James A. Robinson (556pg)](https://www.amazon.com/Why-Nations-Fail-Origins-Prosperity-ebook/dp/B007HLIUN4)
+5. [Why Nations Fail: The Origins of Power, Prosperity and Poverty by Daron Acemoglu and James A. Robinson (556pg)](https://www.amazon.com/Why-Nations-Fail-Origins-Prosperity-ebook/dp/B007HLIUN4)
 
 **Medicine**
 
